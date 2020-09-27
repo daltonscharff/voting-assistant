@@ -11,7 +11,7 @@ class Database {
 
     connect(): Promise<void> {
         return new Promise((resolve, reject) => {
-            this.db = new sqlite3.Database("./db/voting.db", (err) => {
+            this.db = new sqlite3.Database("./src/db/voting.db", (err) => {
                 if (err) {
                     console.error("Could not connect to database");
                     reject();

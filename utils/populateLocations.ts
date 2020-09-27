@@ -103,7 +103,7 @@ function sleep(ms: number) {
     return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-const csvLocation = "./db/votingLocations.csv";
+const csvLocation = "./src/db/votingLocations.csv";
 
 (async () => {
     db.connect();
