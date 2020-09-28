@@ -1,7 +1,7 @@
 import { Request, Response } from "express";
 import { getDistance, orderByDistance } from "geolib";
 import db from "../db/db";
-import { getCoordinates } from "../../utils/populateLocations";
+import { getCoordinates } from "../utils/populateLocations";
 
 async function handleGet(req: Request, res: Response): Promise<void> {
     const zipCode = req.query.zipCode?.toString() || req.params.zipCode.toString();

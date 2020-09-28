@@ -1,4 +1,4 @@
-import db from "../src/db/db";
+import db from "../db/db";
 import parse from "csv-parse/lib/sync";
 import fs from "fs/promises";
 import sqlite3 from "sqlite3";
