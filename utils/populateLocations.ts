@@ -64,13 +64,13 @@ async function loadLocationIntoTable(db: sqlite3.Database, location: any): Promi
     });
 }
 
-async function getLatAndLong(location: {
-    name: string,
-    address: string,
-    city: string,
+async function getCoordinates(location: {
+    name?: string,
+    address?: string,
+    city?: string,
     zip_code: string
 }) {
-    if (location.name.toLowerCase() === "wilmer community center") return { latitude: 32.589828, longitude: -96.684952 }
+    if (location.name && location.name!.toLowerCase() === "wilmer community center") return { latitude: 32.589828, longitude: -96.684952 }
 
 
     const baseUrl = "https://forward-reverse-geocoding.p.rapidapi.com/v1/forward?"
@@ -80,16 +80,17 @@ async function getLatAndLong(location: {
         "useQueryString": "true"
     };
 
-    const params = qs.encode({
-        street: location.address,
-        city: location.city,
-        state: "TX",
+    const params: any = {
         country: "United States",
         postalcode: location.zip_code,
         format: "json"
-    });
+    };
+    if (location.address) params["street"] = location.address;
+    if (location.city) params["city"] = location.address;
 
-    const res = await (await fetch(baseUrl + params, {
+    const querystring = qs.encode(params);
+
+    const res = await (await fetch(baseUrl + querystring, {
         headers
     })).json();
 
@@ -105,25 +106,30 @@ function sleep(ms: number) {
 
 const csvLocation = "./src/db/votingLocations.csv";
 
-(async () => {
-    db.connect();
-    await db.dropTable("locations");
-    await createLocationsTable(db.db!);
-    const locations = await loadLocationsFromFile(csvLocation);
+if (require.main === module) {
+    (async () => {
+        db.connect();
+        await db.dropTable("locations");
+        await createLocationsTable(db.db!);
+        const locations = await loadLocationsFromFile(csvLocation);
 
-    for (let location of locations) {
-        try {
-            const { latitude, longitude } = await getLatAndLong(location);
-            // console.log(location.name, latitude, longitude);
-            await sleep(334);
-            loadLocationIntoTable(db.db!, {
-                ...location,
-                latitude,
-                longitude
-            });
-        } catch (e) {
-            console.error("Error finding latitude and longitude:", location.name);
-            loadLocationIntoTable(db.db!, location);
+        for (let location of locations) {
+            try {
+                const { latitude, longitude } = await getCoordinates(location);
+                // console.log(location.name, latitude, longitude);
+                await sleep(334);
+                loadLocationIntoTable(db.db!, {
+                    ...location,
+                    latitude,
+                    longitude
+                });
+            } catch (e) {
+                console.error("Error finding latitude and longitude:", location.name);
+                loadLocationIntoTable(db.db!, location);
+            }
         }
-    }
-})();
+    })();
+}
+
+
+export { getCoordinates };

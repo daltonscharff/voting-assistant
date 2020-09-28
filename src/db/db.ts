@@ -38,12 +38,39 @@ class Database {
         });
     }
 
+    getAllCoordinates(): Promise<any[] | void> {
+        return new Promise((resolve, reject) => {
+            this.db!.all(`SELECT latitude, longitude FROM locations;`, (err, rows) => {
+                if (err) {
+                    console.error(`Could not SELECT on locations`);
+                    reject();
+                } else {
+                    resolve(rows);
+                }
+            });
+        });
+    }
+
+    getLocationFromCoordinates(coordinates: { latitude: number, longitude: number }): Promise<any> {
+        return new Promise((resolve, reject) => {
+            this.db!.get(`SELECT * FROM locations WHERE latitude = ? AND longitude = ?;`, [coordinates.latitude, coordinates.longitude], (err, row) => {
+                if (err) {
+                    console.error(`Could not SELECT on locations`);
+                    reject();
+                } else {
+                    resolve(row);
+                }
+            });
+        });
+    }
+
+
+
     dropTable(tableName: string): Promise<void> {
         return new Promise((resolve, reject) => {
             this.db!.run(`DROP TABLE IF EXISTS ${tableName};`, (err) => {
                 if (err) {
                     console.error(`Could not drop table: ${tableName}`);
-                    console.error(err);
                     reject();
                 } else {
                     console.log(`Dropped table: ${tableName}`)
