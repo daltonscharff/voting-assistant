@@ -1,5 +1,5 @@
 import { Request, Response } from "express";
-import { getDistance, orderByDistance } from "geolib";
+import { orderByDistance } from "geolib";
 import db from "../db/db";
 import { getCoordinates } from "../utils/populateLocations";
 
@@ -9,11 +9,6 @@ async function handleGet(req: Request, res: Response): Promise<void> {
 
     if (limit > 5 || limit < 1) limit = 3;
     if (!zipCode) res.sendStatus(422);
-
-
-    // get zipcode coordinates
-    // get list of voting place coordinates from db
-    // orderByDistance and return result
 
     const zipCoords = await getCoordinates({ zip_code: zipCode });
     const allCoords = await db.getAllCoordinates() || [];
@@ -25,7 +20,5 @@ async function handleGet(req: Request, res: Response): Promise<void> {
 
     res.send({ zipCode, topNLocations, limit });
 }
-
-
 
 export { handleGet };
