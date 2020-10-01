@@ -116,7 +116,6 @@ if (require.main === module) {
         for (let location of locations) {
             try {
                 const { latitude, longitude } = await getCoordinates(location);
-                // console.log(location.name, latitude, longitude);
                 await sleep(334);
                 loadLocationIntoTable(db.db!, {
                     ...location,

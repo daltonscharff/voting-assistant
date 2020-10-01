@@ -1,22 +1,19 @@
-import { Request, Response } from "express";
-import { twiml } from "twilio";
+import { getPollingLocations } from "./findPollingLocations.controller";
 
-function handlePost(req: Request, res: Response) {
-    console.log("request params:", req.params);
-    console.log("request body:", req.body);
+async function generateResponse(message: string): Promise<string> {
+    message = message.toLowerCase();
 
-    const sms = new twiml.MessagingResponse();
-    sms.message("Message received");
+    const zipMatches: string[] | null = message.match(/\d{5}/);
 
-    res.writeHead(200, { 'Content-Type': 'text/xml' });
-    res.end(sms.toString());
+    if (zipMatches && zipMatches.length == 1) {
+        const zipCode = zipMatches[0];
+        const locations: any[] = await getPollingLocations(zipCode, 3);
+        const locationsStrings = locations.map((location) => `${location.name}, ${location.room}\n${location.address}`)
+        return `I found the following voting locations nearby:\n${locationsStrings.join("\n\n")}`;
+    } else if (message === "vote" || message === "help") {
+        return "Hi, I'm your Dallas County voting assistant. I can provide you with your 3 nearest polling locations. To begin, please respond with your ZIP code.";
+    }
+    return "I'm sorry. I didn't understand that. Type 'help' to see what I can do."
 }
 
-function fallback(req: Request, res: Response) {
-    const sms = new twiml.MessagingResponse();
-    sms.message("Something went wrong. Please try again.");
-    res.writeHead(200, { 'Content-Type': 'text/xml' });
-    res.end(sms.toString());
-}
-
-export { handlePost, fallback };
+export { generateResponse };
