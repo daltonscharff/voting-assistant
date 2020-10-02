@@ -1,6 +1,7 @@
 ### Custom
 .vscode
 *.env
+*.db
 
 ### https://github.com/github/gitignore/blob/master/Node.gitignore
 # Logs
