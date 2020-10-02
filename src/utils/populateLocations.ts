@@ -69,8 +69,8 @@ async function getCoordinates(location: {
     address?: string,
     city?: string,
     zip_code: string
-}) {
-    if (location.name && location.name!.toLowerCase() === "wilmer community center") return { latitude: 32.589828, longitude: -96.684952 }
+}): Promise<{ latitude: string, longitude: string } | void> {
+    if (location.name && location.name!.toLowerCase() === "wilmer community center") return { latitude: "32.589828", longitude: "-96.684952" }
 
 
     const baseUrl = "https://forward-reverse-geocoding.p.rapidapi.com/v1/forward?"
@@ -94,9 +94,13 @@ async function getCoordinates(location: {
         headers
     })).json();
 
-    return {
-        latitude: res[0].lat,
-        longitude: res[0].lon
+    if (res[0]) {
+        return {
+            latitude: res[0].lat,
+            longitude: res[0].lon
+        }
+    } else {
+        return;
     }
 }
 
@@ -115,7 +119,7 @@ if (require.main === module) {
 
         for (let location of locations) {
             try {
-                const { latitude, longitude } = await getCoordinates(location);
+                const { latitude, longitude } = await getCoordinates(location) || {};
                 await sleep(334);
                 loadLocationIntoTable(db.db!, {
                     ...location,

@@ -11,9 +11,13 @@ router.route("/")
         let limit: any = req.query.n || req.query.limit || 3;
         if (limit > 5 || limit < 1) limit = 3;
 
-        const locations: string[] = await getPollingLocations(zipCode, limit);
+        const locations: string[] | null = await getPollingLocations(zipCode, limit);
 
-        res.send(locations);
+        if (locations) {
+            res.send(locations);
+        } else {
+            res.sendStatus(422);
+        }
     });
 
 router.route("/:zipCode")
@@ -24,9 +28,13 @@ router.route("/:zipCode")
         let limit: any = req.query.n || req.query.limit || 3;
         if (limit > 5 || limit < 1) limit = 3;
 
-        const locations: string[] = await getPollingLocations(zipCode, limit);
+        const locations: string[] | null = await getPollingLocations(zipCode, limit);
 
-        res.send(locations);
+        if (locations) {
+            res.send(locations);
+        } else {
+            res.sendStatus(422);
+        }
     });
 
 export { router as default };

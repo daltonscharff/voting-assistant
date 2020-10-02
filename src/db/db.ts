@@ -38,6 +38,32 @@ class Database {
         });
     }
 
+    getRateLimitCount(from: string, period: string = "-1 day"): Promise<any | void> {
+        return new Promise((resolve, reject) => {
+            this.db!.get(`SELECT COUNT(*) AS count FROM rate_limit WHERE number = ${from} AND received_at >= DATE('now', '${period}');`, (err, row) => {
+                if (err) {
+                    console.error(`Could not SELECT on rate_limit`);
+                    reject();
+                } else {
+                    resolve(row.count);
+                }
+            });
+        });
+    }
+
+    setRateLimit(from: string): Promise<void> {
+        return new Promise((resolve, reject) => {
+            this.db!.run(`INSERT INTO rate_limit (number) VALUES (?);`, [from], (err) => {
+                if (err) {
+                    console.error(`Could not INSERT INTO rate_limit`);
+                    reject();
+                } else {
+                    resolve();
+                }
+            });
+        });
+    }
+
     getAllCoordinates(): Promise<any[] | void> {
         return new Promise((resolve, reject) => {
             this.db!.all(`SELECT latitude, longitude FROM locations;`, (err, rows) => {
