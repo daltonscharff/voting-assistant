@@ -40,7 +40,7 @@ class Database {
 
     getRateLimitCount(from: string, period: string = "-1 day"): Promise<any | void> {
         return new Promise((resolve, reject) => {
-            this.db!.get(`SELECT COUNT(*) AS count FROM rate_limit WHERE number = ${from} AND received_at >= DATE('now', '${period}');`, (err, row) => {
+            this.db!.get(`SELECT COUNT(*) AS count FROM rate_limit WHERE number = '${from}' AND received_at >= DATETIME('now', '${period}');`, (err, row) => {
                 if (err) {
                     console.error(`Could not SELECT on rate_limit`);
                     reject();
