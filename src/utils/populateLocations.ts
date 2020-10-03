@@ -112,11 +112,11 @@ const csvLocation = "./data/votingLocations.csv";
 
 if (require.main === module) {
     (async () => {
-        db.connect();
+        await db.connect();
         await db.dropTable("locations");
         await createLocationsTable(db.db!);
         const locations = await loadLocationsFromFile(csvLocation);
-
+        console.log("Retrieving location data...");
         for (let location of locations) {
             try {
                 const { latitude, longitude } = await getCoordinates(location) || {};
@@ -131,7 +131,7 @@ if (require.main === module) {
                 loadLocationIntoTable(db.db!, location);
             }
         }
-        db.disconnect();
+        await db.disconnect();
     })();
 }
 

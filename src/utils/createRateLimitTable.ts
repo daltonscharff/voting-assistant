@@ -21,9 +21,9 @@ function createRateLimitTable(db: sqlite3.Database): Promise<void> {
 
 if (require.main === module) {
     (async () => {
-        db.connect();
+        await db.connect();
         await db.dropTable("rate_limit");
         await createRateLimitTable(db.db!);
-        db.disconnect();
+        await db.disconnect();
     })();
 }
