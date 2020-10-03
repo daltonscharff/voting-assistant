@@ -11,7 +11,7 @@ class Database {
 
     connect(): Promise<void> {
         return new Promise((resolve, reject) => {
-            this.db = new sqlite3.Database("./src/db/voting.db", (err) => {
+            this.db = new sqlite3.Database(this.location, (err) => {
                 if (err) {
                     console.error("Could not connect to database");
                     reject();
@@ -107,6 +107,6 @@ class Database {
     }
 }
 
-const db = new Database("./db/voting.db");
+const db = new Database("./data/voting.db");
 
 export { db as default };
