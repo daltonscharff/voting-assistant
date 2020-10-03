@@ -24,5 +24,6 @@ if (require.main === module) {
         db.connect();
         await db.dropTable("rate_limit");
         await createRateLimitTable(db.db!);
+        db.disconnect();
     })();
 }

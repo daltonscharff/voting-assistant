@@ -1,6 +1,6 @@
 import db from "../db/db";
 import parse from "csv-parse/lib/sync";
-import fs from "fs/promises";
+import { promises as fsPromises } from "fs";
 import sqlite3 from "sqlite3";
 import qs from "querystring";
 import fetch from "node-fetch";
@@ -34,7 +34,7 @@ function createLocationsTable(db: sqlite3.Database): Promise<void> {
 
 async function loadLocationsFromFile(filePath: string): Promise<any[]> {
     return await (async () => {
-        const fileContents = await fs.readFile(filePath);
+        const fileContents = await fsPromises.readFile(filePath);
         return parse(fileContents, {
             columns: true,
             escape: "\\",
@@ -131,6 +131,7 @@ if (require.main === module) {
                 loadLocationIntoTable(db.db!, location);
             }
         }
+        db.disconnect();
     })();
 }
 
