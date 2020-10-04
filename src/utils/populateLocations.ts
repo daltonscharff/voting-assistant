@@ -86,7 +86,7 @@ async function getCoordinates(location: {
         format: "json"
     };
     if (location.address) params["street"] = location.address;
-    if (location.city) params["city"] = location.address;
+    if (location.city) params["city"] = location.city;
 
     const querystring = qs.encode(params);
 
