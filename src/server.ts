@@ -13,7 +13,8 @@ app.use("/findPollingLocations", findPollingLocationRouter);
 app.use("/sms", smsRouter);
 
 app.route("/").get((req: express.Request, res: express.Response): void => {
-    res.send({ response: "Ok" });
+    console.log("status: OK")
+    res.send({ status: "Ok" });
 });
 
 db.connect();
