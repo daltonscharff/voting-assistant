@@ -12,8 +12,8 @@ app.use(express.json());
 app.use("/findPollingLocations", findPollingLocationRouter);
 app.use("/sms", smsRouter);
 
-app.route("/").get((req: express.Request, res: express.Response): void => {
-    console.log("status: OK")
+app.route("/").get((_, res: express.Response): void => {
+    console.log("status: OK");
     res.send({ status: "Ok" });
 });
 
