@@ -9,7 +9,7 @@ router.route("/")
     .post(express.urlencoded({ extended: false }),
         rateLimit,
         async (req: Request, res: Response) => {
-            const textResponse = await generateResponse(req.body.Body);
+            const textResponse = await generateResponse(req.body.Body, req.body.From);
 
             const sms = new twiml.MessagingResponse();
             sms.message(textResponse);

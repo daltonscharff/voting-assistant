@@ -51,9 +51,9 @@ class Database {
         });
     }
 
-    setRateLimit(from: string): Promise<void> {
+    setRateLimit(from: string, message: string = ""): Promise<void> {
         return new Promise((resolve, reject) => {
-            this.db!.run(`INSERT INTO rate_limit (number) VALUES (?);`, [from], (err) => {
+            this.db!.run(`INSERT INTO rate_limit (number, message) VALUES (?, ?);`, [from, message], (err) => {
                 if (err) {
                     console.error(`Could not INSERT INTO rate_limit`);
                     reject();
@@ -90,6 +90,40 @@ class Database {
         });
     }
 
+    setLanguage(number: string, language: string): Promise<void> {
+        return new Promise((resolve, reject) => {
+            this.db!.run(`UPDATE rate_limit
+                SET language = ?
+                WHERE id = (SELECT id FROM rate_limit WHERE number = ? ORDER BY received_at DESC)
+                ;`, [language, number], (err) => {
+                if (err) {
+                    console.error(`Could not UPDATE on rate_limit`);
+                    console.error(err);
+                    reject();
+                } else {
+                    resolve();
+                }
+            });
+        });
+    }
+
+    getLanguage(number: string): Promise<string> {
+        return new Promise((resolve, reject) => {
+            this.db!.get(`SELECT language FROM rate_limit WHERE number = ? AND language NOT NULL ORDER BY received_at DESC;`, [number], (err, row) => {
+                if (err) {
+                    console.error(`Could not SELECT on rate_limit`);
+                    reject();
+                } else {
+                    if (row) {
+                        resolve(row.language);
+                    } else {
+                        console.log(row);
+                        resolve();
+                    }
+                }
+            });
+        });
+    }
 
 
     dropTable(tableName: string): Promise<void> {

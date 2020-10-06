@@ -13,7 +13,7 @@ async function rateLimit(req: Request, res: Response, next: NextFunction): Promi
         if (recordsToday > 50) textResponse = "You've been sending us a lot of texts! Try again tomorrow."
         if (recordsInPastMinute > 20) textResponse = "You've been sending us a lot of texts! Try again in a few minutes.";
 
-        db.setRateLimit(fromNumber);
+        db.setRateLimit(fromNumber, req.body.Body);
     } else {
         textResponse = "Sorry. Something has gone wrong with your request. Please wait a few minutes and try again.";
     }

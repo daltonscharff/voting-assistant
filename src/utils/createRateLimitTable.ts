@@ -19,11 +19,46 @@ function createRateLimitTable(db: sqlite3.Database): Promise<void> {
     });
 }
 
+function addLanguageToTable(db: sqlite3.Database): Promise<void> {
+    return new Promise((resolve, reject) => {
+        db.run(`ALTER TABLE rate_limit
+            ADD COLUMN language TEXT
+            ;`, (err) => {
+            if (err) {
+                console.error("Could not add column: language");
+                console.log(err);
+                resolve();
+            } else {
+                console.log("Added column: language");
+                resolve();
+            }
+        });
+    });
+}
+
+function addMessageToTable(db: sqlite3.Database): Promise<void> {
+    return new Promise((resolve, reject) => {
+        db.run(`ALTER TABLE rate_limit
+            ADD COLUMN message TEXT
+            ;`, (err) => {
+            if (err) {
+                console.error("Could not add column: message");
+                console.log(err);
+                resolve();
+            } else {
+                console.log("Added column: message");
+                resolve();
+            }
+        });
+    });
+}
+
 if (require.main === module) {
     (async () => {
         await db.connect();
-        await db.dropTable("rate_limit");
         await createRateLimitTable(db.db!);
+        await addLanguageToTable(db.db!);
+        await addMessageToTable(db.db!);
         await db.disconnect();
     })();
 }
