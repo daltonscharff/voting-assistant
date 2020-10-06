@@ -15,12 +15,12 @@ async function generateResponse(message: string, from: string): Promise<string> 
         if (locations) {
             const locationsStrings = locations.map((location) => `${location.name}, ${location.room}\n${location.address}, ${location.city}, TX`)
 
-            setTimeout(() => sendFollowUp(from, language), 2000);
+            setTimeout(() => sendFollowUp(from, language), 5000);
 
             if (language === "en" || !language) {
                 return `If you're registered to vote in Dallas County, you can go to any Dallas County voting locations. I found these nearby:\n\n${locationsStrings.join("\n\n")}`;
             } else {
-                return `Si usted esta registrado para votar en el condado de Dallas, puede votar en cualquiera de los locales de votación para Dallas. Aquí están las tres mas cercanas:\n\n${locationsStrings.join("\n\n")}`;
+                return `Si usted está registrado para votar en el condado de Dallas, puede votar en cualquiera de los locales de votación. Aquí están los tres más cercanos:\n\n${locationsStrings.join("\n\n")}`;
             }
 
         } else {
@@ -59,7 +59,7 @@ function sendFollowUp(number: string, language: string) {
     if (language === "en" || !language) {
         message = "Thanks for taking the time to vote!\n\nTo expedite your visit, don’t forget to check out your ballot and candidates are vote411.org. Remember you can’t use your phone in the voting booth, so make note of your choices on good old pencil and paper.\n\nAlso, make sure you have a valid ID. You can check out the list of valid IDs at https://www.votetexas.gov/register-to-vote/need-id.html"
     } else {
-        message = "Gracias por tomar el tiempo de ir a votar!\n\nPara que el proceso le sea de lo más fácil, puede encontrar un ejemplo de su papeleta e información sobre los candidatos en vote411.org. Recuerde que no puede usar su teléfono dentro del centro de votación, así que haga uso de papel y lápiz para referencia a lo que vote.\n\nNo se olvide su identificación!  Puede encontrar la lista de forma validas aquí https://www.votetexas.gov/es/registrese-para-votar/necesita-identificacion.html"
+        message = "Gracias por tomar el tiempo de ir a votar!\n\nPara que el proceso le sea de lo más fácil, puede encontrar un ejemplo de su papeleta e información sobre los candidatos en vote411.org. Recuerde que no puede usar su teléfono dentro del centro de votación, así que haga uso de papel y lápiz para referencia a lo que vote.\n\nNo se olvide su identificación! Puede encontrar la lista de identificaciones válidas aquí: https://www.votetexas.gov/es/registrese-para-votar/necesita-identificacion.html"
     }
 
     client.messages.create({
