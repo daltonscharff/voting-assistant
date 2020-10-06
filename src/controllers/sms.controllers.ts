@@ -40,9 +40,9 @@ async function generateResponse(message: string, from: string): Promise<string> 
     }
 
     if (language === "en" || !language) {
-        return "I'm sorry. I didn't understand that. Please respond with your ZIP code to see your three nearest voting locations or type 'votar' to change to Español."
+        return "I'm sorry. I didn't understand that. Please respond with your ZIP code to see your three nearest voting locations or type VOTAR to change to español."
     } else {
-        return "REPLACE WITH SPANISH: I'm sorry. I didn't understand that. Please respond with your ZIP code to see your three nearest voting locations or type 'vote' to change to English."
+        return "Lo siento, no entendí su respuesta. Por favor entre un código postal para ver los tres locales de votación más cercanos o entre VOTE si quiere cambiar a English."
     }
 }
 
