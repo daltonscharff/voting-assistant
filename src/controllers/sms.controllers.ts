@@ -34,7 +34,7 @@ async function generateResponse(message: string, from: string): Promise<string> 
     } else if (message === "vote") {
         db.setLanguage(from, "en");
         return "Hi, I'm your Dallas County voting assistant. I can provide you with your three nearest voting locations. To begin, please respond with your ZIP code.";
-    } else if (message === "votar") {
+    } else if (message === "votar" || message === "vota") {
         db.setLanguage(from, "es");
         return "Hola, yo soy su asistente para votar en el condado de Dallas y puedo darle los tres locales más cercanos a usted. Favor de responder con su código postal (ZIP code)."
     }
