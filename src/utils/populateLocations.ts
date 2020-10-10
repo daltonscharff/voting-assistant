@@ -108,7 +108,7 @@ function sleep(ms: number) {
     return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-const csvLocation = "./data/votingLocations.csv";
+const csvLocation = "./data/earlyVotingLocations.csv";
 
 if (require.main === module) {
     (async () => {
