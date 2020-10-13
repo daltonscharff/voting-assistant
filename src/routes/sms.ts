@@ -1,6 +1,6 @@
 import express, { Request, Response } from "express";
 import { twiml } from "twilio";
-import { generateResponse } from "../controllers/sms.controllers";
+import { generateResponse } from "../controllers/sms";
 import rateLimit from "../middleware/rateLimit";
 
 const router: express.Router = express.Router();

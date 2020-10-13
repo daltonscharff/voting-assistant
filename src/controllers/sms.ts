@@ -1,4 +1,4 @@
-import { getPollingLocations } from "./findPollingLocations.controller";
+import { getPollingLocations } from "./locations";
 import db from "../db/db";
 import fetch from "node-fetch";
 
