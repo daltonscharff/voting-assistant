@@ -6,7 +6,7 @@ import Coordinates from "../interfaces/Coordinates";
 import GeocodingSearchParameters from "../interfaces/GeocodingSearchParameters";
 import db from "./db";
 
-async function getLocations(votingLocations: Location[], reference: Coordinates, limit: number = 500, offset: number = 0): Promise<Location[]> {
+function findNearestLocations(votingLocations: Location[], reference: Coordinates, limit: number = 500, offset: number = 0): Location[] {
     if (reference) {
         votingLocations = votingLocations.sort((a, b) => {
             const distA = getDistance(reference, {
@@ -62,4 +62,4 @@ async function queryVotingLocations(includeEarlyVotingLocations: boolean, includ
     }
 }
 
-export { getLocations, fetchCoordinates, queryVotingLocations };
+export { findNearestLocations, fetchCoordinates, queryVotingLocations };

@@ -20,7 +20,7 @@ async function getHandler(req: Request, res: Response): Promise<void> {
     try {
         const referenceCoordinates: Coordinates = await locationsService.fetchCoordinates(referenceLocation);
         const votingLocations: Location[] = await locationsService.queryVotingLocations(includeEarlyVotingLocations, includeVotingDayLocations);
-        const nearestLocations: Location[] = await locationsService.getLocations(votingLocations, referenceCoordinates, limit, offset);
+        const nearestLocations: Location[] = await locationsService.findNearestLocations(votingLocations, referenceCoordinates, limit, offset);
         res.send(nearestLocations);
     } catch (error) {
         res.status(404).send({ error });
