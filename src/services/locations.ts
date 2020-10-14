@@ -3,13 +3,15 @@ import qs from "querystring";
 import fetch from "node-fetch";
 import Location from "../interfaces/Location";
 import Coordinates from "../interfaces/Coordinates";
+import GeocodingSearchParameters from "../interfaces/GeocodingSearchParameters";
 import db from "./db";
 
-async function getLocations(referenceLocation?: string, limit: number = 500, offset: number = 0, includeEarlyVotingLocations: boolean = false, includeVotingDayLocations: boolean = false): Promise<Location[]> {
+async function getLocations(referenceLocation?: GeocodingSearchParameters, limit: number = 500, offset: number = 0, includeEarlyVotingLocations: boolean = false, includeVotingDayLocations: boolean = false): Promise<Location[]> {
     let votingLocations: Location[] = await queryVotingLocations(includeEarlyVotingLocations, includeVotingDayLocations);
 
     if (referenceLocation) {
         const referenceCoordinates = await fetchCoordinates(referenceLocation);
+        console.log(referenceCoordinates);
         votingLocations = votingLocations.sort((a, b) => {
             const distA = getDistance(referenceCoordinates, {
                 latitude: a.latitude!,
@@ -26,7 +28,7 @@ async function getLocations(referenceLocation?: string, limit: number = 500, off
     return votingLocations.filter((_, i) => i >= offset && i < offset + limit);
 }
 
-async function fetchCoordinates(location: string): Promise<Coordinates> {
+async function fetchCoordinates(location: GeocodingSearchParameters): Promise<Coordinates> {
     if (!location) throw "No location provided";
 
     const baseUrl: string = "https://forward-reverse-geocoding.p.rapidapi.com/v1/forward?"
@@ -35,8 +37,8 @@ async function fetchCoordinates(location: string): Promise<Coordinates> {
         "x-rapidapi-key": process.env.RAPID_API_KEY!,
         "useQueryString": "true"
     };
-    const querystring: string = qs.encode({ q: location, format: "json" });
-
+    const querystring: string = qs.encode({ ...location, format: "json" });
+    console.log(querystring);
     try {
         const response = await fetch(baseUrl + querystring, { headers });
         const responseJson: any[] = await response.json();

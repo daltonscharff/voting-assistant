@@ -1,9 +1,16 @@
 import { Request, Response } from "express";
 import * as locationsService from "../services/locations";
 import Location from "../interfaces/Location";
+import GeocodingSearchParameters from "../interfaces/GeocodingSearchParameters";
 
 async function getHandler(req: Request, res: Response): Promise<void> {
-    const referenceLocation: string = (req.query as any).q || "";
+    const referenceLocation: GeocodingSearchParameters = {};
+    if ((req.query as any).street) referenceLocation["street"] = (req.query as any).street;
+    if ((req.query as any).zipCode) referenceLocation["postalcode"] = (req.query as any).zipCode;
+    if ((req.query as any).county) referenceLocation["county"] = (req.query as any).county;
+    if ((req.query as any).state) referenceLocation["state"] = (req.query as any).state;
+    if ((req.query as any).country) referenceLocation["country"] = (req.query as any).country;
+
     const limit: number | undefined = parseInt((req.query as any).limit, 10) || undefined;
     const offset: number | undefined = parseInt((req.query as any).offset, 10) || undefined;
     const includeEarlyVotingLocations: boolean = ((req.query as any).earlyVotingLocations == "true");
