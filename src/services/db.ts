@@ -65,6 +65,6 @@ class Database {
     }
 }
 
-const db = new Database("./data/voting.db");
+const db = new Database("./data/db.sqlite");
 
 export { db as default };

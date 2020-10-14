@@ -8,9 +8,10 @@ interface Location {
     zipCode?: string;
     latitude?: number;
     longitude?: number;
-    waitTime?: number;
+    waitMinutes?: number;
     isEarlyVotingLocation?: boolean;
     isVotingDayLocation?: boolean;
+    referenceId?: number;
 }
 
 export { Location as default };
