@@ -1,7 +1,7 @@
 import express from "express";
 import dotenv from "dotenv";
 import locationsRouter from "./routes/locations";
-// import smsRouter from "./routes/sms";
+import smsRouter from "./routes/sms";
 import db from "./services/db";
 
 dotenv.config();
@@ -10,7 +10,7 @@ const app: express.Application = express();
 
 app.use(express.json());
 app.use("/locations", locationsRouter);
-// app.use("/sms", smsRouter);
+app.use("/sms", smsRouter);
 
 app.route("/").get((_, res: express.Response): void => {
     res.sendStatus(200);
