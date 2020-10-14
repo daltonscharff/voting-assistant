@@ -1,524 +1,524 @@
-name,room,address,city,state,zipCode,latitude,longitude,isEarlyVotingLocation,isVotingDayLocation
-Alan E Sims Cedar Hill Recreation Center,Texas Room,310 E. Parkerville Road,Cedar Hill,TX,75104,32.57442645,-96.93789874,TRUE,FALSE
-Alfred J. Loos Sports Complex,Gymnasium,3815 Spring Valley Road,Addison,TX,75240,32.94004191,-96.85075128,TRUE,FALSE
-American Airlines Center,1876 Club-North Entrance,2500 Victory Avenue,Dallas,TX,75219,32.7905076,-96.81027213,TRUE,FALSE
-Audelia Road Branch Library,Auditorium,10045 Audelia Road,Dallas,TX,75238,32.8857486,-96.71834737,TRUE,FALSE
-Balch Springs Civic Center,Meeting Room,12400 Elam Road,Balch Springs,TX,75180,32.719635,-96.6591661,TRUE,FALSE
-Bear Creek Community Church,Breezeway,2700 Finley Road,Irving,TX,75062,32.8503947,-96.98221964,TRUE,FALSE
-Betty Warmack Library,Empower Room,760 Bardin Road,Grand Prairie,TX,75052,32.66705929,-97.01389837,TRUE,FALSE
-Brookhaven College,W' Building - Room W105,3939 Valley View Lane,Farmers Branch,TX,75244,32.9301327,-96.8484134,TRUE,FALSE
-Carrollton Farmers Branch ISD,Service Building 'C',1820 Pearl Street,Carrollton,TX,75006,32.95602989,-96.89405878,TRUE,FALSE
-Carrollton Senior Center,Texas Room,1720 Keller Springs Road,Carrollton,TX,75006,32.97129095,-96.89299867,TRUE,FALSE
-Cedar Hill Government Center,Main Lobby,285 Uptown Boulevard,Cedar Hill,TX,75104,32.5931059,-96.95126331,TRUE,FALSE
-Cedar Valley College,M' Building - Room M105,3030 North Dallas Avenue,Lancaster,TX,75134,32.62564837,-96.77130208,TRUE,FALSE
-Cimarron Park Recreation Center,Gymnasium,201 Red River Trail,Irving,TX,75063,32.9314098,-96.94630207,TRUE,FALSE
-Coppell Arts Center,Reception Hall,505 Travis Street,Coppell,TX,75019,32.9519408,-97.0047113,TRUE,FALSE
-Coppell Town Center,Main Lobby,255 E. Parkway Boulevard,Coppell,TX,75019,32.97757539,-96.9880171,TRUE,FALSE
-Desoto ISD Belt Line Conference Center,Conference Room,200 E. Belt Line Road,Desoto,TX,75115,32.589634,-96.855708,TRUE,FALSE
-Disciple Central Community Church,Youth Room,901 N. Polk Street,DeSoto,TX,75115,32.604389,-96.84086,TRUE,FALSE
-Duncanville Library,"Rooms 1\, 2\, & 3",201 James Collins Boulevard,Duncanville,TX,75116,32.64861061,-96.90744144,TRUE,FALSE
-Eastfield College Main Campus,S' Bldg. - Community Rms S100-102,3737 Motley Drive,Mesquite,TX,75150,32.81882545,-96.65861605,TRUE,FALSE
-Eastfield College Pleasant Grove Campus,Community Rms 108/109,802 S. Buckner Boulevard,Dallas,TX,75217,32.796698,-96.683316,TRUE,FALSE
-El Centro College-Main Campus,Student Center,801 Main Street,Dallas,TX,75202,32.7797819,-96.80550117,TRUE,FALSE
-El Centro College-West Campus,Student Center,3330 N. Hampton Road,Dallas,TX,75212,32.78263985,-96.85596824,TRUE,FALSE
-Farmers Branch Manske Library,Meeting Room,13613 Webb Chapel Road,Farmers Branch,TX,75234,32.9334441,-96.87375508,TRUE,FALSE
-Florence Recreation Center,Lobby Area,2501 Whitson Way,Mesquite,TX,75150,32.82824494,-96.63687502,TRUE,FALSE
-Fretz Park Library,Black Box Theater,6990 Belt Line Road,Dallas,TX,75254,32.9495865,-96.78326976,TRUE,FALSE
-Friendship West Baptist Church,Northex Lobby,2020 W. Wheatland Road,Dallas,TX,75232,32.6466827,-96.8515695,TRUE,FALSE
-George L. Allen Sr Courts Bldg,Main Lobby,600 Commerce St.,Dallas,TX,75202,32.7770658,-96.8127258,TRUE,FALSE
-Glenn Heights City Hall,Council Chambers,1938 S. Hampton Road,Glenn Heights,TX,75154,32.55242873,-96.85688681,TRUE,FALSE
-Grauwyler Park Recreation Center,Room A,7780 Harry Hines Boulevard,Dallas,TX,75235,32.83221075,-96.85901836,TRUE,FALSE
-Harry Stone Recreation Center,Small Room,2403 Millmar Drive,Dallas,TX,75228,32.82611704,-96.67430188,TRUE,FALSE
-Highland Hills Library,Auditorium,6200 Bonnie View Road,Dallas,TX,75241,32.670714,-96.761347,TRUE,FALSE
-Hutchins City Hall,Council Chambers,321 N. Main Street,Hutchins,TX,75141,32.64961174,-96.71330984,TRUE,FALSE
-Irving Arts Center,Suite 200,3333 N. MacArthur Boulevard,Irving,TX,75062,32.905012,-96.958858,TRUE,FALSE
-Irving City Hall,Main Lobby,825 W. Irving Boulevard,Irving,TX,75060,32.81405105,-96.95566275,TRUE,FALSE
-Lakeside Activity Center,Large Room,101 Holley Park Drive,Mesquite,TX,75149,32.763807,-96.59952194,TRUE,FALSE
-Lancaster Veterans Memorial Library,The Meeting Room,1600 Veterans Memorial Parkway,Lancaster,TX,75134,32.6126545,-96.7584135,TRUE,FALSE
-Lochwood Library,Black Box Room,11221 Lochwood Boulevard,Dallas,TX,75218,32.848481,-96.68820698,TRUE,FALSE
-Marsh Lane Baptist Church,Fellowship Hall,10716 Marsh Lane,Dallas,TX,75229,32.89418425,-96.85559502,TRUE,FALSE
-Martin Luther King Recreation Center,Gymnasium,2901 Pennsylvania Avenue,Dallas,TX,75215,32.768889,-96.765458,TRUE,FALSE
-Martin Weiss Recreation Center,Small Room,1111 Martindell Avenue,Dallas,TX,75211,32.73430782,-96.8762152,TRUE,FALSE
-Mountain View College,E' Building - Main Lobby,4849 W. Illinois Avenue,Dallas,TX,75211,32.7266367,-96.903603,TRUE,FALSE
-North Lake College,F' Building - Room F105,5001 N. MacArthur Boulevard,Irving,TX,75038,32.879221,-96.963064,TRUE,FALSE
-Oak Cliff Sub-Courthouse,The Main Lobby,410 S. Beckley Avenue,Dallas,TX,75203,32.74091709,-96.82292918,TRUE,FALSE
-Oak Lawn Branch Library,Auditorium,4100 Cedar Springs Road,Dallas,TX,75219,32.81237785,-96.812414,TRUE,FALSE
-Our Redeemer Lutheran Church - Dallas,The Parlor Room\/Lobby,7611 Park Lane,Dallas,TX,75225,32.8727429,-96.77525579,TRUE,FALSE
-Our Redeemer Lutheran Church - Grand Prairie,Fellowship Hall,4729 S Carrier Parkway,Grand Prairie,TX,75052,32.6560316,-97.0049107,TRUE,FALSE
-Park in the Woods Recreation Center,Gymnasium,6801 Mountain Creek Parkway,Dallas,TX,75249,32.64151455,-96.95554124,TRUE,FALSE
-Paul L. Dunbar Lancaster-Kiest Library,Classroom A & B,2008 East Kiest Boulevard,Dallas,TX,75216,32.71477235,-96.79058102,TRUE,FALSE
-Randolph Reed Center,Room 106,1933 Spikes Street,Grand Prairie,TX,75051,32.73400815,-97.02976855,TRUE,FALSE
-Richardson Civic Center,Parks Room,411 W Arapaho Road,Richardson,TX,75080,32.96096525,-96.73327625,TRUE,FALSE
-Richland College-Garland Campus,Main Lobby,675 W Walnut Street,Garland,TX,75040,32.9163161,-96.63767179,TRUE,FALSE
-Richland College-Main Campus,Guadalupe 'G' Building - Foyer Area,12800 Abrams Road,Dallas,TX,75243,32.92053885,-96.7288082,TRUE,FALSE
-Rowlett Community Centre,Gymnasium B,5300 Main Street,Rowlett,TX,75088,32.903484,-96.555237,TRUE,FALSE
-Sachse Senior Center,Building A - Multi-Purpose Room,3815 Sachse Road,Sachse,TX,75048,32.9731855,-96.5834332,TRUE,FALSE
-Samuell Grand Recreation Center,General Purpose Room,6200 East Grand Avenue,Dallas,TX,75223,32.797895,-96.742482,TRUE,FALSE
-Skyline Branch Library,Auditorium,6006 Everglade Road,Dallas,TX,75227,32.78551269,-96.69990855,TRUE,FALSE
-South Garland Branch Library,The Program Room,4845 Broadway Boulevard,Garland,TX,75043,32.85523065,-96.60248573,TRUE,FALSE
-University Park United Methodist Church,Caldwell Room 120,4024 Caruth Boulevard,Dallas,TX,75225,32.85889352,-96.80251762,TRUE,FALSE
-Valley Ranch Library,Program Room,401 Cimarron Trail,Irving,TX,75063,32.93406595,-96.95068534,TRUE,FALSE
-Wilmer Community Center,Main Room,101 Davidson Plaza,Wilmer,TX,75172,32.589819,-96.684957,TRUE,FALSE
-Sam Tasby Middle School,Rm 114,7001 Fair Oaks Ave,Dallas,TX,75231,32.87234825,-96.76069142,FALSE,TRUE
-Vickery Baptist Church,Multipurpose Rm,5814 Ridgecrest Rd,Dallas,TX,75231,32.8723158,-96.76196308,FALSE,TRUE
-Hamilton Park United Methodist Church,Clc/Gym,11881 Schroeder Dr,Dallas,TX,75243,32.910655,-96.76386,FALSE,TRUE
-Forest Meadow Jr High School,Front Office,9373 Whitehurst Dr,Dallas,TX,75243,32.9012901,-96.73971922,FALSE,TRUE
-New Mount Zion Baptist Church,"Educational Bldg, Chapel",9550 Shepherd Rd,Dallas,TX,75243,32.90606045,-96.74986054,FALSE,TRUE
-Moss Haven Elem School,Gym,9202 Moss Farm Ln,Dallas,TX,75243,32.8954072,-96.7437231,FALSE,TRUE
-Lee Mcshan Jr Elementary School,Main Lobby,8307 Meadow Rd,Dallas,TX,75231,32.88851305,-96.76088689,FALSE,TRUE
-North Dallas High School,Auditorium,3813 Mckinney Ave,Dallas,TX,75204,32.8002906,-96.8008762,FALSE,TRUE
-Multiple Careers Magnet Ctr,Auditorium,4528 Rusk Ave,Dallas,TX,75204,32.8077066,-96.78436046,FALSE,TRUE
-Solar Preparatory School For Girls,Cafeteria,2617 N Henderson Ave,Dallas,TX,75206,32.8162622,-96.78162011,FALSE,TRUE
-Ben Milam Elem Sch - DISD,Cafeteria,4200 Mckinney Ave,Dallas,TX,75205,32.8164109,-96.7901167,FALSE,TRUE
-Oaklawn Branch Library,Auditorium,4100 Cedar Springs Rd,Dallas,TX,75219,32.81237785,-96.812414,FALSE,TRUE
-The Father's Church,Saints Rm,2707 Abrams Rd,Dallas,TX,75214,32.8388248,-96.7528591,FALSE,TRUE
-Audelia Creek Elem School,Gym,12600 Audelia Rd,Dallas,TX,75243,32.919686,-96.71492313,FALSE,TRUE
-Richland College - Lecroy Center,"Conference Room, R12",9596 Walnut St,Dallas,TX,75243,32.923532,-96.727152,FALSE,TRUE
-A M Aikin Elem School,Gym,12300 Pleasant Valley Dr,Dallas,TX,75243,32.91494385,-96.72265887,FALSE,TRUE
-Northwood Hills Elem Sch,Gym,14532 Meandering Way,Dallas,TX,75254,32.948362,-96.7787059,FALSE,TRUE
-Spring Valley Elem School,Gym,13535 Spring Grove Ave,Dallas,TX,75240,32.93338695,-96.77520407,FALSE,TRUE
-RISD Academy,Small Gym,13630 Coit Rd,Dallas,TX,75240,32.93406595,-96.76830702,FALSE,TRUE
-Thurgood Marshall Elem School,Gym,9666 Ferris Branch Blvd,Dallas,TX,75243,32.9027685,-96.72532795,FALSE,TRUE
-Skyview Elem School,Gym,9229 Meadowknoll Dr,Dallas,TX,75243,32.90250165,-96.73392008,FALSE,TRUE
-Highland Meadows Elem School,Auditorium,8939 Whitewing Ln,Dallas,TX,75238,32.8707845,-96.68759687,FALSE,TRUE
-Martha T Reilly Elem,Auditorium,11230 Lippitt Ave,Dallas,TX,75218,32.85480455,-96.68839358,FALSE,TRUE
-Merriman Park Elem School,Cafeteria,7101 Winedale Dr,Dallas,TX,75231,32.8796981,-96.74004905,FALSE,TRUE
-Lochwood Branch Library,Black Box Theater,11221 Lochwood Blvd,Dallas,TX,75218,32.848481,-96.68820698,FALSE,TRUE
-Casa View Elem School,Auditorium Foyer,2100 N Farola Dr,Dallas,TX,75228,32.845698,-96.675373,FALSE,TRUE
-Charles A Gill Elem Sch,Auditorium,10910 Ferguson Rd,Dallas,TX,75228,32.8442129,-96.66075097,FALSE,TRUE
-St Pius X Church Parish,Parish Hall,3030 Gus Thomasson Rd,Dallas,TX,75228,32.83353045,-96.6667013,FALSE,TRUE
-Harry Stone Recreation Center,Lg Room,2403 Millmar Dr,Dallas,TX,75228,32.82611704,-96.67430188,FALSE,TRUE
-Reinhardt Elem School,Auditorium,10122 Losa Dr,Dallas,TX,75218,32.8372125,-96.69059362,FALSE,TRUE
-Alex Sanger Preparatory School,Auditorium,8410 San Leandro Dr,Dallas,TX,75218,32.81397715,-96.70955058,FALSE,TRUE
-W H Gaston Middle School,Auditorium Foyer,9565 Mercer Dr,Dallas,TX,75228,32.82523725,-96.69380228,FALSE,TRUE
-George Truett Elem Sch,Auditorium,1811 Gross Rd,Dallas,TX,75228,32.81604205,-96.68348614,FALSE,TRUE
-Grace United Meth Church,Parlor,4105 Junius St,Dallas,TX,75246,32.7877078,-96.7818705,FALSE,TRUE
-Lakewood Branch Library,Auditorium,6121 Worth St,Dallas,TX,75214,32.81037485,-96.7534226,FALSE,TRUE
-The Church At Junius Heights,Fellowship Hall,5429 Reiger Ave,Dallas,TX,75214,32.80057014,-96.75943986,FALSE,TRUE
-Samuell Grand Rec Center,Game Rm,6200 E Grand Ave,Dallas,TX,75223,32.797895,-96.742482,FALSE,TRUE
-Eduardo Mata Montessori School,Library,7420 La Vista Dr,Dallas,TX,75214,32.8065072,-96.73141079,FALSE,TRUE
-Bayles Elem School,"Computer Lab, Rm 121",2444 Telegraph Ave,Dallas,TX,75228,32.8009511,-96.70686174,FALSE,TRUE
-S S Conner Elem School,Auditorium,3037 Greenmeadow Dr,Dallas,TX,75228,32.8086723,-96.6941894,FALSE,TRUE
-Owenwood Farm & Neighbor Space,Multi Purpose Rm,1451 John West Rd,Dallas,TX,75228,32.8075284,-96.69284385,FALSE,TRUE
-Colonial Baptist Church,Main Hall,6459 Scyene Rd,Dallas,TX,75227,32.7638667,-96.71035262,FALSE,TRUE
-Edna Rowe Elem School,Auditorium,4918 Hovenkamp Dr,Dallas,TX,75227,32.7855151,-96.7068034,FALSE,TRUE
-Urban Park Elem School,Auditorium,6901 Military Pkwy,Dallas,TX,75227,32.7739701,-96.70171532,FALSE,TRUE
-Skyline High School,Auditorium Foyer,7777 Forney Rd,Dallas,TX,75227,32.78081465,-96.69031015,FALSE,TRUE
-Skyline Branch Library,Auditorium,6006 Everglade Rd,Dallas,TX,75227,32.78551269,-96.69990855,FALSE,TRUE
-San Jacinto Elem School,Auditorium,7900 Hume Dr,Dallas,TX,75227,32.7570001,-96.68595727,FALSE,TRUE
-Annie Webb Blanton School,Auditorium,8915 Greenmound Ave,Dallas,TX,75227,32.75192475,-96.66870487,FALSE,TRUE
-Edward Titche Elem School,Auditorium,9560 Highfield Dr,Dallas,TX,75227,32.7547591,-96.65856851,FALSE,TRUE
-Nueva Vida Life Assembly,Sanctuary,10747 Bruton Rd,Dallas,TX,75217,32.74852545,-96.64173023,FALSE,TRUE
-John Ireland Elem School,Auditorium,1515 N Jim Miller Rd,Dallas,TX,75217,32.7394974,-96.70150753,FALSE,TRUE
-Nathaniel Hawthorne School,Auditorium,7800 Umphress Rd,Dallas,TX,75217,32.74207155,-96.68888231,FALSE,TRUE
-Eastfield College - Pleasant Grove Campus,Rm 108,802 S Buckner Blvd,Dallas,TX,75217,32.796698,-96.683316,FALSE,TRUE
-W W Samuell High School,Entrance Foyer,8928 Palisade Dr,Dallas,TX,75217,32.74591635,-96.66775983,FALSE,TRUE
-Ymla @ Florence Middle School,Auditorium,1625 N Masters Dr,Dallas,TX,75217,32.7411776,-96.65022129,FALSE,TRUE
-E B Comstock Middle School,Auditorium,7044 Hodde St,Dallas,TX,75217,32.72137055,-96.70212041,FALSE,TRUE
-Pleasant Grove Library,Black Box Theater,7310 Lake June Rd,Dallas,TX,75217,32.73457918,-96.69440577,FALSE,TRUE
-B H Macon Elem School,Auditorium,650 Holcomb Rd,Dallas,TX,75217,32.7223714,-96.67328261,FALSE,TRUE
-William Anderson Elem Sch,Auditorium,620 N St Augustine Rd,Dallas,TX,75217,32.7216838,-96.65507635,FALSE,TRUE
-Richard Lagow Elem School,Main Lobby,637 Edgeworth Dr,Dallas,TX,75217,32.70248875,-96.63674297,FALSE,TRUE
-H Grady Spruce High School,Auditorium,9733 Old Seagoville Rd,Dallas,TX,75217,32.70983055,-96.65326633,FALSE,TRUE
-Fireside Recreation Center,Lg Gym,8601 Fireside,Dallas,TX,75217,32.697982,-96.671675,FALSE,TRUE
-Edwin J Kiest Elem School,Auditorium,2611 Healey Dr,Dallas,TX,75228,32.82604985,-96.66973593,FALSE,TRUE
-Ignite Middle School,Main Entrance,2211 Caddo St,Dallas,TX,75204,32.8015818,-96.78958174,FALSE,TRUE
-St Luke Comm Un. Meth Chur,Fellowship Hall,5710 E R L Thornton Frwy,Dallas,TX,75223,32.7917,-96.742012,FALSE,TRUE
-Solar Preparatory School For Boys,Auditorium,1802 Moser Ave,Dallas,TX,75206,32.80933755,-96.77320043,FALSE,TRUE
-Living Waters Church Of God,Fellowship Hall 005,11110 Shiloh Rd,Dallas,TX,75228,32.84744165,-96.66606231,FALSE,TRUE
-Lake Highlands High School,Auditorium Foyer,9449 Church Rd,Dallas,TX,75238,32.88642585,-96.72850429,FALSE,TRUE
-Forester Field House,Main Lobby,8233 Military Pkwy,Dallas,TX,75227,32.77117095,-96.67562637,FALSE,TRUE
-Ed Vanston Middle School,Classroom C6,3230 Karla Dr,Mesquite,TX,75150,32.82770055,-96.64554175,FALSE,TRUE
-Florence Recreation Center,Event Center,2501 Whitson Way,Mesquite,TX,75150,32.82824494,-96.63687502,FALSE,TRUE
-Vernon Price Elem School,Cafeteria,630 Stroud Ln,Garland,TX,75043,32.84736075,-96.62367935,FALSE,TRUE
-Eastfield College - Main Campus,C Bldg - Admissions Foyer,3737 Motley Dr,Mesquite,TX,75150,32.81882545,-96.65861605,FALSE,TRUE
-Goodbar Recreation Center,Main Room,3000 Concord Dr,Mesquite,TX,75150,32.80996124,-96.64371895,FALSE,TRUE
-Zack Motley Elem School,Portable 119,3719 Moon Dr,Mesquite,TX,75150,32.8189523,-96.65436193,FALSE,TRUE
-Range Elem School,Library,4060 Emerald Dr,Mesquite,TX,75150,32.80094857,-96.6596435,FALSE,TRUE
-Tosch Elem School,Library,2424 Larchmont Dr,Mesquite,TX,75150,32.799388,-96.6372061,FALSE,TRUE
-J C Rugel Elem School,Cafeteria,2701 Sybil Dr,Mesquite,TX,75149,32.78452855,-96.63813378,FALSE,TRUE
-Galloway Elem School,Entrance Foyer,200 Clary Dr,Mesquite,TX,75149,32.77064115,-96.63555654,FALSE,TRUE
-Mesquite Convention Center,Exhibit Hall,1700 Rodeo Dr,Mesquite,TX,75149,32.76219935,-96.62351426,FALSE,TRUE
-West Mesquite High School,Front Entrance - West Foyer,2500 Memorial Pkwy,Mesquite,TX,75149,32.761535,-96.635608,FALSE,TRUE
-Dover Elem School,Gym,700 Dover Dr,Richardson,TX,75080,32.9444222,-96.76004246,FALSE,TRUE
-Professional Development Ctr - RISD,C101A,701 W Belt Line Rd,Richardson,TX,75080,32.950803,-96.735238,FALSE,TRUE
-Math/Science Technology Magnet - RISD,Gym Lobby,450 Abrams Rd,Richardson,TX,75081,32.9443214,-96.72676601,FALSE,TRUE
-Richland Elem School,Gym,550 Park Bend Dr,Richardson,TX,75081,32.9323702,-96.72690871,FALSE,TRUE
-Bradfield Rec Center,Classroom 110,1146 Castle Dr,Garland,TX,75040,32.92220942,-96.61823637,FALSE,TRUE
-Bussey Middle School,"Choir Room, 224",1204 Travis St,Garland,TX,75040,32.92431917,-96.64570007,FALSE,TRUE
-Golden Meadows Elem School,Front Foyer,1726 Travis St,Garland,TX,75042,32.92436655,-96.65423049,FALSE,TRUE
-A R Davis Elem School,Hallway,1621 McCallum Dr,Garland,TX,75042,32.927861,-96.676172,FALSE,TRUE
-O. Henry Elementary School,Cafeteria,4100 Tynes Dr,Garland,TX,75042,32.92656205,-96.69378457,FALSE,TRUE
-Bradfield Elem School - Gisd,Gym,3817 Bucknell Dr,Garland,TX,75042,32.92151425,-96.68939838,FALSE,TRUE
-Richland College - Garland Campus,Conference Rm C,675 W Walnut St,Garland,TX,75040,32.9163161,-96.63767179,FALSE,TRUE
-Austin Academy,Gym,1125 Beverly Dr,Garland,TX,75040,32.89726299,-96.6173147,FALSE,TRUE
-Kimberlin Academy,"Library, Rm 202",1520 Cumberland Dr,Garland,TX,75040,32.89891268,-96.62623428,FALSE,TRUE
-Granger Recreation Center,Rm 109,1310 W Ave F,Garland,TX,75040,32.90678633,-96.64649102,FALSE,TRUE
-Williams Elem School,Gym,1821 Old Gate Ln,Garland,TX,75042,32.89695093,-96.65552125,FALSE,TRUE
-Memorial Pathway Academy,Gym,2825 S First St,Garland,TX,75041,32.882975,-96.631805,FALSE,TRUE
-Watson Technology Center,Gym,2601 Dairy Rd,Garland,TX,75041,32.88547363,-96.62207388,FALSE,TRUE
-South Garland High School,Gym,600 Colonel Dr,Garland,TX,75043,32.87261425,-96.61975433,FALSE,TRUE
-Classical Center @ Brandenburg Ms,Gym,626 Nickens Rd,Garland,TX,75043,32.86728859,-96.61267156,FALSE,TRUE
-Southgate Elem School,Gym,1115 Mayfield Ave,Garland,TX,75041,32.86874055,-96.64409466,FALSE,TRUE
-Montclair Elem School,Gym,5200 Broadmoor Dr,Garland,TX,75043,32.85392,-96.639049,FALSE,TRUE
-O'Banion Middle School,Gym,700 Birchwood Dr,Garland,TX,75043,32.85758635,-96.63478231,FALSE,TRUE
-Classical Center At Vial Elem School,Gym,126 Creekview Dr,Garland,TX,75043,32.84967281,-96.60741495,FALSE,TRUE
-South Garland Branch Library,Program Rm,4845 Broadway Blvd,Garland,TX,75043,32.85523065,-96.60248573,FALSE,TRUE
-Routh Roach Elem School,Gym,1811 Mayfield Ave,Garland,TX,75041,32.86672438,-96.65466993,FALSE,TRUE
-Granville Arts Center,The Atruim,300 N 5Th St,Garland,TX,75046,32.914793,-96.635564,FALSE,TRUE
-Sam Houston Middle School,Gym,2232 Sussex Dr,Garland,TX,75041,32.88847116,-96.66158774,FALSE,TRUE
-Thomas C Marsh Preparatory Academy,Auditorium,3838 Crown Shore Dr,Dallas,TX,75244,32.9114991,-96.8491192,FALSE,TRUE
-W T White High School,"H101, 102, 103",4505 Ridgeside Dr,Dallas,TX,75244,32.9168546,-96.83171102,FALSE,TRUE
-Nathan Adams Elem School,Auditorium,12600 Welch Rd,Dallas,TX,75244,32.9214988,-96.82830872,FALSE,TRUE
-Marsh Lane Baptist Church,Fellowship Hall,10716 Marsh Lane,Dallas,TX,75229,32.89418425,-96.85559502,FALSE,TRUE
-Harry C Withers Elem School,Auditorium,3959 Northaven Rd,Dallas,TX,75229,32.9032527,-96.8458821,FALSE,TRUE
-Midway Hills Christian Church,Gathering Area,11001 Midway Rd,Dallas,TX,75229,32.8986536,-96.83945355,FALSE,TRUE
-John J Pershing Elem School,"Auditorium, Rm 136",5715 Meaders Ln,Dallas,TX,75229,32.8874133,-96.80976733,FALSE,TRUE
-L G Cigarroa Elem School,Auditorium,9990 Webb Chapel Rd,Dallas,TX,75220,32.8799331,-96.86481578,FALSE,TRUE
-Walnut Hill Rec Center,Small Rm A,10011 Midway Rd,Dallas,TX,75229,32.989395,-96.843109,FALSE,TRUE
-Lovers Lane United Methodist Church,Watson Hall,9200 Inwood Rd,Dallas,TX,75220,32.86704705,-96.8205421,FALSE,TRUE
-Unity Church Of Dallas,1St Fl Assembly,6525 Forest Ln,Dallas,TX,75230,32.9101296,-96.79363662,FALSE,TRUE
-Preston Royal Branch Library,Auditorium,5626 Royal Ln,Dallas,TX,75229,32.8950978,-96.8752267,FALSE,TRUE
-George B Dealey Montessori Academy,Auditorium Foyer,6501 Royal Ln,Dallas,TX,75230,32.895464,-96.7915002,FALSE,TRUE
-Arthur Kramer Elem School,Foyer,7131 Midbury Dr,Dallas,TX,75230,32.90227355,-96.78384546,FALSE,TRUE
-Hillcrest High School,Auditorium,9924 Hillcrest Rd,Dallas,TX,75230,32.88324075,-96.78471237,FALSE,TRUE
-Benjamin Franklin - IEA,Rm 109,6920 Meadow Rd,Dallas,TX,75230,32.88443335,-96.78520945,FALSE,TRUE
-Preston Hollow Un Methodist Church,Parlor,6315 Walnut Hill Ln,Dallas,TX,75230,32.88068695,-96.79717517,FALSE,TRUE
-Our Redeemer Lutheran Church,Parlor,7611 Park Ln,Dallas,TX,75225,32.8727429,-96.77525579,FALSE,TRUE
-Westminister Presbyterian Church,Fellowship Hall,8200 Devonshire Dr,Dallas,TX,75209,32.85432,-96.815216,FALSE,TRUE
-The Museum Of Biblical Art,Library,7500 Park Ln,Dallas,TX,75225,32.8720263,-96.77937386,FALSE,TRUE
-Skillman Southwestern Branch Library,Auditorium,5707 Skillman St,Dallas,TX,75206,32.85774785,-96.75644411,FALSE,TRUE
-Henry W Longfellow - Cea,Auditorium,5314 Boaz St,Dallas,TX,75209,32.84855225,-96.8197467,FALSE,TRUE
-Mockingbird Community Church,Community Rm,5470 Ellsworth Ave,Dallas,TX,75206,32.83336495,-96.77492009,FALSE,TRUE
-Zion Lutheran Church,Church Narthex,6121 E Lovers Ln,Dallas,TX,75214,32.85099,-96.769994,FALSE,TRUE
-Geneva Heights Elementary,Main Lobby,2911 Delmar Ave,Dallas,TX,75206,32.82437795,-96.7668787,FALSE,TRUE
-St Andrews Presbyterian Church,Nance Hall,3204 Skillman St,Dallas,TX,75206,32.82710984,-96.76146,FALSE,TRUE
-University Of Texas - Dallas,Vistiors Center,800 W Campbell Rd,Richardson,TX,75080,32.978321,-96.763866,FALSE,TRUE
-Parkhill Jr High School,Small Gym,16500 Shadybank Dr,Dallas,TX,75248,32.9737763,-96.79050128,FALSE,TRUE
-Brentfield Primary School,East Cafeteria,6767 Brentfield Dr,Dallas,TX,75248,32.9756565,-96.79211139,FALSE,TRUE
-Texas A&M Research Ext Ctr Bldg E,Water/Land Resources Bldg,17360 Coit Rd,Dallas,TX,75252,32.9869079,-96.7674521,FALSE,TRUE
-James Bowie Elem School - RISD,Gym,7643 La Manga Dr,Dallas,TX,75248,32.9711006,-96.7762919,FALSE,TRUE
-Prestonwood Elem School,Cafeteria Stage,6525 La Cosa Dr,Dallas,TX,75248,32.96025515,-96.795006,FALSE,TRUE
-Spring Creek Elem - RISD,Gym,7667 Roundrock Rd,Dallas,TX,75248,32.95661505,-96.7768227,FALSE,TRUE
-Fretz Park Library,Black Box Theater,6990 Belt Line Rd,Dallas,TX,75254,32.9495865,-96.78326976,FALSE,TRUE
-Audelia Road Branch Library,Auditorium,10045 Audelia Rd,Dallas,TX,75238,32.8857486,-96.71834737,FALSE,TRUE
-Northlake Elem Sch - RISD,Cafeteria Hallway,10059 Ravensway Dr,Dallas,TX,75238,32.8853782,-96.72012438,FALSE,TRUE
-Lake Highlands Elem School,Library,9501 Ferndale Rd,Dallas,TX,75238,32.87627525,-96.70953139,FALSE,TRUE
-Lake Highlands Jr High,Large Gym,10301 Walnut Hill Ln,Dallas,TX,75238,32.88000445,-96.70671988,FALSE,TRUE
-Wallace Elem School - RISD,Gym,9921 Kirkhaven Dr,Dallas,TX,75238,32.88396655,-96.70816205,FALSE,TRUE
-Robert T. Hill Middle School,Auditorium,505 Easton Rd,Dallas,TX,75218,32.8563901,-96.70475452,FALSE,TRUE
-Victor Hexter Elem School,Auditorium,9720 Waterview Rd,Dallas,TX,75218,32.84923465,-96.70961329,FALSE,TRUE
-Lake Highlands North Rec Ctr,Small Rm,9940 White Rock Trl,Dallas,TX,75238,32.88361632,-96.7300232,FALSE,TRUE
-L L Hotchkiss Elem School,Auditorium Foyer,6929 Town North Dr,Dallas,TX,75231,32.85842255,-96.74069997,FALSE,TRUE
-Dan D Rogers Elem School,Auditorium Foyer,5314 Abrams Rd,Dallas,TX,75214,32.85213315,-96.75168597,FALSE,TRUE
-Ridgewood Rec Center,Large Rm,6818 Fisher Rd,Dallas,TX,75214,32.8475741,-96.7430511,FALSE,TRUE
-Lakewood Elem School,Library,3000 Hillbrook St,Dallas,TX,75214,32.825643,-96.74346693,FALSE,TRUE
-Churchill Recreation Center,Large Room,6906 Churchill Way,Dallas,TX,75230,32.9164699,-96.78575627,FALSE,TRUE
-Anne Frank Elem School,Auditorium,5201 Celestial Rd,Dallas,TX,75254,32.9477841,-96.81802509,FALSE,TRUE
-Central Christian Church,Fellowship Hall,4711 Westside Dr,Dallas,TX,75209,32.82966265,-96.8199869,FALSE,TRUE
-John S Armstrong Elem,Small Outside Gym,3600 Cornell Ave,Dallas,TX,75205,32.83389745,-96.7916474,FALSE,TRUE
-University Park United Methodist Church,Caldwell Rm 120,4024 Caruth Blvd,Dallas,TX,75225,32.85889352,-96.80251762,FALSE,TRUE
-John S. Bradfield Elementary,Cafetorium (Lgl),4300 Southern Ave,Dallas,TX,75205,32.83620525,-96.80869816,FALSE,TRUE
-University Park Sch - W,"Gym, C111",3505 Amherst Ave,Dallas,TX,75225,32.85163795,-96.79136932,FALSE,TRUE
-Highland Park Middle School,South Gym,3555 Granada Dr,Dallas,TX,75205,32.840233,-96.790992,FALSE,TRUE
-Moody Coliseum,Rogers Lobby,3009 Binkley Ave,Dallas,TX,75205,32.84082743,-96.77965516,FALSE,TRUE
-Highland Park Isd Admin Bldg,Board Rm,7015 Westchester Dr,Dallas,TX,75205,32.8496693,-96.80814588,FALSE,TRUE
-St Andrews Episcopal Church,Hunsaker Hall,2783 Valwood Pkwy,Farmers Branch,TX,75234,32.93840057,-96.885869,FALSE,TRUE
-Loos Field House,Lobby West Entrance,3815 Spring Valley Rd,Addison,TX,75001,32.94004191,-96.85075128,FALSE,TRUE
-Vivian Field Middle School,Main Lobby,13551 Dennis Rd,Farmers Branch,TX,75234,32.899563,-96.881375,FALSE,TRUE
-The Branch Connection Adult Center,Ball Room,14055 Dennis Ln,Farmers Branch,TX,75234,32.93713445,-96.88604165,FALSE,TRUE
-Farmers Branch Manske Library,Meeting Room,13613 Webb Chapel Rd,Farmers Branch,TX,75234,32.9334441,-96.87375508,FALSE,TRUE
-Chapel Hill Preparatory School,Auditorium,12701 Templeton Trl,Dallas,TX,75234,32.9180619,-96.86578505,FALSE,TRUE
-Brookhaven College,"W Bldg, Rm W105",3939 Valley View Ln,Farmers Branch,TX,75244,32.9301327,-96.8484134,FALSE,TRUE
-Ted Polk Middle School,G104,2001 Kelly Blvd,Carrollton,TX,75006,32.9640613,-96.87914772,FALSE,TRUE
-Mccoy Elementary School,Gym,2425 Mccoy Rd,Carrollton,TX,75006,32.9816654,-96.89911933,FALSE,TRUE
-Jerry R Junkins Elem School,Auditorium,2808 Running Duke Dr,Carrollton,TX,75006,32.9737613,-96.85682236,FALSE,TRUE
-Blanton Elem School,Library,2525 Scott Mill Rd,Carrollton,TX,75006,32.98342285,-96.88548993,FALSE,TRUE
-Newman Smith High School,Keaton Theater Lobby,2335 N Josey Ln,Carrollton,TX,75006,32.97970735,-96.89233773,FALSE,TRUE
-Keller Springs Baptist Chur,Fellowship Hall,3227 Keller Springs Rd,Carrollton,TX,75006,32.96884508,-96.84571867,FALSE,TRUE
-Carrollton Senior Center,Texas Room,1720 Keller Springs Rd,Carrollton,TX,75006,32.97129095,-96.89299867,FALSE,TRUE
-Crosby Recreation Center,Elf Fork,1610 E Crosby Rd,Carrollton,TX,75006,32.947969,-96.89972794,FALSE,TRUE
-North Dallas Family Church,Gym,1700 S Josey Ln,Carrollton,TX,75006,32.950069,-96.8903884,FALSE,TRUE
-Greenwood Hills Elem School,Library,1313 W Shore Dr,Richardson,TX,75080,32.9683158,-96.7494593,FALSE,TRUE
-Canyon Creek Elem School,Gym,2100 Copper Ridge Dr,Richardson,TX,75080,32.9816879,-96.73983954,FALSE,TRUE
-Prairie Creek Elem School,Main Hall Office,2120 E Prairie Creek Dr,Richardson,TX,75080,32.97833,-96.720907,FALSE,TRUE
-Mohawk Elem School,Gym,1500 Mimosa Dr,Richardson,TX,75080,32.9714752,-96.7620082,FALSE,TRUE
-Richardson N Jr High School,Small Gym,1820 N Floyd Rd,Richardson,TX,75080,32.975289,-96.74179529,FALSE,TRUE
-Northrich Elem School,Cafeteria,1301 Custer Rd,Richardson,TX,75080,32.96765125,-96.73521321,FALSE,TRUE
-Arapaho Classical Magnet School,Gym,1300 Cypress Dr,Richardson,TX,75080,32.9615096,-96.76371857,FALSE,TRUE
-Richardson Heights Elem,Gym,101 N Floyd Rd,Richardson,TX,75080,32.9515175,-96.74529839,FALSE,TRUE
-Richardson Terrace Elementary,Gym,300 N Dorothy Dr,Richardson,TX,75081,32.95169045,-96.72184753,FALSE,TRUE
-Care Church,Foyer,1504 E Campbell Rd,Richardson,TX,75081,32.97453086,-96.69671186,FALSE,TRUE
-Yale Elem School,Gym,1900 E Collins Blvd,Richardson,TX,75081,32.9669456,-96.68989185,FALSE,TRUE
-Dartmouth Elem School,"Art Rm, 124/126",417 Dartmouth Ln,Richardson,TX,75081,32.95403905,-96.68975002,FALSE,TRUE
-Springridge Elementary School,Gym,1801 E Spring Valley Rd,Richardson,TX,75081,32.93939725,-96.69015788,FALSE,TRUE
-Jess Harben Elem School,Gym,600 S Glenville Dr,Richardson,TX,75081,32.9395507,-96.70574336,FALSE,TRUE
-Richardson Civic Center,West Alcove,411 W Arapaho Rd,Richardson,TX,75080,32.96063466,-96.73123925,FALSE,TRUE
-Valley Ranch Elem School,Gym,9800 Rodeo Dr,Irving,TX,75063,32.9377505,-96.95602525,FALSE,TRUE
-Cimarron Recreation Center,Large Activity Room,201 Red River Trl,Irving,TX,75063,32.9314098,-96.94630207,FALSE,TRUE
-Freeman Elem School - CFBISD,Library,8757 Valley Ranch Pkwy W,Irving,TX,75063,32.9341549,-96.9531951,FALSE,TRUE
-Valley Ranch Branch Library,Program Rm 150,401 Cimarron Trl,Irving,TX,75063,32.93406595,-96.95068534,FALSE,TRUE
-Big Springs Elem School,Gym,3301 W Campbell Rd,Garland,TX,75044,32.97306399,-96.67833639,FALSE,TRUE
-Springpark Sports Club,1St Fl Ballroom,3330 Springpark Way,Garland,TX,75044,32.9803489,-96.68041746,FALSE,TRUE
-Spring Creek Elem - Gisd,Gym,1510 Spring Creek Dr,Garland,TX,75040,32.9547183,-96.6505115,FALSE,TRUE
-North Garland Branch Library,Program Rm,3845 N Garland Ave,Garland,TX,75040,32.95169222,-96.65402392,FALSE,TRUE
-Hickman Elem School,Gym,3114 Pinewood Dr,Garland,TX,75044,32.95749373,-96.67620854,FALSE,TRUE
-Wallace Ethridge Elem School,Gym,2301 Sam Houston Dr,Garland,TX,75044,32.93500738,-96.65734447,FALSE,TRUE
-Cooper Elem School,Foyer,1200 Kingsbridge Dr,Garland,TX,75040,32.93419255,-96.64581728,FALSE,TRUE
-Lister Elem School,Front Foyer,3131 Mars Dr,Garland,TX,75040,32.94389515,-96.61364955,FALSE,TRUE
-Northlake Elem School - Gisd,Gym,1626 Bosque Dr,Garland,TX,75040,32.92689597,-96.60769368,FALSE,TRUE
-Club Hill Elem School,Gym,1330 Colonel Dr,Garland,TX,75043,32.87745459,-96.61134312,FALSE,TRUE
-Lyles Middle School,Gym,4655 S Country Club Rd,Garland,TX,75043,32.86193215,-96.59046678,FALSE,TRUE
-Northside Baptist Church,Fellowship Hall,2510 N Glenbrook Dr,Garland,TX,75040,32.9389604,-96.6395573,FALSE,TRUE
-Coppell Arts Center,Reception Hall,505 Travis St,Coppell,TX,75019,32.9519408,-97.0047113,FALSE,TRUE
-Wilson Elementary School,Gym,200 S Coppell Rd,Coppell,TX,75019,32.96512145,-97.00550243,FALSE,TRUE
-Mockingbird Elem School,Gym,300 Mockingbird Ln,Coppell,TX,75019,32.9625443,-96.96932634,FALSE,TRUE
-Coppell Town Center,Atrium,255 E Parkway Blvd,Coppell,TX,75019,32.97757539,-96.9880171,FALSE,TRUE
-Lakeside Elem School - COISD,Gym,1100 Village Pkwy,Coppell,TX,75019,32.97219955,-96.95846732,FALSE,TRUE
-Cottonwood Creek Elem Sch,Gym,615 Minyard Dr,Coppell,TX,75019,32.97615595,-97.0078109,FALSE,TRUE
-Riverchase Elem School,"Library, Rm 201",272 S Macarthur Blvd,Coppell,TX,75019,32.9638129,-96.95749276,FALSE,TRUE
-Addison Conference Center,Buckthorn Room,15650 Addison Rd,Addison,TX,75001,32.9622499,-96.82844295,FALSE,TRUE
-Addison Fire Station # 1,Training Room,4798 Airport Pkwy,Addison,TX,75001,32.96596633,-96.83034812,FALSE,TRUE
-Coyle Middle School,Gym,4500 Skyline Dr,Rowlett,TX,75088,32.90132886,-96.56282066,FALSE,TRUE
-Back Elem School,Gym,7300 Bluebonnet Dr,Rowlett,TX,75089,32.924723,-96.573684,FALSE,TRUE
-Liberty Grove Elem School,Gym,10201 Liberty Grove Rd,Rowlett,TX,75089,32.953879,-96.517011,FALSE,TRUE
-Rowlett Community Centre,Confernce Rm,5300 Main St,Rowlett,TX,75088,32.903484,-96.555237,FALSE,TRUE
-Rowlett Elem School,Gym,3315 Carla Dr,Rowlett,TX,75088,32.89099023,-96.57473805,FALSE,TRUE
-Herfurth Elem School,Gym,7500 Miller Rd,Rowlett,TX,75088,32.89055985,-96.52876838,FALSE,TRUE
-Schrade Middle School,Comp Gym,6201 Danridge Rd,Rowlett,TX,75089,32.9207062,-96.5316633,FALSE,TRUE
-Chase Oaks Church - Woodbridge Campus,Lobby,2709 3Rd St,Sachse,TX,75048,32.97660229,-96.5975698,FALSE,TRUE
-Sachse Senior Center,"Bldg A, Reservation Rm",3815 Sachse Rd,Sachse,TX,75048,32.9731855,-96.5834332,FALSE,TRUE
-B G Hudson Middle School,Gym,4405 Hudson Dr,Sachse,TX,75048,32.95886355,-96.58133556,FALSE,TRUE
-William B Travis Academy,Auditorium,3001 Mckinney Ave,Dallas,TX,75204,32.8013772,-96.80139091,FALSE,TRUE
-T W Browne Middle School,Auditorium,3333 Sprague Dr,Dallas,TX,75233,32.69648215,-96.87636264,FALSE,TRUE
-Daniel Webster Elem School,Auditorium,3815 S Franklin St,Dallas,TX,75233,32.6967722,-96.8614994,FALSE,TRUE
-El Centro College - Main Campus,Student Ctr,801 Main St,Dallas,TX,75202,32.7797819,-96.80550117,FALSE,TRUE
-American Airlines Center,1876 Club-North Entrance,2500 Victory Ave,Dallas,TX,75219,32.7905076,-96.81027213,FALSE,TRUE
-Exall Recreation Center,Large Room,1355 Adair St,Dallas,TX,75204,32.7937582,-96.78391468,FALSE,TRUE
-Bill J Priest Institute,Hoblitzelle Auditorium,1402 Corinth St,Dallas,TX,75215,32.766388,-96.7864246,FALSE,TRUE
-Martin Luther King Jr Learning Ctr,Main Lobby,1817 Warren Ave,Dallas,TX,75215,32.76096315,-96.77279558,FALSE,TRUE
-Park South Ymca,Front Lobby,2500 Romine Ave,Dallas,TX,75215,32.75983513,-96.76381842,FALSE,TRUE
-James Madison High School,Rm 100,3000 MLK Blvd,Dallas,TX,75215,32.771299,-96.764866,FALSE,TRUE
-Martin Luther King Recreation Center,Gym,2901 Pennsylvania Ave,Dallas,TX,75215,32.768889,-96.765458,FALSE,TRUE
-Irma Rangel - Young Women's School,Auditorium,1718 Robert B Cullum Blvd,Dallas,TX,75210,32.7744935,-96.76089739,FALSE,TRUE
-Mt Horeb Baptist Church,Fellowship Hall,3306 Carpenter Ave,Dallas,TX,75215,32.7627737,-96.74978989,FALSE,TRUE
-St Paul Baptist Church,Overflow Area,1600 Pear St,Dallas,TX,75215,32.7501199,-96.7668775,FALSE,TRUE
-Lincoln High School - CHM,Auditorium,2826 Elsie Faye Heggins St,Dallas,TX,75215,32.7541043,-96.7555878,FALSE,TRUE
-Evangelist Temple Church,Fellowship Hall,2627 Dorris St,Dallas,TX,75215,32.74280782,-96.75221776,FALSE,TRUE
-Hector P Garcia Middle School - DISD,Art Room A,700 E 8Th St,Dallas,TX,75203,32.7502831,-96.81384937,FALSE,TRUE
-Greater Mt Pleasant Baptist Church,Conference Rm,1403 Morrell Ave,Dallas,TX,75203,32.73921161,-96.80213751,FALSE,TRUE
-Cedar Crest Elementary School,Foyer,2020 Mouser St,Dallas,TX,75203,32.737807,-96.792989,FALSE,TRUE
-The Way-Truth-Life Christian Church,Fellowship Hall Parlor,1702 S Denley Dr,Dallas,TX,75216,32.72698435,-96.80504719,FALSE,TRUE
-Oliver W Holmes Middle School,Auditorium Entrance,2001 E Kiest Blvd,Dallas,TX,75216,32.7154295,-96.79166081,FALSE,TRUE
-Good Street Baptist Church,Spigner Wing,3110 Bonnie View Rd,Dallas,TX,75216,32.7203692,-96.7800545,FALSE,TRUE
-John Neely Bryan Elem School,Auditorium,2001 Deer Path Dr,Dallas,TX,75216,32.7113411,-96.7944549,FALSE,TRUE
-Paul L Dunbar Lancaster - Keist Library,Classroom A/B,2008 East Kiest Blvd,Dallas,TX,75216,32.71477235,-96.79058102,FALSE,TRUE
-W W Bushman Elem School,Foyer,4200 Bonnie View Rd,Dallas,TX,75216,32.7082254,-96.77322807,FALSE,TRUE
-Gethsemane Missionary Baptist Church,Fellowship Hall,4600 Solar Ln,Dallas,TX,75216,32.7108874,-96.74460458,FALSE,TRUE
-John W Carpenter Elem School,Auditorium,2121 Tosca Ln,Dallas,TX,75224,32.6955549,-96.8530169,FALSE,TRUE
-Cfni Student Center,Student Center,444 Fawn Ridge Dr,Dallas,TX,75224,32.70063515,-96.83075168,FALSE,TRUE
-South Oak Cliff High School,Auditorium,3601 S Marsalis Ave,Dallas,TX,75216,32.699279,-96.81684485,FALSE,TRUE
-Clara Oliver Elem School,Auditorium,4010 Idaho Ave,Dallas,TX,75216,32.69497635,-96.81105335,FALSE,TRUE
-H I Holland Elem School @ Lisbon,Gym,4203 S Lancaster Rd,Dallas,TX,75216,32.69738435,-96.79579744,FALSE,TRUE
-Fountain Of The Living Word Church,Sanctuary Entrance,2543 E Ledbetter Dr,Dallas,TX,75216,32.695901,-96.768078,FALSE,TRUE
-Elisha M Pease Elem School,Auditorium,2914 Cummings St,Dallas,TX,75216,32.6975496,-96.773726,FALSE,TRUE
-W M Hawley Atwell Law Academy,Auditorium Foyer,1303 Reynoldston Ln,Dallas,TX,75232,32.67784705,-96.84340803,FALSE,TRUE
-Adelle Turner Elem School,Gym,5505 S Polk St,Dallas,TX,75232,32.679211,-96.84083834,FALSE,TRUE
-Mark Twain Leadership Vanguard,Auditorium,724 Green Cove Ln,Dallas,TX,75232,32.68410285,-96.83346972,FALSE,TRUE
-T G Terry Elem School,Auditorium,6661 Greenspan Ave,Dallas,TX,75232,32.6657598,-96.82990355,FALSE,TRUE
-St Paul Lutheran Church,Fellowship Hall,5725 S Marsalis Ave,Dallas,TX,75241,32.67701114,-96.81484439,FALSE,TRUE
-Ideal Family Church,Life Center,1000 E Redbird Ln,Dallas,TX,75241,32.674527,-96.80838,FALSE,TRUE
-R L Thornton Elem School,Auditorium,6011 Old Ox Rd,Dallas,TX,75241,32.6738791,-96.79784914,FALSE,TRUE
-Boml Academy @ A Maceo Smith,Foyer,3030 Stag Rd,Dallas,TX,75241,32.6918081,-96.76579332,FALSE,TRUE
-J N Ervin Elem School,Auditorium Foyer,3722 Black Oak Dr,Dallas,TX,75241,32.67950345,-96.76211163,FALSE,TRUE
-Ronald E Mcnair Elem School,Main Lobby,3150 Bainbridge Dr,Dallas,TX,75237,32.65613,-96.86328,FALSE,TRUE
-Friendship West Baptist Church,Banquet Hall Foyer,2020 W Wheatland Rd,Dallas,TX,75232,32.646563,-96.850638,FALSE,TRUE
-Umphrey Lee Elem School,Auditorium,7808 Racine Dr,Dallas,TX,75232,32.6527172,-96.83500086,FALSE,TRUE
-Martin Weiss Elem School,Auditorium,8601 Willoughby Blvd,Dallas,TX,75232,32.6437013,-96.83041094,FALSE,TRUE
-D A Hulcy Steam Middle School,1St Floor Entrance Foyer,9339 S Polk St,Dallas,TX,75232,32.6344709,-96.84074595,FALSE,TRUE
-Singing Hills Rec Center,Large Activity Rm,6805 Patrol Way,Dallas,TX,75241,32.6640568,-96.7873283,FALSE,TRUE
-Cornerstone Community Church,Fellowship Hall,2817 Cherry Valley Blvd,Dallas,TX,75241,32.6460004,-96.77538598,FALSE,TRUE
-Tommie Allen Rec Center,Lg Multi-Purpose Rm,7071 Bonnie View Rd,Dallas,TX,75241,32.6594871,-96.75312036,FALSE,TRUE
-Highland Hills Un Methodist Church,Fellowship Hall,3800 Simpson Stuart Rd,Dallas,TX,75241,32.67522355,-96.75664459,FALSE,TRUE
-Cedar Valley College - M Bldg,M105,3030 N Dallas Ave,Lancaster,TX,75134,32.62564837,-96.77130208,FALSE,TRUE
-Highland Hills Library,Auditorium,6200 Bonnie View Rd,Dallas,TX,75241,32.670714,-96.761347,FALSE,TRUE
-Wilmer - Hutchins High School,Auditorium,5520 Langdon Rd,Dallas,TX,75241,32.65469845,-96.73067188,FALSE,TRUE
-Park In The Woods Rec Center,Large Rm,6801 Mountain Creek Pkwy,Dallas,TX,75249,32.64151455,-96.95554124,FALSE,TRUE
-Henrie Elementary School,Cafeteria,253 W Lawson Rd,Dallas,TX,75253,32.6992234,-96.57593753,FALSE,TRUE
-Kleberg/Rylie Rec Center,Large Rm,1515 Edd Rd,Dallas,TX,75253,32.68537563,-96.60140266,FALSE,TRUE
-Booker T Washington High School,Montgomery Arts,2501 Flora St,Dallas,TX,75201,32.79162415,-96.79698123,FALSE,TRUE
-W A Blair Elem School,Auditorium,7720 Gayglen Dr,Dallas,TX,75217,32.70874585,-96.68870402,FALSE,TRUE
-Ebby Halliday Elem School,Multi Purpose Room 141,10210 Teagarden Rd,Dallas,TX,75217,32.67502505,-96.6458337,FALSE,TRUE
-Jonsson Central Library,Dallas East Rm,1515 Young St,Dallas,TX,75201,32.7783503,-96.79705717,FALSE,TRUE
-Oak Cliff Presbyterian Church,1St Fl Lobby,6000 S Hampton Rd,Dallas,TX,75232,32.67444044,-96.85690828,FALSE,TRUE
-University Of North Texas At Dallas,Founders Hall Lounge,7300 University Hills Blvd,Dallas,TX,75241,32.6503353,-96.8056499,FALSE,TRUE
-Cedar Hill Recreation Center,Bluebonnet Room,310 E Parkerville Rd,Cedar Hill,TX,75104,32.57442645,-96.93789874,FALSE,TRUE
-Kim Lewis Auxiliary Services Ctr,Foyer,202 E Belt Line Rd,Cedar Hill,TX,75104,32.5911,-96.9394,FALSE,TRUE
-Bessie Coleman Middle School,Library,1208 E Pleasant Run Rd,Cedar Hill,TX,75104,32.60277895,-96.91556904,FALSE,TRUE
-Professional Development Ctr - CHISD,Library,1533 High Pointe Ln,Cedar Hill,TX,75104,32.623445,-96.95534605,FALSE,TRUE
-Cedar Hill Government Center - Bldg 100,Lobby,285 Uptown Blvd,Cedar Hill,TX,75104,32.5931059,-96.95126331,FALSE,TRUE
-Plummer Elementary School,Portable #20 A,1203 S Clark Rd,Cedar Hill,TX,75104,32.56504095,-96.9413162,FALSE,TRUE
-Highlands Elem School - CHISD,Gym,131 Sims Dr,Cedar Hill,TX,75104,32.587672,-96.93030125,FALSE,TRUE
-Bray Elementary School,Gym,218 N Broad St,Cedar Hill,TX,75104,32.59269085,-96.95765349,FALSE,TRUE
-Lake Ridge Elem School,Multi Purpose Rm,1020 Lake Ridge Pkwy,Cedar Hill,TX,75104,32.56943925,-97.00530761,FALSE,TRUE
-H Bob Daniel Sr Intermediate School,Rm 102,1007 Springwood Ln,Duncanville,TX,75137,32.64118,-96.93128,FALSE,TRUE
-Alexander Elementary School,"Gym, Rm 807",510 Softwood Dr,Duncanville,TX,75137,32.62407915,-96.92009996,FALSE,TRUE
-Duncanville Library,Mtg Rm 1-3,201 James Collins Blvd,Duncanville,TX,75116,32.64861061,-96.90744144,FALSE,TRUE
-Duncanville'S First Baptist Church,F101,323 W Wheatland Rd,Duncanville,TX,75116,32.64772648,-96.827221,FALSE,TRUE
-Reed Middle School,"Auditorium, Rm 600",530 E Freeman St,Duncanville,TX,75116,32.6501663,-96.90249515,FALSE,TRUE
-Brandenburg Intermediate Sch - DUISD,"Choir Rm, 501",1903 Blueridge Dr,Duncanville,TX,75137,32.6225409,-96.90472006,FALSE,TRUE
-Byrd Middle School,Gym B,1040 W Wheatland Rd,Duncanville,TX,75116,32.6458325,-96.93234713,FALSE,TRUE
-Arise Church,Sanctuary Foyer,201 W Center St,Duncanville,TX,75116,32.651807,-96.910386,FALSE,TRUE
-Central Elem School - DUISD,"Auditorium, Rm 201",302 E Freeman St,Duncanville,TX,75116,32.65029195,-96.90520112,FALSE,TRUE
-Duncanville Hs Performance Hall,Foyer,900 W Camp Wisdom Rd,Duncanville,TX,75116,32.6605204,-96.92946812,FALSE,TRUE
-Fairmeadows Elem School,"Gym, Rm 701A",101 E Fairmeadows Dr,Duncanville,TX,75116,32.6668551,-96.90377473,FALSE,TRUE
-Porter Elem School,Portable,517 Via Avenida,Mesquite,TX,75150,32.82764735,-96.60384513,FALSE,TRUE
-Dunford Rec Center,Green Canyon Rm,1015 Green Canyon Dr,Mesquite,TX,75150,32.8168751,-96.60999241,FALSE,TRUE
-Georgia Kimball Elem,P4,4010 Coryell Way,Mesquite,TX,75150,32.8170612,-96.6218232,FALSE,TRUE
-Dr Jc Cannaday Elem School,Portable 208,2701 Chisolm Trl,Mesquite,TX,75150,32.80359115,-96.61714105,FALSE,TRUE
-Poteet High School,Back Hallway Behind Offices,3300 Poteet Dr,Mesquite,TX,75150,32.80656585,-96.60857156,FALSE,TRUE
-Hanby Elementary School,Foyer,480 Gross Rd,Mesquite,TX,75149,32.774749,-96.61460121,FALSE,TRUE
-W L Wilkinson Middle School,100 Foyer,2100 Crest Park Dr,Mesquite,TX,75149,32.7896727,-96.61447909,FALSE,TRUE
-Lakeside Activity Center,Large Rm,101 Holley Park Dr,Mesquite,TX,75149,32.763807,-96.59952194,FALSE,TRUE
-Mesquite High School,Delivery Hallway,300 E Davis St,Mesquite,TX,75149,32.76465405,-96.59385877,FALSE,TRUE
-Pirrung Elem School,Front Hall Corner,1500 Creek Valley Rd,Mesquite,TX,75181,32.74986125,-96.55316386,FALSE,TRUE
-J R Thompson Elem School,Front Foyer,2525 Helen Ln,Mesquite,TX,75181,32.7378697,-96.54503245,FALSE,TRUE
-A C New Middle School,Front Foyer,3700 S Belt Line Rd,Mesquite,TX,75181,32.7196629,-96.59552265,FALSE,TRUE
-Tisinger Elem School,Computer Lab,1701 Hillcrest St,Mesquite,TX,75149,32.7866159,-96.60812002,FALSE,TRUE
-Rutherford Rec Center,Rm 103,900 Rutherford Dr,Mesquite,TX,75149,32.753948,-96.575384,FALSE,TRUE
-Horn High School,Library,3300 E Cartwright Rd,Mesquite,TX,75181,32.73018755,-96.55790714,FALSE,TRUE
-Balch Springs Civic Center,Meeting Room,12400 Elam Rd,Balch Springs,TX,75180,32.7196316,-96.6578987,FALSE,TRUE
-Hickory Tree Baptist Church,Fellowship Hall,3200 Hickory Tree Rd,Balch Springs,TX,75180,32.725982,-96.622538,FALSE,TRUE
-Hodges Elem School,Gym,14401 Spring Oak Dr,Balch Springs,TX,75180,32.71435,-96.59919,FALSE,TRUE
-Balch Springs Recreation Center,Meeting Room,4372 Shepherd Ln,Balch Springs,TX,75180,32.70980549,-96.61410405,FALSE,TRUE
-Sunnyvale Town Hall,Council Chambers,127 N Collins Rd,Sunnyvale,TX,75182,32.7915424,-96.5623902,FALSE,TRUE
-Faith Bible Church,Auditorium,1437 W Pleasant Run Rd,Desoto,TX,75115,32.6044398,-96.89557011,FALSE,TRUE
-Ruby Young Elem School,Gym,707 Young Blvd,Desoto,TX,75115,32.60036535,-96.86733624,FALSE,TRUE
-Disciple Central Community Church,Classroom 104,901 N Polk St #101,Desoto,TX,75115,32.605628,-96.842134,FALSE,TRUE
-The Meadows Elem School,Gym,1016 The Meadows Pkwy,Desoto,TX,75115,32.60763715,-96.83014077,FALSE,TRUE
-Cockrell Hill Elem School,Gym,425 S Cockrell Hill Rd,Desoto,TX,75115,32.58331725,-96.89209109,FALSE,TRUE
-Desoto High School,Gym,600 Eagle Dr,Desoto,TX,75115,32.57885915,-96.87135131,FALSE,TRUE
-Desoto East Middle School,Gym,601 E Belt Line Rd,Desoto,TX,75115,32.59262715,-96.84434808,FALSE,TRUE
-Belt Line Conference Center,Conference Rm,200 E Belt Line Rd,Desoto,TX,75115,32.589634,-96.855708,FALSE,TRUE
-Glenn Heights City Hall,Council Chambers,1938 S Hampton Rd,Glenn Heights,TX,75154,32.55242873,-96.85688681,FALSE,TRUE
-Couch Elem School,Gym,4349 Waterhouse Blvd,Garland,TX,75043,32.85315187,-96.575457,FALSE,TRUE
-Toler Elem School,Gym,3520 Guthrie Rd,Garland,TX,75043,32.83818005,-96.57774462,FALSE,TRUE
-Houston Elem School - LISD,"Library, Rm 184",2929 Marquis Ln,Lancaster,TX,75134,32.6244405,-96.80437495,FALSE,TRUE
-Pleasant Run Elem School,"Library, Rm 201",427 W Pleasant Run Rd,Lancaster,TX,75146,32.606285,-96.7635567,FALSE,TRUE
-Rolling Hills Elementary School,Library,450 Rolling Hills Pl,Lancaster,TX,75146,32.59673155,-96.81402858,FALSE,TRUE
-Rosa Parks - Millbrook Elem School,"Gym, Rm 503",630 Millbrook Dr,Lancaster,TX,75146,32.5971839,-96.7976548,FALSE,TRUE
-Elsie Robertson Middle School,Library,822 W Pleasant Run Rd,Lancaster,TX,75146,32.60410875,-96.77173994,FALSE,TRUE
-West Main Elem School,Library,531 W Main St,Lancaster,TX,75146,32.59319205,-96.76310213,FALSE,TRUE
-Lancaster Veterans Memorial Library,Meeting Room,1600 Veterans Memorial Pkwy,Lancaster,TX,75134,32.6126545,-96.7584135,FALSE,TRUE
-McCowan Middle School,Dance Rm,1500 Majestic Meadow Dr,Glenn Heights,TX,75154,32.5635,-96.8817,FALSE,TRUE
-First Baptist Church - Seagoville,"Activity Bldg, Fellowship Hall",108 E Farmers Rd,Seagoville,TX,75159,32.64513682,-96.54527505,FALSE,TRUE
-Seagoville City Hall,Council Chambers,702 US-175 Frontage Rd,Seagoville,TX,75159,32.649323,-96.541187,FALSE,TRUE
-Wilmer Community Center,Main Room,101 Davidson Plaza,Wilmer,TX,75172,32.589819,-96.684957,FALSE,TRUE
-Hutchins Community Center,Main Room,500 W Hickman St,Hutchins,TX,75141,32.648029,-96.716561,FALSE,TRUE
-Caillet Elem School,Auditorium,3033 Merrell Rd,Dallas,TX,75229,32.8887443,-96.8756197,FALSE,TRUE
-Marcus Rec Center,Kitchen,3003 Northaven Rd,Dallas,TX,75229,32.90381869,-96.87751938,FALSE,TRUE
-Degolyer Elem School,Auditorium,3453 Flair Dr,Dallas,TX,75229,32.9042301,-96.86149997,FALSE,TRUE
-Stephen Foster Elem Sch,Auditorium,3700 Clover Ln,Dallas,TX,75220,32.8699709,-96.85450689,FALSE,TRUE
-Sudie Williams Tag Academy,Auditorium,4518 Pomona Rd,Dallas,TX,75209,32.8546874,-96.8318131,FALSE,TRUE
-North Park Community Corp,Front Foyer,4619 W University Blvd,Dallas,TX,75209,32.84494549,-96.83108747,FALSE,TRUE
-K B Polk Vanguard Center Atg,Auditorium,6911 Victoria Ave,Dallas,TX,75209,32.8424771,-96.83166035,FALSE,TRUE
-Maple Lawn Elem School,Auditorium,3120 Inwood Rd,Dallas,TX,75235,32.8258424,-96.82951389,FALSE,TRUE
-Arlington Park Recreation Center,Gym,1505 Record Crossing Rd,Dallas,TX,75235,32.81701925,-96.85824383,FALSE,TRUE
-Esperanza Hope Medrano Elem School,Auditorium,2221 Lucas Dr,Dallas,TX,75219,32.808533,-96.82724895,FALSE,TRUE
-L G Pinkston High School,Main Lobby,2200 Dennison St,Dallas,TX,75212,32.7811072,-96.85855978,FALSE,TRUE
-Victory Cathedral,Lobby,3407 N Westmoreland Rd,Dallas,TX,75212,32.78283292,-96.87390292,FALSE,TRUE
-El Centro College - West Campus,Main Lobby,3330 North Hampton Rd,Dallas,TX,75212,32.78263985,-96.85596824,FALSE,TRUE
-C F Carr Elem School,Auditorium Lobby,1952 Bayside St,Dallas,TX,75212,32.78789095,-96.8527168,FALSE,TRUE
-Reverchon Recreation Center,Multi-Purpose Rm,3505 Maple Ave,Dallas,TX,75219,32.80195432,-96.81192231,FALSE,TRUE
-Margaret B. Henderson Elem School,Gym,2200 S Edgefield Ave,Dallas,TX,75224,32.72374765,-96.84330865,FALSE,TRUE
-Harrell Budd Elem School,Gym,2121 S Marsalis Ave,Dallas,TX,75216,32.7219896,-96.81497146,FALSE,TRUE
-Bexar Street Baptist Church,Fellowship Hall,2018 S Marsalis Ave,Dallas,TX,75216,32.7212386,-96.8145749,FALSE,TRUE
-Trinity Heights Talented & Gifted,"Auditorium, Room 200",1515 Lynn Haven Ave,Dallas,TX,75216,32.73232,-96.802325,FALSE,TRUE
-The Union Church,"Education Bldg, Rm 4 & 6",3410 S Polk St,Dallas,TX,75224,32.636379,-96.8401516,FALSE,TRUE
-Clinton P Russell Elem School,Auditorium,3031 S Beckley Ave,Dallas,TX,75224,32.70857945,-96.82390015,FALSE,TRUE
-Mountain Creek Library,Auditorium,6102 Mountain Creek Pkwy,Dallas,TX,75249,32.65060905,-96.96602241,FALSE,TRUE
-Bilhartz Elem School,"Gym, Rm 218A",6700 Wandt Dr,Dallas,TX,75236,32.66563085,-96.92911503,FALSE,TRUE
-Leslie Stemmons Elem School,Auditorium,2727 Knoxville St,Dallas,TX,75211,32.7156409,-96.90152168,FALSE,TRUE
-Palabra De Vida Church,Multi-Purpose Bldg,2550 W Illinois Ave,Dallas,TX,75233,32.7203958,-96.869772,FALSE,TRUE
-Kiest Rec Center,Small Rm,3081 S Hampton Rd,Dallas,TX,75224,32.725794,-96.8571007,FALSE,TRUE
-Nancy Jane Cochran Elementary,Auditorium,6000 Keeneland Pkwy,Dallas,TX,75211,32.73586715,-96.92520555,FALSE,TRUE
-L O Donald Elem School,Auditorium,1218 Phinney Ave,Dallas,TX,75211,32.732462,-96.88647693,FALSE,TRUE
-Lelia P Cowart Elem School,Auditorium Hallway,1515 S Ravinia Dr,Dallas,TX,75211,32.72794675,-96.86988389,FALSE,TRUE
-Elmwood-El Buen Samaritano UMC,"Wesley Hall, Loyalty Rm",1315 Berkley Ave,Dallas,TX,75224,32.72433877,-96.84321662,FALSE,TRUE
-Martin Weiss Rec Center,Small Rm/Ac,1111 Martindell Ave,Dallas,TX,75211,32.73430782,-96.8762152,FALSE,TRUE
-Arcadia Park Elem School,Main Bldg Entry Hall,1300 N Justin Ave,Dallas,TX,75211,32.75926665,-96.91039613,FALSE,TRUE
-Anson Jones Elem School,Conference Room (Front Entrance),3901 Meredith Ave,Dallas,TX,75211,32.7429706,-96.88462799,FALSE,TRUE
-George Peabody Elem School,Auditorium,3101 Raydell Pl,Dallas,TX,75211,32.7428685,-96.8724854,FALSE,TRUE
-Lida Hooe Elem School,Room 104,2419 Gladstone Dr,Dallas,TX,75211,32.7407332,-96.85738812,FALSE,TRUE
-Winnetka Elem School,Gym,1151 S Edgefield Ave,Dallas,TX,75208,32.7341971,-96.84518083,FALSE,TRUE
-John F Peeler Elem School,Library,810 S Llewellyn Ave,Dallas,TX,75208,32.7381317,-96.83041225,FALSE,TRUE
-Oak Cliff Sub - Courthouse,1St Fl Lobby,410 S Beckley Ave,Dallas,TX,75203,32.74091709,-96.82292918,FALSE,TRUE
-Preparing The Way Ministries,"Sanctuary, Situation Rm",2442 W Jefferson Blvd,Dallas,TX,75211,32.74742065,-96.85833905,FALSE,TRUE
-Sunset High School - Annex Bldg,Room 410/411,2120 W Jefferson Blvd,Dallas,TX,75208,32.74626,-96.85436,FALSE,TRUE
-John H Reagan School,"Computer Lab, #102",201 N Adams Ave,Dallas,TX,75208,32.7468386,-96.83079106,FALSE,TRUE
-Stevens Park Elem School,Auditorium Foyer,2615 W Colorado Blvd,Dallas,TX,75211,32.7605907,-96.86564461,FALSE,TRUE
-Rosemont Elem School/Upper Campus,Gym,719 N Montclair Ave,Dallas,TX,75208,32.75171255,-96.84689281,FALSE,TRUE
-Kidd Springs Rec Center,Sm Activity Center,711 W Canty St,Dallas,TX,75208,32.7528977,-96.83537955,FALSE,TRUE
-Kessler Park United Methodist Chur,Fellowship Hall,1215 Turner Ave,Dallas,TX,75208,32.76022365,-96.83971534,FALSE,TRUE
-Eladio R Martinez Learning Center,Library,4500 Bernal Dr,Dallas,TX,75212,32.7868234,-96.8938192,FALSE,TRUE
-Sidney Lanier Expressive Arts Vanguard,Auditorium Foyer,1400 Walmsley Ave,Dallas,TX,75208,32.76840135,-96.84412447,FALSE,TRUE
-Anita Martinez Rec Center,Back Lg Rm,3212 N Winnetka Ave,Dallas,TX,75212,32.78064522,-96.83963451,FALSE,TRUE
-Grauwyler Park Rec Center,Gym,7780 Harry Hines Blvd,Dallas,TX,75235,32.83221075,-96.85901836,FALSE,TRUE
-Julian T. Saldivar Elem School,Foyer,9510 Brockbank Dr,Dallas,TX,75220,32.8645695,-96.87311181,FALSE,TRUE
-Park Forest Branch Library,Auditorium,3421 Forest Ln,Dallas,TX,75234,32.9101007,-96.86356818,FALSE,TRUE
-David G Burnet Elem School,Auditorium,3200 Kinkaid Dr,Dallas,TX,75220,32.87649425,-96.86922745,FALSE,TRUE
-Boude Storey Middle School,Main Lobby,3000 Maryland Ave,Dallas,TX,75216,32.70866175,-96.81240156,FALSE,TRUE
-Potters House,The Place Ball Room,6777 W Kiest Blvd,Dallas,TX,75236,32.7058036,-96.8986227,FALSE,TRUE
-Mountain View College - E Bldg,East Foyer,4849 W Illinois Ave,Dallas,TX,75211,32.7266367,-96.903603,FALSE,TRUE
-Cockrell Hill City Hall,Council Chambers,4125 W Clarendon Dr,Cockrell Hill,TX,75211,32.735071,-96.887819,FALSE,TRUE
-Suzanna Dickinson Elem,"Music Rm, D113",1902 Palmer Trl,Grand Prairie,TX,75052,32.65488295,-97.03058587,FALSE,TRUE
-Betty Warmack Library,Foyer,760 Bardin Rd,Grand Prairie,TX,75052,32.66705929,-97.01389837,FALSE,TRUE
-Ruthe Jackson Center,Ball Room,3113 S Carrier Pkwy,Grand Prairie,TX,75052,32.69736515,-97.01377129,FALSE,TRUE
-Daniels Academy,Front Foyer,801 Sw 19Th St,Grand Prairie,TX,75051,32.73308605,-97.03006664,FALSE,TRUE
-Ellen Ochoa Stem Academy/Milam - GPISD,Project Rm,2030 Proctor Dr,Grand Prairie,TX,75051,32.7174965,-97.01270911,FALSE,TRUE
-Ywla @ Arnold Middle School,Sm Gym,1204 E Marshall Dr,Grand Prairie,TX,75051,32.72183305,-96.98805755,FALSE,TRUE
-Bowie Fine Arts Academy - GPISD,Teacher Work Rm,425 Alice Dr,Grand Prairie,TX,75051,32.73697635,-97.00688033,FALSE,TRUE
-Charley Taylor Rec Center,Meeting Room,601 E Grand Prairie Rd,Grand Prairie,TX,75051,32.7419623,-96.9964163,FALSE,TRUE
-Houston Professional Staff Development Ctr,Staff Development Side,1502 College St,Grand Prairie,TX,75050,32.7483063,-97.02392628,FALSE,TRUE
-Crosswinds High School,Gym - Rm 104,1100 N Carrier Pkwy,Grand Prairie,TX,75050,32.75656085,-97.01853215,FALSE,TRUE
-Travis World Language Academy,Sm Gym,525 Ne 15Th St,Grand Prairie,TX,75050,32.7517591,-96.98734799,FALSE,TRUE
-Eisenhower Elementary School,Music Rm,2102 N Carrier Pkwy,Grand Prairie,TX,75050,32.76934255,-97.02219282,FALSE,TRUE
-Ministerios Cielo En La Tierra,Sanctuary,3313 Gilbert Rd,Grand Prairie,TX,75050,32.81100834,-97.00254071,FALSE,TRUE
-Ronald W Reagan Middle School,Main Gym,4616 Bardin Rd,Grand Prairie,TX,75052,32.66093885,-96.99415953,FALSE,TRUE
-Sam Rayburn Elem School,Library,2800 Reforma Dr,Grand Prairie,TX,75052,32.7027768,-96.9895694,FALSE,TRUE
-Lorenzo De Zavala Academy,Parent Room,3410 Kirby Creek Dr,Grand Prairie,TX,75052,32.68838905,-97.00704043,FALSE,TRUE
-Truman Middle School,Library A126,1501 Coffeyville Trl,Grand Prairie,TX,75052,32.65419735,-97.0233634,FALSE,TRUE
-Johnson (Lbj) Daep - GPISD,Main Entrance,650 Stonewall Dr,Grand Prairie,TX,75052,32.7000148,-97.0104688,FALSE,TRUE
-Hector P. Garcia Elem School - GPISD,Gym,2444 Graham St,Grand Prairie,TX,75050,32.7567688,-96.9686487,FALSE,TRUE
-Our Redeemer Lutheran Church - Gp,Fellowship Hall,4729 S Carrier Pkwy,Grand Prairie,TX,75052,32.6560316,-97.0049107,FALSE,TRUE
-Global Leadership Academy At Bush - GPISD,Gym,511 E Springdale Ln,Grand Prairie,TX,75052,32.70232435,-96.9971607,FALSE,TRUE
-Sally B Elliott Elem School,Small Gym,1900 S Story Rd,Irving,TX,75060,32.79045955,-96.97557968,FALSE,TRUE
-Nimitz High School,Auditorium Foyer,100 W Oakdale Rd,Irving,TX,75060,32.7921527,-96.94664159,FALSE,TRUE
-Otis Brown Elem School,Small Gym,2501 Tenth St,Irving,TX,75060,32.806009,-96.979981,FALSE,TRUE
-Lamar Middle School,Small Gym,219 Crandall Rd,Irving,TX,75060,32.8126867,-96.98381156,FALSE,TRUE
-Irving City Hall,Main Lobby,825 W Irving Blvd,Irving,TX,75060,32.81405105,-96.95566275,FALSE,TRUE
-J O Davis Elem School,Rm 109,310 Davis Dr,Irving,TX,75061,32.8181782,-96.999079,FALSE,TRUE
-L B Barton Elem School,Small Gym,2931 Conflans Rd,Irving,TX,75061,32.82277815,-96.98639464,FALSE,TRUE
-Irving High School,Tiger Room,900 N O'Connor Rd,Irving,TX,75061,32.82455205,-96.94944414,FALSE,TRUE
-Good Elementary School - IRISD,Library,1200 E Union Bower Rd,Irving,TX,75061,32.82202165,-96.93076813,FALSE,TRUE
-David Crockett Middle School,Main Entrance,2431 Hancock St,Irving,TX,75061,32.83550915,-96.97788552,FALSE,TRUE
-Lively Elem School,Front Hallway,1800 Plymouth Dr W,Irving,TX,75061,32.82997,-96.96877,FALSE,TRUE
-Oak Haven United Methodist Church,Fellowship Hall,1600 N Irving Heights Dr,Irving,TX,75061,32.830561,-96.926502,FALSE,TRUE
-Thomas Haley Elem School,Sm Gym,3601 Cheyenne St,Irving,TX,75062,32.85538095,-97.00148701,FALSE,TRUE
-W T Hanes Elem School,Sm Gym,2730 Cheyenne St,Irving,TX,75062,32.8427524,-97.00280076,FALSE,TRUE
-A S Johnston Elem School,Small Gym,2801 Rutgers Dr,Irving,TX,75062,32.8433868,-96.98436758,FALSE,TRUE
-Brandenburg Elem,Small Gym,2800 Hillcrest Dr,Irving,TX,75062,32.8455609,-96.96537193,FALSE,TRUE
-Macarthur High School,Dance Studio,3700 N Macarthur Blvd,Irving,TX,75062,32.8523634,-96.95676954,FALSE,TRUE
-Irving Fire Station # 8,Bay,650 E Las Colinas Blvd,Irving,TX,75039,32.8685767,-96.9405056,FALSE,TRUE
-Bear Creek Community Church,Breezeway,2700 Finley Rd,Irving,TX,75062,32.8503947,-96.98221964,FALSE,TRUE
-T J Lee Elem School,Small Gym,1600 Carlisle St,Irving,TX,75062,32.8534179,-96.96649329,FALSE,TRUE
-Travis Middle School,Gym,1600 Finley Rd,Irving,TX,75062,32.8500303,-96.96652917,FALSE,TRUE
-North Lake College - F Bldg,Rm F105,5001 N Macarthur Blvd,Irving,TX,75038,32.879221,-96.963064,FALSE,TRUE
-Singley Academy,Auditorium Foyer,4601 N MacArthur Blvd,Irving,TX,75038,32.868117,-96.961836,FALSE,TRUE
-Sam Houston Middle School - IRISD,Aux Gym,3033 Country Club Dr W,Irving,TX,75038,32.8621,-96.9867,FALSE,TRUE
-Irving Arts Center,Ste 203,3333 N Macarthur Blvd,Irving,TX,75062,32.905012,-96.958858,FALSE,TRUE
-Las Colinas Elem School,Library,2200 Kinwest Pkwy,Irving,TX,75063,32.9157721,-96.97823141,FALSE,TRUE
-Barbara Cardwell Career Prep,Main Hallway,101 E Union Bower Rd,Irving,TX,75061,32.821304,-96.946122,FALSE,TRUE
-Mustang Park Rec Center,Large Activity Room,2223 Kinwest Pkwy,Irving,TX,75063,32.91711915,-96.97860773,FALSE,TRUE
-Britain Elementary School,Small Gym,631 Edmondson Dr,Irving,TX,75060,32.8054655,-96.93937286,FALSE,TRUE
-Irving Fire Station #2,Bay,1306 N Story Rd,Irving,TX,75061,32.82619396,-96.97633806,FALSE,TRUE
+name,room,address,city,state,zipCode,latitude,longitude,isEarlyVotingLocation,isVotingDayLocation,referenceId
+Alan E Sims Cedar Hill Recreation Center,Texas Room,310 E. Parkerville Road,Cedar Hill,TX,75104,32.57442645,-96.93789874,TRUE,FALSE,67
+Alfred J. Loos Sports Complex,Gymnasium,3815 Spring Valley Road,Addison,TX,75240,32.94004191,-96.85075128,TRUE,FALSE,117
+American Airlines Center,1876 Club-North Entrance,2500 Victory Avenue,Dallas,TX,75219,32.7905076,-96.81027213,TRUE,FALSE,120
+Audelia Road Branch Library,Auditorium,10045 Audelia Road,Dallas,TX,75238,32.8857486,-96.71834737,TRUE,FALSE,61
+Balch Springs Civic Center,Meeting Room,12400 Elam Road,Balch Springs,TX,75180,32.719635,-96.6591661,TRUE,FALSE,63
+Bear Creek Community Church,Breezeway,2700 Finley Road,Irving,TX,75062,32.8503947,-96.98221964,TRUE,FALSE,62
+Betty Warmack Library,Empower Room,760 Bardin Road,Grand Prairie,TX,75052,32.66705929,-97.01389837,TRUE,FALSE,65
+Brookhaven College,W' Building - Room W105,3939 Valley View Lane,Farmers Branch,TX,75244,32.9301327,-96.8484134,TRUE,FALSE,64
+Carrollton Farmers Branch ISD,Service Building 'C',1820 Pearl Street,Carrollton,TX,75006,32.95602989,-96.89405878,TRUE,FALSE,68
+Carrollton Senior Center,Texas Room,1720 Keller Springs Road,Carrollton,TX,75006,32.97129095,-96.89299867,TRUE,FALSE,114
+Cedar Hill Government Center,Main Lobby,285 Uptown Boulevard,Cedar Hill,TX,75104,32.5931059,-96.95126331,TRUE,FALSE,66
+Cedar Valley College,M' Building - Room M105,3030 North Dallas Avenue,Lancaster,TX,75134,32.62564837,-96.77130208,TRUE,FALSE,71
+Cimarron Park Recreation Center,Gymnasium,201 Red River Trail,Irving,TX,75063,32.9314098,-96.94630207,TRUE,FALSE,118
+Coppell Arts Center,Reception Hall,505 Travis Street,Coppell,TX,75019,32.9519408,-97.0047113,TRUE,FALSE,69
+Coppell Town Center,Main Lobby,255 E. Parkway Boulevard,Coppell,TX,75019,32.97757539,-96.9880171,TRUE,FALSE,74
+Desoto ISD Belt Line Conference Center,Conference Room,200 E. Belt Line Road,Desoto,TX,75115,32.589634,-96.855708,TRUE,FALSE,116
+Disciple Central Community Church,Youth Room,901 N. Polk Street,DeSoto,TX,75115,32.604389,-96.84086,TRUE,FALSE,70
+Duncanville Library,"Rooms 1\, 2\, & 3",201 James Collins Boulevard,Duncanville,TX,75116,32.64861061,-96.90744144,TRUE,FALSE,72
+Eastfield College Main Campus,S' Bldg. - Community Rms S100-102,3737 Motley Drive,Mesquite,TX,75150,32.81882545,-96.65861605,TRUE,FALSE,73
+Eastfield College Pleasant Grove Campus,Community Rms 108/109,802 S. Buckner Boulevard,Dallas,TX,75217,32.796698,-96.683316,TRUE,FALSE,75
+El Centro College-Main Campus,Student Center,801 Main Street,Dallas,TX,75202,32.7797819,-96.80550117,TRUE,FALSE,77
+El Centro College-West Campus,Student Center,3330 N. Hampton Road,Dallas,TX,75212,32.78263985,-96.85596824,TRUE,FALSE,78
+Farmers Branch Manske Library,Meeting Room,13613 Webb Chapel Road,Farmers Branch,TX,75234,32.9334441,-96.87375508,TRUE,FALSE,79
+Florence Recreation Center,Lobby Area,2501 Whitson Way,Mesquite,TX,75150,32.82824494,-96.63687502,TRUE,FALSE,76
+Fretz Park Library,Black Box Theater,6990 Belt Line Road,Dallas,TX,75254,32.9495865,-96.78326976,TRUE,FALSE,82
+Friendship West Baptist Church,Northex Lobby,2020 W. Wheatland Road,Dallas,TX,75232,32.6466827,-96.8515695,TRUE,FALSE,81
+George L. Allen Sr Courts Bldg,Main Lobby,600 Commerce St.,Dallas,TX,75202,32.7770658,-96.8127258,TRUE,FALSE,80
+Glenn Heights City Hall,Council Chambers,1938 S. Hampton Road,Glenn Heights,TX,75154,32.55242873,-96.85688681,TRUE,FALSE,89
+Grauwyler Park Recreation Center,Room A,7780 Harry Hines Boulevard,Dallas,TX,75235,32.83221075,-96.85901836,TRUE,FALSE,84
+Harry Stone Recreation Center,Small Room,2403 Millmar Drive,Dallas,TX,75228,32.82611704,-96.67430188,TRUE,FALSE,83
+Highland Hills Library,Auditorium,6200 Bonnie View Road,Dallas,TX,75241,32.670714,-96.761347,TRUE,FALSE,87
+Hutchins City Hall,Council Chambers,321 N. Main Street,Hutchins,TX,75141,32.64961174,-96.71330984,TRUE,FALSE,86
+Irving Arts Center,Suite 200,3333 N. MacArthur Boulevard,Irving,TX,75062,32.905012,-96.958858,TRUE,FALSE,85
+Irving City Hall,Main Lobby,825 W. Irving Boulevard,Irving,TX,75060,32.81405105,-96.95566275,TRUE,FALSE,88
+Lakeside Activity Center,Large Room,101 Holley Park Drive,Mesquite,TX,75149,32.763807,-96.59952194,TRUE,FALSE,90
+Lancaster Veterans Memorial Library,The Meeting Room,1600 Veterans Memorial Parkway,Lancaster,TX,75134,32.6126545,-96.7584135,TRUE,FALSE,92
+Lochwood Library,Black Box Room,11221 Lochwood Boulevard,Dallas,TX,75218,32.848481,-96.68820698,TRUE,FALSE,91
+Marsh Lane Baptist Church,Fellowship Hall,10716 Marsh Lane,Dallas,TX,75229,32.89418425,-96.85559502,TRUE,FALSE,93
+Martin Luther King Recreation Center,Gymnasium,2901 Pennsylvania Avenue,Dallas,TX,75215,32.768889,-96.765458,TRUE,FALSE,94
+Martin Weiss Recreation Center,Small Room,1111 Martindell Avenue,Dallas,TX,75211,32.73430782,-96.8762152,TRUE,FALSE,97
+Mountain View College,E' Building - Main Lobby,4849 W. Illinois Avenue,Dallas,TX,75211,32.7266367,-96.903603,TRUE,FALSE,95
+North Lake College,F' Building - Room F105,5001 N. MacArthur Boulevard,Irving,TX,75038,32.879221,-96.963064,TRUE,FALSE,96
+Oak Cliff Sub-Courthouse,The Main Lobby,410 S. Beckley Avenue,Dallas,TX,75203,32.74091709,-96.82292918,TRUE,FALSE,98
+Oak Lawn Branch Library,Auditorium,4100 Cedar Springs Road,Dallas,TX,75219,32.81237785,-96.812414,TRUE,FALSE,119
+Our Redeemer Lutheran Church - Dallas,The Parlor Room\/Lobby,7611 Park Lane,Dallas,TX,75225,32.8727429,-96.77525579,TRUE,FALSE,99
+Our Redeemer Lutheran Church - Grand Prairie,Fellowship Hall,4729 S Carrier Parkway,Grand Prairie,TX,75052,32.6560316,-97.0049107,TRUE,FALSE,100
+Park in the Woods Recreation Center,Gymnasium,6801 Mountain Creek Parkway,Dallas,TX,75249,32.64151455,-96.95554124,TRUE,FALSE,103
+Paul L. Dunbar Lancaster-Kiest Library,Classroom A & B,2008 East Kiest Boulevard,Dallas,TX,75216,32.71477235,-96.79058102,TRUE,FALSE,101
+Randolph Reed Center,Room 106,1933 Spikes Street,Grand Prairie,TX,75051,32.73400815,-97.02976855,TRUE,FALSE,102
+Richardson Civic Center,Parks Room,411 W Arapaho Road,Richardson,TX,75080,32.96096525,-96.73327625,TRUE,FALSE,105
+Richland College-Garland Campus,Main Lobby,675 W Walnut Street,Garland,TX,75040,32.9163161,-96.63767179,TRUE,FALSE,106
+Richland College-Main Campus,Guadalupe 'G' Building - Foyer Area,12800 Abrams Road,Dallas,TX,75243,32.92053885,-96.7288082,TRUE,FALSE,104
+Rowlett Community Centre,Gymnasium B,5300 Main Street,Rowlett,TX,75088,32.903484,-96.555237,TRUE,FALSE,107
+Sachse Senior Center,Building A - Multi-Purpose Room,3815 Sachse Road,Sachse,TX,75048,32.9731855,-96.5834332,TRUE,FALSE,108
+Samuell Grand Recreation Center,General Purpose Room,6200 East Grand Avenue,Dallas,TX,75223,32.797895,-96.742482,TRUE,FALSE,109
+Skyline Branch Library,Auditorium,6006 Everglade Road,Dallas,TX,75227,32.78551269,-96.69990855,TRUE,FALSE,111
+South Garland Branch Library,The Program Room,4845 Broadway Boulevard,Garland,TX,75043,32.85523065,-96.60248573,TRUE,FALSE,112
+University Park United Methodist Church,Caldwell Room 120,4024 Caruth Boulevard,Dallas,TX,75225,32.85889352,-96.80251762,TRUE,FALSE,110
+Valley Ranch Library,Program Room,401 Cimarron Trail,Irving,TX,75063,32.93406595,-96.95068534,TRUE,FALSE,113
+Wilmer Community Center,Main Room,101 Davidson Plaza,Wilmer,TX,75172,32.589819,-96.684957,TRUE,FALSE,115
+Sam Tasby Middle School,Rm 114,7001 Fair Oaks Ave,Dallas,TX,75231,32.87234825,-96.76069142,FALSE,TRUE,
+Vickery Baptist Church,Multipurpose Rm,5814 Ridgecrest Rd,Dallas,TX,75231,32.8723158,-96.76196308,FALSE,TRUE,
+Hamilton Park United Methodist Church,Clc/Gym,11881 Schroeder Dr,Dallas,TX,75243,32.910655,-96.76386,FALSE,TRUE,
+Forest Meadow Jr High School,Front Office,9373 Whitehurst Dr,Dallas,TX,75243,32.9012901,-96.73971922,FALSE,TRUE,
+New Mount Zion Baptist Church,"Educational Bldg, Chapel",9550 Shepherd Rd,Dallas,TX,75243,32.90606045,-96.74986054,FALSE,TRUE,
+Moss Haven Elem School,Gym,9202 Moss Farm Ln,Dallas,TX,75243,32.8954072,-96.7437231,FALSE,TRUE,
+Lee Mcshan Jr Elementary School,Main Lobby,8307 Meadow Rd,Dallas,TX,75231,32.88851305,-96.76088689,FALSE,TRUE,
+North Dallas High School,Auditorium,3813 Mckinney Ave,Dallas,TX,75204,32.8002906,-96.8008762,FALSE,TRUE,
+Multiple Careers Magnet Ctr,Auditorium,4528 Rusk Ave,Dallas,TX,75204,32.8077066,-96.78436046,FALSE,TRUE,
+Solar Preparatory School For Girls,Cafeteria,2617 N Henderson Ave,Dallas,TX,75206,32.8162622,-96.78162011,FALSE,TRUE,
+Ben Milam Elem Sch - DISD,Cafeteria,4200 Mckinney Ave,Dallas,TX,75205,32.8164109,-96.7901167,FALSE,TRUE,
+Oaklawn Branch Library,Auditorium,4100 Cedar Springs Rd,Dallas,TX,75219,32.81237785,-96.812414,FALSE,TRUE,
+The Father's Church,Saints Rm,2707 Abrams Rd,Dallas,TX,75214,32.8388248,-96.7528591,FALSE,TRUE,
+Audelia Creek Elem School,Gym,12600 Audelia Rd,Dallas,TX,75243,32.919686,-96.71492313,FALSE,TRUE,
+Richland College - Lecroy Center,"Conference Room, R12",9596 Walnut St,Dallas,TX,75243,32.923532,-96.727152,FALSE,TRUE,
+A M Aikin Elem School,Gym,12300 Pleasant Valley Dr,Dallas,TX,75243,32.91494385,-96.72265887,FALSE,TRUE,
+Northwood Hills Elem Sch,Gym,14532 Meandering Way,Dallas,TX,75254,32.948362,-96.7787059,FALSE,TRUE,
+Spring Valley Elem School,Gym,13535 Spring Grove Ave,Dallas,TX,75240,32.93338695,-96.77520407,FALSE,TRUE,
+RISD Academy,Small Gym,13630 Coit Rd,Dallas,TX,75240,32.93406595,-96.76830702,FALSE,TRUE,
+Thurgood Marshall Elem School,Gym,9666 Ferris Branch Blvd,Dallas,TX,75243,32.9027685,-96.72532795,FALSE,TRUE,
+Skyview Elem School,Gym,9229 Meadowknoll Dr,Dallas,TX,75243,32.90250165,-96.73392008,FALSE,TRUE,
+Highland Meadows Elem School,Auditorium,8939 Whitewing Ln,Dallas,TX,75238,32.8707845,-96.68759687,FALSE,TRUE,
+Martha T Reilly Elem,Auditorium,11230 Lippitt Ave,Dallas,TX,75218,32.85480455,-96.68839358,FALSE,TRUE,
+Merriman Park Elem School,Cafeteria,7101 Winedale Dr,Dallas,TX,75231,32.8796981,-96.74004905,FALSE,TRUE,
+Lochwood Branch Library,Black Box Theater,11221 Lochwood Blvd,Dallas,TX,75218,32.848481,-96.68820698,FALSE,TRUE,
+Casa View Elem School,Auditorium Foyer,2100 N Farola Dr,Dallas,TX,75228,32.845698,-96.675373,FALSE,TRUE,
+Charles A Gill Elem Sch,Auditorium,10910 Ferguson Rd,Dallas,TX,75228,32.8442129,-96.66075097,FALSE,TRUE,
+St Pius X Church Parish,Parish Hall,3030 Gus Thomasson Rd,Dallas,TX,75228,32.83353045,-96.6667013,FALSE,TRUE,
+Harry Stone Recreation Center,Lg Room,2403 Millmar Dr,Dallas,TX,75228,32.82611704,-96.67430188,FALSE,TRUE,
+Reinhardt Elem School,Auditorium,10122 Losa Dr,Dallas,TX,75218,32.8372125,-96.69059362,FALSE,TRUE,
+Alex Sanger Preparatory School,Auditorium,8410 San Leandro Dr,Dallas,TX,75218,32.81397715,-96.70955058,FALSE,TRUE,
+W H Gaston Middle School,Auditorium Foyer,9565 Mercer Dr,Dallas,TX,75228,32.82523725,-96.69380228,FALSE,TRUE,
+George Truett Elem Sch,Auditorium,1811 Gross Rd,Dallas,TX,75228,32.81604205,-96.68348614,FALSE,TRUE,
+Grace United Meth Church,Parlor,4105 Junius St,Dallas,TX,75246,32.7877078,-96.7818705,FALSE,TRUE,
+Lakewood Branch Library,Auditorium,6121 Worth St,Dallas,TX,75214,32.81037485,-96.7534226,FALSE,TRUE,
+The Church At Junius Heights,Fellowship Hall,5429 Reiger Ave,Dallas,TX,75214,32.80057014,-96.75943986,FALSE,TRUE,
+Samuell Grand Rec Center,Game Rm,6200 E Grand Ave,Dallas,TX,75223,32.797895,-96.742482,FALSE,TRUE,
+Eduardo Mata Montessori School,Library,7420 La Vista Dr,Dallas,TX,75214,32.8065072,-96.73141079,FALSE,TRUE,
+Bayles Elem School,"Computer Lab, Rm 121",2444 Telegraph Ave,Dallas,TX,75228,32.8009511,-96.70686174,FALSE,TRUE,
+S S Conner Elem School,Auditorium,3037 Greenmeadow Dr,Dallas,TX,75228,32.8086723,-96.6941894,FALSE,TRUE,
+Owenwood Farm & Neighbor Space,Multi Purpose Rm,1451 John West Rd,Dallas,TX,75228,32.8075284,-96.69284385,FALSE,TRUE,
+Colonial Baptist Church,Main Hall,6459 Scyene Rd,Dallas,TX,75227,32.7638667,-96.71035262,FALSE,TRUE,
+Edna Rowe Elem School,Auditorium,4918 Hovenkamp Dr,Dallas,TX,75227,32.7855151,-96.7068034,FALSE,TRUE,
+Urban Park Elem School,Auditorium,6901 Military Pkwy,Dallas,TX,75227,32.7739701,-96.70171532,FALSE,TRUE,
+Skyline High School,Auditorium Foyer,7777 Forney Rd,Dallas,TX,75227,32.78081465,-96.69031015,FALSE,TRUE,
+Skyline Branch Library,Auditorium,6006 Everglade Rd,Dallas,TX,75227,32.78551269,-96.69990855,FALSE,TRUE,
+San Jacinto Elem School,Auditorium,7900 Hume Dr,Dallas,TX,75227,32.7570001,-96.68595727,FALSE,TRUE,
+Annie Webb Blanton School,Auditorium,8915 Greenmound Ave,Dallas,TX,75227,32.75192475,-96.66870487,FALSE,TRUE,
+Edward Titche Elem School,Auditorium,9560 Highfield Dr,Dallas,TX,75227,32.7547591,-96.65856851,FALSE,TRUE,
+Nueva Vida Life Assembly,Sanctuary,10747 Bruton Rd,Dallas,TX,75217,32.74852545,-96.64173023,FALSE,TRUE,
+John Ireland Elem School,Auditorium,1515 N Jim Miller Rd,Dallas,TX,75217,32.7394974,-96.70150753,FALSE,TRUE,
+Nathaniel Hawthorne School,Auditorium,7800 Umphress Rd,Dallas,TX,75217,32.74207155,-96.68888231,FALSE,TRUE,
+Eastfield College - Pleasant Grove Campus,Rm 108,802 S Buckner Blvd,Dallas,TX,75217,32.796698,-96.683316,FALSE,TRUE,
+W W Samuell High School,Entrance Foyer,8928 Palisade Dr,Dallas,TX,75217,32.74591635,-96.66775983,FALSE,TRUE,
+Ymla @ Florence Middle School,Auditorium,1625 N Masters Dr,Dallas,TX,75217,32.7411776,-96.65022129,FALSE,TRUE,
+E B Comstock Middle School,Auditorium,7044 Hodde St,Dallas,TX,75217,32.72137055,-96.70212041,FALSE,TRUE,
+Pleasant Grove Library,Black Box Theater,7310 Lake June Rd,Dallas,TX,75217,32.73457918,-96.69440577,FALSE,TRUE,
+B H Macon Elem School,Auditorium,650 Holcomb Rd,Dallas,TX,75217,32.7223714,-96.67328261,FALSE,TRUE,
+William Anderson Elem Sch,Auditorium,620 N St Augustine Rd,Dallas,TX,75217,32.7216838,-96.65507635,FALSE,TRUE,
+Richard Lagow Elem School,Main Lobby,637 Edgeworth Dr,Dallas,TX,75217,32.70248875,-96.63674297,FALSE,TRUE,
+H Grady Spruce High School,Auditorium,9733 Old Seagoville Rd,Dallas,TX,75217,32.70983055,-96.65326633,FALSE,TRUE,
+Fireside Recreation Center,Lg Gym,8601 Fireside,Dallas,TX,75217,32.697982,-96.671675,FALSE,TRUE,
+Edwin J Kiest Elem School,Auditorium,2611 Healey Dr,Dallas,TX,75228,32.82604985,-96.66973593,FALSE,TRUE,
+Ignite Middle School,Main Entrance,2211 Caddo St,Dallas,TX,75204,32.8015818,-96.78958174,FALSE,TRUE,
+St Luke Comm Un. Meth Chur,Fellowship Hall,5710 E R L Thornton Frwy,Dallas,TX,75223,32.7917,-96.742012,FALSE,TRUE,
+Solar Preparatory School For Boys,Auditorium,1802 Moser Ave,Dallas,TX,75206,32.80933755,-96.77320043,FALSE,TRUE,
+Living Waters Church Of God,Fellowship Hall 005,11110 Shiloh Rd,Dallas,TX,75228,32.84744165,-96.66606231,FALSE,TRUE,
+Lake Highlands High School,Auditorium Foyer,9449 Church Rd,Dallas,TX,75238,32.88642585,-96.72850429,FALSE,TRUE,
+Forester Field House,Main Lobby,8233 Military Pkwy,Dallas,TX,75227,32.77117095,-96.67562637,FALSE,TRUE,
+Ed Vanston Middle School,Classroom C6,3230 Karla Dr,Mesquite,TX,75150,32.82770055,-96.64554175,FALSE,TRUE,
+Florence Recreation Center,Event Center,2501 Whitson Way,Mesquite,TX,75150,32.82824494,-96.63687502,FALSE,TRUE,
+Vernon Price Elem School,Cafeteria,630 Stroud Ln,Garland,TX,75043,32.84736075,-96.62367935,FALSE,TRUE,
+Eastfield College - Main Campus,C Bldg - Admissions Foyer,3737 Motley Dr,Mesquite,TX,75150,32.81882545,-96.65861605,FALSE,TRUE,
+Goodbar Recreation Center,Main Room,3000 Concord Dr,Mesquite,TX,75150,32.80996124,-96.64371895,FALSE,TRUE,
+Zack Motley Elem School,Portable 119,3719 Moon Dr,Mesquite,TX,75150,32.8189523,-96.65436193,FALSE,TRUE,
+Range Elem School,Library,4060 Emerald Dr,Mesquite,TX,75150,32.80094857,-96.6596435,FALSE,TRUE,
+Tosch Elem School,Library,2424 Larchmont Dr,Mesquite,TX,75150,32.799388,-96.6372061,FALSE,TRUE,
+J C Rugel Elem School,Cafeteria,2701 Sybil Dr,Mesquite,TX,75149,32.78452855,-96.63813378,FALSE,TRUE,
+Galloway Elem School,Entrance Foyer,200 Clary Dr,Mesquite,TX,75149,32.77064115,-96.63555654,FALSE,TRUE,
+Mesquite Convention Center,Exhibit Hall,1700 Rodeo Dr,Mesquite,TX,75149,32.76219935,-96.62351426,FALSE,TRUE,
+West Mesquite High School,Front Entrance - West Foyer,2500 Memorial Pkwy,Mesquite,TX,75149,32.761535,-96.635608,FALSE,TRUE,
+Dover Elem School,Gym,700 Dover Dr,Richardson,TX,75080,32.9444222,-96.76004246,FALSE,TRUE,
+Professional Development Ctr - RISD,C101A,701 W Belt Line Rd,Richardson,TX,75080,32.950803,-96.735238,FALSE,TRUE,
+Math/Science Technology Magnet - RISD,Gym Lobby,450 Abrams Rd,Richardson,TX,75081,32.9443214,-96.72676601,FALSE,TRUE,
+Richland Elem School,Gym,550 Park Bend Dr,Richardson,TX,75081,32.9323702,-96.72690871,FALSE,TRUE,
+Bradfield Rec Center,Classroom 110,1146 Castle Dr,Garland,TX,75040,32.92220942,-96.61823637,FALSE,TRUE,
+Bussey Middle School,"Choir Room, 224",1204 Travis St,Garland,TX,75040,32.92431917,-96.64570007,FALSE,TRUE,
+Golden Meadows Elem School,Front Foyer,1726 Travis St,Garland,TX,75042,32.92436655,-96.65423049,FALSE,TRUE,
+A R Davis Elem School,Hallway,1621 McCallum Dr,Garland,TX,75042,32.927861,-96.676172,FALSE,TRUE,
+O. Henry Elementary School,Cafeteria,4100 Tynes Dr,Garland,TX,75042,32.92656205,-96.69378457,FALSE,TRUE,
+Bradfield Elem School - Gisd,Gym,3817 Bucknell Dr,Garland,TX,75042,32.92151425,-96.68939838,FALSE,TRUE,
+Richland College - Garland Campus,Conference Rm C,675 W Walnut St,Garland,TX,75040,32.9163161,-96.63767179,FALSE,TRUE,
+Austin Academy,Gym,1125 Beverly Dr,Garland,TX,75040,32.89726299,-96.6173147,FALSE,TRUE,
+Kimberlin Academy,"Library, Rm 202",1520 Cumberland Dr,Garland,TX,75040,32.89891268,-96.62623428,FALSE,TRUE,
+Granger Recreation Center,Rm 109,1310 W Ave F,Garland,TX,75040,32.90678633,-96.64649102,FALSE,TRUE,
+Williams Elem School,Gym,1821 Old Gate Ln,Garland,TX,75042,32.89695093,-96.65552125,FALSE,TRUE,
+Memorial Pathway Academy,Gym,2825 S First St,Garland,TX,75041,32.882975,-96.631805,FALSE,TRUE,
+Watson Technology Center,Gym,2601 Dairy Rd,Garland,TX,75041,32.88547363,-96.62207388,FALSE,TRUE,
+South Garland High School,Gym,600 Colonel Dr,Garland,TX,75043,32.87261425,-96.61975433,FALSE,TRUE,
+Classical Center @ Brandenburg Ms,Gym,626 Nickens Rd,Garland,TX,75043,32.86728859,-96.61267156,FALSE,TRUE,
+Southgate Elem School,Gym,1115 Mayfield Ave,Garland,TX,75041,32.86874055,-96.64409466,FALSE,TRUE,
+Montclair Elem School,Gym,5200 Broadmoor Dr,Garland,TX,75043,32.85392,-96.639049,FALSE,TRUE,
+O'Banion Middle School,Gym,700 Birchwood Dr,Garland,TX,75043,32.85758635,-96.63478231,FALSE,TRUE,
+Classical Center At Vial Elem School,Gym,126 Creekview Dr,Garland,TX,75043,32.84967281,-96.60741495,FALSE,TRUE,
+South Garland Branch Library,Program Rm,4845 Broadway Blvd,Garland,TX,75043,32.85523065,-96.60248573,FALSE,TRUE,
+Routh Roach Elem School,Gym,1811 Mayfield Ave,Garland,TX,75041,32.86672438,-96.65466993,FALSE,TRUE,
+Granville Arts Center,The Atruim,300 N 5th St,Garland,TX,75046,32.914793,-96.635564,FALSE,TRUE,
+Sam Houston Middle School,Gym,2232 Sussex Dr,Garland,TX,75041,32.88847116,-96.66158774,FALSE,TRUE,
+Thomas C Marsh Preparatory Academy,Auditorium,3838 Crown Shore Dr,Dallas,TX,75244,32.9114991,-96.8491192,FALSE,TRUE,
+W T White High School,"H101, 102, 103",4505 Ridgeside Dr,Dallas,TX,75244,32.9168546,-96.83171102,FALSE,TRUE,
+Nathan Adams Elem School,Auditorium,12600 Welch Rd,Dallas,TX,75244,32.9214988,-96.82830872,FALSE,TRUE,
+Marsh Lane Baptist Church,Fellowship Hall,10716 Marsh Lane,Dallas,TX,75229,32.89418425,-96.85559502,FALSE,TRUE,
+Harry C Withers Elem School,Auditorium,3959 Northaven Rd,Dallas,TX,75229,32.9032527,-96.8458821,FALSE,TRUE,
+Midway Hills Christian Church,Gathering Area,11001 Midway Rd,Dallas,TX,75229,32.8986536,-96.83945355,FALSE,TRUE,
+John J Pershing Elem School,"Auditorium, Rm 136",5715 Meaders Ln,Dallas,TX,75229,32.8874133,-96.80976733,FALSE,TRUE,
+L G Cigarroa Elem School,Auditorium,9990 Webb Chapel Rd,Dallas,TX,75220,32.8799331,-96.86481578,FALSE,TRUE,
+Walnut Hill Rec Center,Small Rm A,10011 Midway Rd,Dallas,TX,75229,32.989395,-96.843109,FALSE,TRUE,
+Lovers Lane United Methodist Church,Watson Hall,9200 Inwood Rd,Dallas,TX,75220,32.86704705,-96.8205421,FALSE,TRUE,
+Unity Church Of Dallas,1St Fl Assembly,6525 Forest Ln,Dallas,TX,75230,32.9101296,-96.79363662,FALSE,TRUE,
+Preston Royal Branch Library,Auditorium,5626 Royal Ln,Dallas,TX,75229,32.8950978,-96.8752267,FALSE,TRUE,
+George B Dealey Montessori Academy,Auditorium Foyer,6501 Royal Ln,Dallas,TX,75230,32.895464,-96.7915002,FALSE,TRUE,
+Arthur Kramer Elem School,Foyer,7131 Midbury Dr,Dallas,TX,75230,32.90227355,-96.78384546,FALSE,TRUE,
+Hillcrest High School,Auditorium,9924 Hillcrest Rd,Dallas,TX,75230,32.88324075,-96.78471237,FALSE,TRUE,
+Benjamin Franklin - IEA,Rm 109,6920 Meadow Rd,Dallas,TX,75230,32.88443335,-96.78520945,FALSE,TRUE,
+Preston Hollow Un Methodist Church,Parlor,6315 Walnut Hill Ln,Dallas,TX,75230,32.88068695,-96.79717517,FALSE,TRUE,
+Our Redeemer Lutheran Church,Parlor,7611 Park Ln,Dallas,TX,75225,32.8727429,-96.77525579,FALSE,TRUE,
+Westminister Presbyterian Church,Fellowship Hall,8200 Devonshire Dr,Dallas,TX,75209,32.85432,-96.815216,FALSE,TRUE,
+The Museum Of Biblical Art,Library,7500 Park Ln,Dallas,TX,75225,32.8720263,-96.77937386,FALSE,TRUE,
+Skillman Southwestern Branch Library,Auditorium,5707 Skillman St,Dallas,TX,75206,32.85774785,-96.75644411,FALSE,TRUE,
+Henry W Longfellow - Cea,Auditorium,5314 Boaz St,Dallas,TX,75209,32.84855225,-96.8197467,FALSE,TRUE,
+Mockingbird Community Church,Community Rm,5470 Ellsworth Ave,Dallas,TX,75206,32.83336495,-96.77492009,FALSE,TRUE,
+Zion Lutheran Church,Church Narthex,6121 E Lovers Ln,Dallas,TX,75214,32.85099,-96.769994,FALSE,TRUE,
+Geneva Heights Elementary,Main Lobby,2911 Delmar Ave,Dallas,TX,75206,32.82437795,-96.7668787,FALSE,TRUE,
+St Andrews Presbyterian Church,Nance Hall,3204 Skillman St,Dallas,TX,75206,32.82710984,-96.76146,FALSE,TRUE,
+University Of Texas - Dallas,Vistiors Center,800 W Campbell Rd,Richardson,TX,75080,32.978321,-96.763866,FALSE,TRUE,
+Parkhill Jr High School,Small Gym,16500 Shadybank Dr,Dallas,TX,75248,32.9737763,-96.79050128,FALSE,TRUE,
+Brentfield Primary School,East Cafeteria,6767 Brentfield Dr,Dallas,TX,75248,32.9756565,-96.79211139,FALSE,TRUE,
+Texas A&M Research Ext Ctr Bldg E,Water/Land Resources Bldg,17360 Coit Rd,Dallas,TX,75252,32.9869079,-96.7674521,FALSE,TRUE,
+James Bowie Elem School - RISD,Gym,7643 La Manga Dr,Dallas,TX,75248,32.9711006,-96.7762919,FALSE,TRUE,
+Prestonwood Elem School,Cafeteria Stage,6525 La Cosa Dr,Dallas,TX,75248,32.96025515,-96.795006,FALSE,TRUE,
+Spring Creek Elem - RISD,Gym,7667 Roundrock Rd,Dallas,TX,75248,32.95661505,-96.7768227,FALSE,TRUE,
+Fretz Park Library,Black Box Theater,6990 Belt Line Rd,Dallas,TX,75254,32.9495865,-96.78326976,FALSE,TRUE,
+Audelia Road Branch Library,Auditorium,10045 Audelia Rd,Dallas,TX,75238,32.8857486,-96.71834737,FALSE,TRUE,
+Northlake Elem Sch - RISD,Cafeteria Hallway,10059 Ravensway Dr,Dallas,TX,75238,32.8853782,-96.72012438,FALSE,TRUE,
+Lake Highlands Elem School,Library,9501 Ferndale Rd,Dallas,TX,75238,32.87627525,-96.70953139,FALSE,TRUE,
+Lake Highlands Jr High,Large Gym,10301 Walnut Hill Ln,Dallas,TX,75238,32.88000445,-96.70671988,FALSE,TRUE,
+Wallace Elem School - RISD,Gym,9921 Kirkhaven Dr,Dallas,TX,75238,32.88396655,-96.70816205,FALSE,TRUE,
+Robert T. Hill Middle School,Auditorium,505 Easton Rd,Dallas,TX,75218,32.8563901,-96.70475452,FALSE,TRUE,
+Victor Hexter Elem School,Auditorium,9720 Waterview Rd,Dallas,TX,75218,32.84923465,-96.70961329,FALSE,TRUE,
+Lake Highlands North Rec Ctr,Small Rm,9940 White Rock Trl,Dallas,TX,75238,32.88361632,-96.7300232,FALSE,TRUE,
+L L Hotchkiss Elem School,Auditorium Foyer,6929 Town North Dr,Dallas,TX,75231,32.85842255,-96.74069997,FALSE,TRUE,
+Dan D Rogers Elem School,Auditorium Foyer,5314 Abrams Rd,Dallas,TX,75214,32.85213315,-96.75168597,FALSE,TRUE,
+Ridgewood Rec Center,Large Rm,6818 Fisher Rd,Dallas,TX,75214,32.8475741,-96.7430511,FALSE,TRUE,
+Lakewood Elem School,Library,3000 Hillbrook St,Dallas,TX,75214,32.825643,-96.74346693,FALSE,TRUE,
+Churchill Recreation Center,Large Room,6906 Churchill Way,Dallas,TX,75230,32.9164699,-96.78575627,FALSE,TRUE,
+Anne Frank Elem School,Auditorium,5201 Celestial Rd,Dallas,TX,75254,32.9477841,-96.81802509,FALSE,TRUE,
+Central Christian Church,Fellowship Hall,4711 Westside Dr,Dallas,TX,75209,32.82966265,-96.8199869,FALSE,TRUE,
+John S Armstrong Elem,Small Outside Gym,3600 Cornell Ave,Dallas,TX,75205,32.83389745,-96.7916474,FALSE,TRUE,
+University Park United Methodist Church,Caldwell Rm 120,4024 Caruth Blvd,Dallas,TX,75225,32.85889352,-96.80251762,FALSE,TRUE,
+John S. Bradfield Elementary,Cafetorium (Lgl),4300 Southern Ave,Dallas,TX,75205,32.83620525,-96.80869816,FALSE,TRUE,
+University Park Sch - W,"Gym, C111",3505 Amherst Ave,Dallas,TX,75225,32.85163795,-96.79136932,FALSE,TRUE,
+Highland Park Middle School,South Gym,3555 Granada Dr,Dallas,TX,75205,32.840233,-96.790992,FALSE,TRUE,
+Moody Coliseum,Rogers Lobby,3009 Binkley Ave,Dallas,TX,75205,32.84082743,-96.77965516,FALSE,TRUE,
+Highland Park Isd Admin Bldg,Board Rm,7015 Westchester Dr,Dallas,TX,75205,32.8496693,-96.80814588,FALSE,TRUE,
+St Andrews Episcopal Church,Hunsaker Hall,2783 Valwood Pkwy,Farmers Branch,TX,75234,32.93840057,-96.885869,FALSE,TRUE,
+Loos Field House,Lobby West Entrance,3815 Spring Valley Rd,Addison,TX,75001,32.94004191,-96.85075128,FALSE,TRUE,
+Vivian Field Middle School,Main Lobby,13551 Dennis Rd,Farmers Branch,TX,75234,32.899563,-96.881375,FALSE,TRUE,
+The Branch Connection Adult Center,Ball Room,14055 Dennis Ln,Farmers Branch,TX,75234,32.93713445,-96.88604165,FALSE,TRUE,
+Farmers Branch Manske Library,Meeting Room,13613 Webb Chapel Rd,Farmers Branch,TX,75234,32.9334441,-96.87375508,FALSE,TRUE,
+Chapel Hill Preparatory School,Auditorium,12701 Templeton Trl,Dallas,TX,75234,32.9180619,-96.86578505,FALSE,TRUE,
+Brookhaven College,"W Bldg, Rm W105",3939 Valley View Ln,Farmers Branch,TX,75244,32.9301327,-96.8484134,FALSE,TRUE,
+Ted Polk Middle School,G104,2001 Kelly Blvd,Carrollton,TX,75006,32.9640613,-96.87914772,FALSE,TRUE,
+Mccoy Elementary School,Gym,2425 Mccoy Rd,Carrollton,TX,75006,32.9816654,-96.89911933,FALSE,TRUE,
+Jerry R Junkins Elem School,Auditorium,2808 Running Duke Dr,Carrollton,TX,75006,32.9737613,-96.85682236,FALSE,TRUE,
+Blanton Elem School,Library,2525 Scott Mill Rd,Carrollton,TX,75006,32.98342285,-96.88548993,FALSE,TRUE,
+Newman Smith High School,Keaton Theater Lobby,2335 N Josey Ln,Carrollton,TX,75006,32.97970735,-96.89233773,FALSE,TRUE,
+Keller Springs Baptist Chur,Fellowship Hall,3227 Keller Springs Rd,Carrollton,TX,75006,32.96884508,-96.84571867,FALSE,TRUE,
+Carrollton Senior Center,Texas Room,1720 Keller Springs Rd,Carrollton,TX,75006,32.97129095,-96.89299867,FALSE,TRUE,
+Crosby Recreation Center,Elf Fork,1610 E Crosby Rd,Carrollton,TX,75006,32.947969,-96.89972794,FALSE,TRUE,
+North Dallas Family Church,Gym,1700 S Josey Ln,Carrollton,TX,75006,32.950069,-96.8903884,FALSE,TRUE,
+Greenwood Hills Elem School,Library,1313 W Shore Dr,Richardson,TX,75080,32.9683158,-96.7494593,FALSE,TRUE,
+Canyon Creek Elem School,Gym,2100 Copper Ridge Dr,Richardson,TX,75080,32.9816879,-96.73983954,FALSE,TRUE,
+Prairie Creek Elem School,Main Hall Office,2120 E Prairie Creek Dr,Richardson,TX,75080,32.97833,-96.720907,FALSE,TRUE,
+Mohawk Elem School,Gym,1500 Mimosa Dr,Richardson,TX,75080,32.9714752,-96.7620082,FALSE,TRUE,
+Richardson N Jr High School,Small Gym,1820 N Floyd Rd,Richardson,TX,75080,32.975289,-96.74179529,FALSE,TRUE,
+Northrich Elem School,Cafeteria,1301 Custer Rd,Richardson,TX,75080,32.96765125,-96.73521321,FALSE,TRUE,
+Arapaho Classical Magnet School,Gym,1300 Cypress Dr,Richardson,TX,75080,32.9615096,-96.76371857,FALSE,TRUE,
+Richardson Heights Elem,Gym,101 N Floyd Rd,Richardson,TX,75080,32.9515175,-96.74529839,FALSE,TRUE,
+Richardson Terrace Elementary,Gym,300 N Dorothy Dr,Richardson,TX,75081,32.95169045,-96.72184753,FALSE,TRUE,
+Care Church,Foyer,1504 E Campbell Rd,Richardson,TX,75081,32.97453086,-96.69671186,FALSE,TRUE,
+Yale Elem School,Gym,1900 E Collins Blvd,Richardson,TX,75081,32.9669456,-96.68989185,FALSE,TRUE,
+Dartmouth Elem School,"Art Rm, 124/126",417 Dartmouth Ln,Richardson,TX,75081,32.95403905,-96.68975002,FALSE,TRUE,
+Springridge Elementary School,Gym,1801 E Spring Valley Rd,Richardson,TX,75081,32.93939725,-96.69015788,FALSE,TRUE,
+Jess Harben Elem School,Gym,600 S Glenville Dr,Richardson,TX,75081,32.9395507,-96.70574336,FALSE,TRUE,
+Richardson Civic Center,West Alcove,411 W Arapaho Rd,Richardson,TX,75080,32.96063466,-96.73123925,FALSE,TRUE,
+Valley Ranch Elem School,Gym,9800 Rodeo Dr,Irving,TX,75063,32.9377505,-96.95602525,FALSE,TRUE,
+Cimarron Recreation Center,Large Activity Room,201 Red River Trl,Irving,TX,75063,32.9314098,-96.94630207,FALSE,TRUE,
+Freeman Elem School - CFBISD,Library,8757 Valley Ranch Pkwy W,Irving,TX,75063,32.9341549,-96.9531951,FALSE,TRUE,
+Valley Ranch Branch Library,Program Rm 150,401 Cimarron Trl,Irving,TX,75063,32.93406595,-96.95068534,FALSE,TRUE,
+Big Springs Elem School,Gym,3301 W Campbell Rd,Garland,TX,75044,32.97306399,-96.67833639,FALSE,TRUE,
+Springpark Sports Club,1St Fl Ballroom,3330 Springpark Way,Garland,TX,75044,32.9803489,-96.68041746,FALSE,TRUE,
+Spring Creek Elem - Gisd,Gym,1510 Spring Creek Dr,Garland,TX,75040,32.9547183,-96.6505115,FALSE,TRUE,
+North Garland Branch Library,Program Rm,3845 N Garland Ave,Garland,TX,75040,32.95169222,-96.65402392,FALSE,TRUE,
+Hickman Elem School,Gym,3114 Pinewood Dr,Garland,TX,75044,32.95749373,-96.67620854,FALSE,TRUE,
+Wallace Ethridge Elem School,Gym,2301 Sam Houston Dr,Garland,TX,75044,32.93500738,-96.65734447,FALSE,TRUE,
+Cooper Elem School,Foyer,1200 Kingsbridge Dr,Garland,TX,75040,32.93419255,-96.64581728,FALSE,TRUE,
+Lister Elem School,Front Foyer,3131 Mars Dr,Garland,TX,75040,32.94389515,-96.61364955,FALSE,TRUE,
+Northlake Elem School - Gisd,Gym,1626 Bosque Dr,Garland,TX,75040,32.92689597,-96.60769368,FALSE,TRUE,
+Club Hill Elem School,Gym,1330 Colonel Dr,Garland,TX,75043,32.87745459,-96.61134312,FALSE,TRUE,
+Lyles Middle School,Gym,4655 S Country Club Rd,Garland,TX,75043,32.86193215,-96.59046678,FALSE,TRUE,
+Northside Baptist Church,Fellowship Hall,2510 N Glenbrook Dr,Garland,TX,75040,32.9389604,-96.6395573,FALSE,TRUE,
+Coppell Arts Center,Reception Hall,505 Travis St,Coppell,TX,75019,32.9519408,-97.0047113,FALSE,TRUE,
+Wilson Elementary School,Gym,200 S Coppell Rd,Coppell,TX,75019,32.96512145,-97.00550243,FALSE,TRUE,
+Mockingbird Elem School,Gym,300 Mockingbird Ln,Coppell,TX,75019,32.9625443,-96.96932634,FALSE,TRUE,
+Coppell Town Center,Atrium,255 E Parkway Blvd,Coppell,TX,75019,32.97757539,-96.9880171,FALSE,TRUE,
+Lakeside Elem School - COISD,Gym,1100 Village Pkwy,Coppell,TX,75019,32.97219955,-96.95846732,FALSE,TRUE,
+Cottonwood Creek Elem Sch,Gym,615 Minyard Dr,Coppell,TX,75019,32.97615595,-97.0078109,FALSE,TRUE,
+Riverchase Elem School,"Library, Rm 201",272 S Macarthur Blvd,Coppell,TX,75019,32.9638129,-96.95749276,FALSE,TRUE,
+Addison Conference Center,Buckthorn Room,15650 Addison Rd,Addison,TX,75001,32.9622499,-96.82844295,FALSE,TRUE,
+Addison Fire Station # 1,Training Room,4798 Airport Pkwy,Addison,TX,75001,32.96596633,-96.83034812,FALSE,TRUE,
+Coyle Middle School,Gym,4500 Skyline Dr,Rowlett,TX,75088,32.90132886,-96.56282066,FALSE,TRUE,
+Back Elem School,Gym,7300 Bluebonnet Dr,Rowlett,TX,75089,32.924723,-96.573684,FALSE,TRUE,
+Liberty Grove Elem School,Gym,10201 Liberty Grove Rd,Rowlett,TX,75089,32.953879,-96.517011,FALSE,TRUE,
+Rowlett Community Centre,Confernce Rm,5300 Main St,Rowlett,TX,75088,32.903484,-96.555237,FALSE,TRUE,
+Rowlett Elem School,Gym,3315 Carla Dr,Rowlett,TX,75088,32.89099023,-96.57473805,FALSE,TRUE,
+Herfurth Elem School,Gym,7500 Miller Rd,Rowlett,TX,75088,32.89055985,-96.52876838,FALSE,TRUE,
+Schrade Middle School,Comp Gym,6201 Danridge Rd,Rowlett,TX,75089,32.9207062,-96.5316633,FALSE,TRUE,
+Chase Oaks Church - Woodbridge Campus,Lobby,2709 3rd St,Sachse,TX,75048,32.97660229,-96.5975698,FALSE,TRUE,
+Sachse Senior Center,"Bldg A, Reservation Rm",3815 Sachse Rd,Sachse,TX,75048,32.9731855,-96.5834332,FALSE,TRUE,
+B G Hudson Middle School,Gym,4405 Hudson Dr,Sachse,TX,75048,32.95886355,-96.58133556,FALSE,TRUE,
+William B Travis Academy,Auditorium,3001 Mckinney Ave,Dallas,TX,75204,32.8013772,-96.80139091,FALSE,TRUE,
+T W Browne Middle School,Auditorium,3333 Sprague Dr,Dallas,TX,75233,32.69648215,-96.87636264,FALSE,TRUE,
+Daniel Webster Elem School,Auditorium,3815 S Franklin St,Dallas,TX,75233,32.6967722,-96.8614994,FALSE,TRUE,
+El Centro College - Main Campus,Student Ctr,801 Main St,Dallas,TX,75202,32.7797819,-96.80550117,FALSE,TRUE,
+American Airlines Center,1876 Club-North Entrance,2500 Victory Ave,Dallas,TX,75219,32.7905076,-96.81027213,FALSE,TRUE,
+Exall Recreation Center,Large Room,1355 Adair St,Dallas,TX,75204,32.7937582,-96.78391468,FALSE,TRUE,
+Bill J Priest Institute,Hoblitzelle Auditorium,1402 Corinth St,Dallas,TX,75215,32.766388,-96.7864246,FALSE,TRUE,
+Martin Luther King Jr Learning Ctr,Main Lobby,1817 Warren Ave,Dallas,TX,75215,32.76096315,-96.77279558,FALSE,TRUE,
+Park South Ymca,Front Lobby,2500 Romine Ave,Dallas,TX,75215,32.75983513,-96.76381842,FALSE,TRUE,
+James Madison High School,Rm 100,3000 MLK Blvd,Dallas,TX,75215,32.771299,-96.764866,FALSE,TRUE,
+Martin Luther King Recreation Center,Gym,2901 Pennsylvania Ave,Dallas,TX,75215,32.768889,-96.765458,FALSE,TRUE,
+Irma Rangel - Young Women's School,Auditorium,1718 Robert B Cullum Blvd,Dallas,TX,75210,32.7744935,-96.76089739,FALSE,TRUE,
+Mt Horeb Baptist Church,Fellowship Hall,3306 Carpenter Ave,Dallas,TX,75215,32.7627737,-96.74978989,FALSE,TRUE,
+St Paul Baptist Church,Overflow Area,1600 Pear St,Dallas,TX,75215,32.7501199,-96.7668775,FALSE,TRUE,
+Lincoln High School - CHM,Auditorium,2826 Elsie Faye Heggins St,Dallas,TX,75215,32.7541043,-96.7555878,FALSE,TRUE,
+Evangelist Temple Church,Fellowship Hall,2627 Dorris St,Dallas,TX,75215,32.74280782,-96.75221776,FALSE,TRUE,
+Hector P Garcia Middle School - DISD,Art Room A,700 E 8th St,Dallas,TX,75203,32.7502831,-96.81384937,FALSE,TRUE,
+Greater Mt Pleasant Baptist Church,Conference Rm,1403 Morrell Ave,Dallas,TX,75203,32.73921161,-96.80213751,FALSE,TRUE,
+Cedar Crest Elementary School,Foyer,2020 Mouser St,Dallas,TX,75203,32.737807,-96.792989,FALSE,TRUE,
+The Way-Truth-Life Christian Church,Fellowship Hall Parlor,1702 S Denley Dr,Dallas,TX,75216,32.72698435,-96.80504719,FALSE,TRUE,
+Oliver W Holmes Middle School,Auditorium Entrance,2001 E Kiest Blvd,Dallas,TX,75216,32.7154295,-96.79166081,FALSE,TRUE,
+Good Street Baptist Church,Spigner Wing,3110 Bonnie View Rd,Dallas,TX,75216,32.7203692,-96.7800545,FALSE,TRUE,
+John Neely Bryan Elem School,Auditorium,2001 Deer Path Dr,Dallas,TX,75216,32.7113411,-96.7944549,FALSE,TRUE,
+Paul L Dunbar Lancaster - Keist Library,Classroom A/B,2008 East Kiest Blvd,Dallas,TX,75216,32.71477235,-96.79058102,FALSE,TRUE,
+W W Bushman Elem School,Foyer,4200 Bonnie View Rd,Dallas,TX,75216,32.7082254,-96.77322807,FALSE,TRUE,
+Gethsemane Missionary Baptist Church,Fellowship Hall,4600 Solar Ln,Dallas,TX,75216,32.7108874,-96.74460458,FALSE,TRUE,
+John W Carpenter Elem School,Auditorium,2121 Tosca Ln,Dallas,TX,75224,32.6955549,-96.8530169,FALSE,TRUE,
+Cfni Student Center,Student Center,444 Fawn Ridge Dr,Dallas,TX,75224,32.70063515,-96.83075168,FALSE,TRUE,
+South Oak Cliff High School,Auditorium,3601 S Marsalis Ave,Dallas,TX,75216,32.699279,-96.81684485,FALSE,TRUE,
+Clara Oliver Elem School,Auditorium,4010 Idaho Ave,Dallas,TX,75216,32.69497635,-96.81105335,FALSE,TRUE,
+H I Holland Elem School @ Lisbon,Gym,4203 S Lancaster Rd,Dallas,TX,75216,32.69738435,-96.79579744,FALSE,TRUE,
+Fountain Of The Living Word Church,Sanctuary Entrance,2543 E Ledbetter Dr,Dallas,TX,75216,32.695901,-96.768078,FALSE,TRUE,
+Elisha M Pease Elem School,Auditorium,2914 Cummings St,Dallas,TX,75216,32.6975496,-96.773726,FALSE,TRUE,
+W M Hawley Atwell Law Academy,Auditorium Foyer,1303 Reynoldston Ln,Dallas,TX,75232,32.67784705,-96.84340803,FALSE,TRUE,
+Adelle Turner Elem School,Gym,5505 S Polk St,Dallas,TX,75232,32.679211,-96.84083834,FALSE,TRUE,
+Mark Twain Leadership Vanguard,Auditorium,724 Green Cove Ln,Dallas,TX,75232,32.68410285,-96.83346972,FALSE,TRUE,
+T G Terry Elem School,Auditorium,6661 Greenspan Ave,Dallas,TX,75232,32.6657598,-96.82990355,FALSE,TRUE,
+St Paul Lutheran Church,Fellowship Hall,5725 S Marsalis Ave,Dallas,TX,75241,32.67701114,-96.81484439,FALSE,TRUE,
+Ideal Family Church,Life Center,1000 E Redbird Ln,Dallas,TX,75241,32.674527,-96.80838,FALSE,TRUE,
+R L Thornton Elem School,Auditorium,6011 Old Ox Rd,Dallas,TX,75241,32.6738791,-96.79784914,FALSE,TRUE,
+Boml Academy @ A Maceo Smith,Foyer,3030 Stag Rd,Dallas,TX,75241,32.6918081,-96.76579332,FALSE,TRUE,
+J N Ervin Elem School,Auditorium Foyer,3722 Black Oak Dr,Dallas,TX,75241,32.67950345,-96.76211163,FALSE,TRUE,
+Ronald E Mcnair Elem School,Main Lobby,3150 Bainbridge Dr,Dallas,TX,75237,32.65613,-96.86328,FALSE,TRUE,
+Friendship West Baptist Church,Banquet Hall Foyer,2020 W Wheatland Rd,Dallas,TX,75232,32.646563,-96.850638,FALSE,TRUE,
+Umphrey Lee Elem School,Auditorium,7808 Racine Dr,Dallas,TX,75232,32.6527172,-96.83500086,FALSE,TRUE,
+Martin Weiss Elem School,Auditorium,8601 Willoughby Blvd,Dallas,TX,75232,32.6437013,-96.83041094,FALSE,TRUE,
+D A Hulcy Steam Middle School,1St Floor Entrance Foyer,9339 S Polk St,Dallas,TX,75232,32.6344709,-96.84074595,FALSE,TRUE,
+Singing Hills Rec Center,Large Activity Rm,6805 Patrol Way,Dallas,TX,75241,32.6640568,-96.7873283,FALSE,TRUE,
+Cornerstone Community Church,Fellowship Hall,2817 Cherry Valley Blvd,Dallas,TX,75241,32.6460004,-96.77538598,FALSE,TRUE,
+Tommie Allen Rec Center,Lg Multi-Purpose Rm,7071 Bonnie View Rd,Dallas,TX,75241,32.6594871,-96.75312036,FALSE,TRUE,
+Highland Hills Un Methodist Church,Fellowship Hall,3800 Simpson Stuart Rd,Dallas,TX,75241,32.67522355,-96.75664459,FALSE,TRUE,
+Cedar Valley College - M Bldg,M105,3030 N Dallas Ave,Lancaster,TX,75134,32.62564837,-96.77130208,FALSE,TRUE,
+Highland Hills Library,Auditorium,6200 Bonnie View Rd,Dallas,TX,75241,32.670714,-96.761347,FALSE,TRUE,
+Wilmer - Hutchins High School,Auditorium,5520 Langdon Rd,Dallas,TX,75241,32.65469845,-96.73067188,FALSE,TRUE,
+Park In The Woods Rec Center,Large Rm,6801 Mountain Creek Pkwy,Dallas,TX,75249,32.64151455,-96.95554124,FALSE,TRUE,
+Henrie Elementary School,Cafeteria,253 W Lawson Rd,Dallas,TX,75253,32.6992234,-96.57593753,FALSE,TRUE,
+Kleberg/Rylie Rec Center,Large Rm,1515 Edd Rd,Dallas,TX,75253,32.68537563,-96.60140266,FALSE,TRUE,
+Booker T Washington High School,Montgomery Arts,2501 Flora St,Dallas,TX,75201,32.79162415,-96.79698123,FALSE,TRUE,
+W A Blair Elem School,Auditorium,7720 Gayglen Dr,Dallas,TX,75217,32.70874585,-96.68870402,FALSE,TRUE,
+Ebby Halliday Elem School,Multi Purpose Room 141,10210 Teagarden Rd,Dallas,TX,75217,32.67502505,-96.6458337,FALSE,TRUE,
+Jonsson Central Library,Dallas East Rm,1515 Young St,Dallas,TX,75201,32.7783503,-96.79705717,FALSE,TRUE,
+Oak Cliff Presbyterian Church,1St Fl Lobby,6000 S Hampton Rd,Dallas,TX,75232,32.67444044,-96.85690828,FALSE,TRUE,
+University Of North Texas At Dallas,Founders Hall Lounge,7300 University Hills Blvd,Dallas,TX,75241,32.6503353,-96.8056499,FALSE,TRUE,
+Cedar Hill Recreation Center,Bluebonnet Room,310 E Parkerville Rd,Cedar Hill,TX,75104,32.57442645,-96.93789874,FALSE,TRUE,
+Kim Lewis Auxiliary Services Ctr,Foyer,202 E Belt Line Rd,Cedar Hill,TX,75104,32.5911,-96.9394,FALSE,TRUE,
+Bessie Coleman Middle School,Library,1208 E Pleasant Run Rd,Cedar Hill,TX,75104,32.60277895,-96.91556904,FALSE,TRUE,
+Professional Development Ctr - CHISD,Library,1533 High Pointe Ln,Cedar Hill,TX,75104,32.623445,-96.95534605,FALSE,TRUE,
+Cedar Hill Government Center - Bldg 100,Lobby,285 Uptown Blvd,Cedar Hill,TX,75104,32.5931059,-96.95126331,FALSE,TRUE,
+Plummer Elementary School,Portable #20 A,1203 S Clark Rd,Cedar Hill,TX,75104,32.56504095,-96.9413162,FALSE,TRUE,
+Highlands Elem School - CHISD,Gym,131 Sims Dr,Cedar Hill,TX,75104,32.587672,-96.93030125,FALSE,TRUE,
+Bray Elementary School,Gym,218 N Broad St,Cedar Hill,TX,75104,32.59269085,-96.95765349,FALSE,TRUE,
+Lake Ridge Elem School,Multi Purpose Rm,1020 Lake Ridge Pkwy,Cedar Hill,TX,75104,32.56943925,-97.00530761,FALSE,TRUE,
+H Bob Daniel Sr Intermediate School,Rm 102,1007 Springwood Ln,Duncanville,TX,75137,32.64118,-96.93128,FALSE,TRUE,
+Alexander Elementary School,"Gym, Rm 807",510 Softwood Dr,Duncanville,TX,75137,32.62407915,-96.92009996,FALSE,TRUE,
+Duncanville Library,Mtg Rm 1-3,201 James Collins Blvd,Duncanville,TX,75116,32.64861061,-96.90744144,FALSE,TRUE,
+Duncanville'S First Baptist Church,F101,323 W Wheatland Rd,Duncanville,TX,75116,32.64772648,-96.827221,FALSE,TRUE,
+Reed Middle School,"Auditorium, Rm 600",530 E Freeman St,Duncanville,TX,75116,32.6501663,-96.90249515,FALSE,TRUE,
+Brandenburg Intermediate Sch - DUISD,"Choir Rm, 501",1903 Blueridge Dr,Duncanville,TX,75137,32.6225409,-96.90472006,FALSE,TRUE,
+Byrd Middle School,Gym B,1040 W Wheatland Rd,Duncanville,TX,75116,32.6458325,-96.93234713,FALSE,TRUE,
+Arise Church,Sanctuary Foyer,201 W Center St,Duncanville,TX,75116,32.651807,-96.910386,FALSE,TRUE,
+Central Elem School - DUISD,"Auditorium, Rm 201",302 E Freeman St,Duncanville,TX,75116,32.65029195,-96.90520112,FALSE,TRUE,
+Duncanville Hs Performance Hall,Foyer,900 W Camp Wisdom Rd,Duncanville,TX,75116,32.6605204,-96.92946812,FALSE,TRUE,
+Fairmeadows Elem School,"Gym, Rm 701A",101 E Fairmeadows Dr,Duncanville,TX,75116,32.6668551,-96.90377473,FALSE,TRUE,
+Porter Elem School,Portable,517 Via Avenida,Mesquite,TX,75150,32.82764735,-96.60384513,FALSE,TRUE,
+Dunford Rec Center,Green Canyon Rm,1015 Green Canyon Dr,Mesquite,TX,75150,32.8168751,-96.60999241,FALSE,TRUE,
+Georgia Kimball Elem,P4,4010 Coryell Way,Mesquite,TX,75150,32.8170612,-96.6218232,FALSE,TRUE,
+Dr Jc Cannaday Elem School,Portable 208,2701 Chisolm Trl,Mesquite,TX,75150,32.80359115,-96.61714105,FALSE,TRUE,
+Poteet High School,Back Hallway Behind Offices,3300 Poteet Dr,Mesquite,TX,75150,32.80656585,-96.60857156,FALSE,TRUE,
+Hanby Elementary School,Foyer,480 Gross Rd,Mesquite,TX,75149,32.774749,-96.61460121,FALSE,TRUE,
+W L Wilkinson Middle School,100 Foyer,2100 Crest Park Dr,Mesquite,TX,75149,32.7896727,-96.61447909,FALSE,TRUE,
+Lakeside Activity Center,Large Rm,101 Holley Park Dr,Mesquite,TX,75149,32.763807,-96.59952194,FALSE,TRUE,
+Mesquite High School,Delivery Hallway,300 E Davis St,Mesquite,TX,75149,32.76465405,-96.59385877,FALSE,TRUE,
+Pirrung Elem School,Front Hall Corner,1500 Creek Valley Rd,Mesquite,TX,75181,32.74986125,-96.55316386,FALSE,TRUE,
+J R Thompson Elem School,Front Foyer,2525 Helen Ln,Mesquite,TX,75181,32.7378697,-96.54503245,FALSE,TRUE,
+A C New Middle School,Front Foyer,3700 S Belt Line Rd,Mesquite,TX,75181,32.7196629,-96.59552265,FALSE,TRUE,
+Tisinger Elem School,Computer Lab,1701 Hillcrest St,Mesquite,TX,75149,32.7866159,-96.60812002,FALSE,TRUE,
+Rutherford Rec Center,Rm 103,900 Rutherford Dr,Mesquite,TX,75149,32.753948,-96.575384,FALSE,TRUE,
+Horn High School,Library,3300 E Cartwright Rd,Mesquite,TX,75181,32.73018755,-96.55790714,FALSE,TRUE,
+Balch Springs Civic Center,Meeting Room,12400 Elam Rd,Balch Springs,TX,75180,32.7196316,-96.6578987,FALSE,TRUE,
+Hickory Tree Baptist Church,Fellowship Hall,3200 Hickory Tree Rd,Balch Springs,TX,75180,32.725982,-96.622538,FALSE,TRUE,
+Hodges Elem School,Gym,14401 Spring Oak Dr,Balch Springs,TX,75180,32.71435,-96.59919,FALSE,TRUE,
+Balch Springs Recreation Center,Meeting Room,4372 Shepherd Ln,Balch Springs,TX,75180,32.70980549,-96.61410405,FALSE,TRUE,
+Sunnyvale Town Hall,Council Chambers,127 N Collins Rd,Sunnyvale,TX,75182,32.7915424,-96.5623902,FALSE,TRUE,
+Faith Bible Church,Auditorium,1437 W Pleasant Run Rd,Desoto,TX,75115,32.6044398,-96.89557011,FALSE,TRUE,
+Ruby Young Elem School,Gym,707 Young Blvd,Desoto,TX,75115,32.60036535,-96.86733624,FALSE,TRUE,
+Disciple Central Community Church,Classroom 104,901 N Polk St #101,Desoto,TX,75115,32.605628,-96.842134,FALSE,TRUE,
+The Meadows Elem School,Gym,1016 The Meadows Pkwy,Desoto,TX,75115,32.60763715,-96.83014077,FALSE,TRUE,
+Cockrell Hill Elem School,Gym,425 S Cockrell Hill Rd,Desoto,TX,75115,32.58331725,-96.89209109,FALSE,TRUE,
+Desoto High School,Gym,600 Eagle Dr,Desoto,TX,75115,32.57885915,-96.87135131,FALSE,TRUE,
+Desoto East Middle School,Gym,601 E Belt Line Rd,Desoto,TX,75115,32.59262715,-96.84434808,FALSE,TRUE,
+Belt Line Conference Center,Conference Rm,200 E Belt Line Rd,Desoto,TX,75115,32.589634,-96.855708,FALSE,TRUE,
+Glenn Heights City Hall,Council Chambers,1938 S Hampton Rd,Glenn Heights,TX,75154,32.55242873,-96.85688681,FALSE,TRUE,
+Couch Elem School,Gym,4349 Waterhouse Blvd,Garland,TX,75043,32.85315187,-96.575457,FALSE,TRUE,
+Toler Elem School,Gym,3520 Guthrie Rd,Garland,TX,75043,32.83818005,-96.57774462,FALSE,TRUE,
+Houston Elem School - LISD,"Library, Rm 184",2929 Marquis Ln,Lancaster,TX,75134,32.6244405,-96.80437495,FALSE,TRUE,
+Pleasant Run Elem School,"Library, Rm 201",427 W Pleasant Run Rd,Lancaster,TX,75146,32.606285,-96.7635567,FALSE,TRUE,
+Rolling Hills Elementary School,Library,450 Rolling Hills Pl,Lancaster,TX,75146,32.59673155,-96.81402858,FALSE,TRUE,
+Rosa Parks - Millbrook Elem School,"Gym, Rm 503",630 Millbrook Dr,Lancaster,TX,75146,32.5971839,-96.7976548,FALSE,TRUE,
+Elsie Robertson Middle School,Library,822 W Pleasant Run Rd,Lancaster,TX,75146,32.60410875,-96.77173994,FALSE,TRUE,
+West Main Elem School,Library,531 W Main St,Lancaster,TX,75146,32.59319205,-96.76310213,FALSE,TRUE,
+Lancaster Veterans Memorial Library,Meeting Room,1600 Veterans Memorial Pkwy,Lancaster,TX,75134,32.6126545,-96.7584135,FALSE,TRUE,
+McCowan Middle School,Dance Rm,1500 Majestic Meadow Dr,Glenn Heights,TX,75154,32.5635,-96.8817,FALSE,TRUE,
+First Baptist Church - Seagoville,"Activity Bldg, Fellowship Hall",108 E Farmers Rd,Seagoville,TX,75159,32.64513682,-96.54527505,FALSE,TRUE,
+Seagoville City Hall,Council Chambers,702 US-175 Frontage Rd,Seagoville,TX,75159,32.649323,-96.541187,FALSE,TRUE,
+Wilmer Community Center,Main Room,101 Davidson Plaza,Wilmer,TX,75172,32.589819,-96.684957,FALSE,TRUE,
+Hutchins Community Center,Main Room,500 W Hickman St,Hutchins,TX,75141,32.648029,-96.716561,FALSE,TRUE,
+Caillet Elem School,Auditorium,3033 Merrell Rd,Dallas,TX,75229,32.8887443,-96.8756197,FALSE,TRUE,
+Marcus Rec Center,Kitchen,3003 Northaven Rd,Dallas,TX,75229,32.90381869,-96.87751938,FALSE,TRUE,
+Degolyer Elem School,Auditorium,3453 Flair Dr,Dallas,TX,75229,32.9042301,-96.86149997,FALSE,TRUE,
+Stephen Foster Elem Sch,Auditorium,3700 Clover Ln,Dallas,TX,75220,32.8699709,-96.85450689,FALSE,TRUE,
+Sudie Williams Tag Academy,Auditorium,4518 Pomona Rd,Dallas,TX,75209,32.8546874,-96.8318131,FALSE,TRUE,
+North Park Community Corp,Front Foyer,4619 W University Blvd,Dallas,TX,75209,32.84494549,-96.83108747,FALSE,TRUE,
+K B Polk Vanguard Center Atg,Auditorium,6911 Victoria Ave,Dallas,TX,75209,32.8424771,-96.83166035,FALSE,TRUE,
+Maple Lawn Elem School,Auditorium,3120 Inwood Rd,Dallas,TX,75235,32.8258424,-96.82951389,FALSE,TRUE,
+Arlington Park Recreation Center,Gym,1505 Record Crossing Rd,Dallas,TX,75235,32.81701925,-96.85824383,FALSE,TRUE,
+Esperanza Hope Medrano Elem School,Auditorium,2221 Lucas Dr,Dallas,TX,75219,32.808533,-96.82724895,FALSE,TRUE,
+L G Pinkston High School,Main Lobby,2200 Dennison St,Dallas,TX,75212,32.7811072,-96.85855978,FALSE,TRUE,
+Victory Cathedral,Lobby,3407 N Westmoreland Rd,Dallas,TX,75212,32.78283292,-96.87390292,FALSE,TRUE,
+El Centro College - West Campus,Main Lobby,3330 North Hampton Rd,Dallas,TX,75212,32.78263985,-96.85596824,FALSE,TRUE,
+C F Carr Elem School,Auditorium Lobby,1952 Bayside St,Dallas,TX,75212,32.78789095,-96.8527168,FALSE,TRUE,
+Reverchon Recreation Center,Multi-Purpose Rm,3505 Maple Ave,Dallas,TX,75219,32.80195432,-96.81192231,FALSE,TRUE,
+Margaret B. Henderson Elem School,Gym,2200 S Edgefield Ave,Dallas,TX,75224,32.72374765,-96.84330865,FALSE,TRUE,
+Harrell Budd Elem School,Gym,2121 S Marsalis Ave,Dallas,TX,75216,32.7219896,-96.81497146,FALSE,TRUE,
+Bexar Street Baptist Church,Fellowship Hall,2018 S Marsalis Ave,Dallas,TX,75216,32.7212386,-96.8145749,FALSE,TRUE,
+Trinity Heights Talented & Gifted,"Auditorium, Room 200",1515 Lynn Haven Ave,Dallas,TX,75216,32.73232,-96.802325,FALSE,TRUE,
+The Union Church,"Education Bldg, Rm 4 & 6",3410 S Polk St,Dallas,TX,75224,32.636379,-96.8401516,FALSE,TRUE,
+Clinton P Russell Elem School,Auditorium,3031 S Beckley Ave,Dallas,TX,75224,32.70857945,-96.82390015,FALSE,TRUE,
+Mountain Creek Library,Auditorium,6102 Mountain Creek Pkwy,Dallas,TX,75249,32.65060905,-96.96602241,FALSE,TRUE,
+Bilhartz Elem School,"Gym, Rm 218A",6700 Wandt Dr,Dallas,TX,75236,32.66563085,-96.92911503,FALSE,TRUE,
+Leslie Stemmons Elem School,Auditorium,2727 Knoxville St,Dallas,TX,75211,32.7156409,-96.90152168,FALSE,TRUE,
+Palabra De Vida Church,Multi-Purpose Bldg,2550 W Illinois Ave,Dallas,TX,75233,32.7203958,-96.869772,FALSE,TRUE,
+Kiest Rec Center,Small Rm,3081 S Hampton Rd,Dallas,TX,75224,32.725794,-96.8571007,FALSE,TRUE,
+Nancy Jane Cochran Elementary,Auditorium,6000 Keeneland Pkwy,Dallas,TX,75211,32.73586715,-96.92520555,FALSE,TRUE,
+L O Donald Elem School,Auditorium,1218 Phinney Ave,Dallas,TX,75211,32.732462,-96.88647693,FALSE,TRUE,
+Lelia P Cowart Elem School,Auditorium Hallway,1515 S Ravinia Dr,Dallas,TX,75211,32.72794675,-96.86988389,FALSE,TRUE,
+Elmwood-El Buen Samaritano UMC,"Wesley Hall, Loyalty Rm",1315 Berkley Ave,Dallas,TX,75224,32.72433877,-96.84321662,FALSE,TRUE,
+Martin Weiss Rec Center,Small Rm/Ac,1111 Martindell Ave,Dallas,TX,75211,32.73430782,-96.8762152,FALSE,TRUE,
+Arcadia Park Elem School,Main Bldg Entry Hall,1300 N Justin Ave,Dallas,TX,75211,32.75926665,-96.91039613,FALSE,TRUE,
+Anson Jones Elem School,Conference Room (Front Entrance),3901 Meredith Ave,Dallas,TX,75211,32.7429706,-96.88462799,FALSE,TRUE,
+George Peabody Elem School,Auditorium,3101 Raydell Pl,Dallas,TX,75211,32.7428685,-96.8724854,FALSE,TRUE,
+Lida Hooe Elem School,Room 104,2419 Gladstone Dr,Dallas,TX,75211,32.7407332,-96.85738812,FALSE,TRUE,
+Winnetka Elem School,Gym,1151 S Edgefield Ave,Dallas,TX,75208,32.7341971,-96.84518083,FALSE,TRUE,
+John F Peeler Elem School,Library,810 S Llewellyn Ave,Dallas,TX,75208,32.7381317,-96.83041225,FALSE,TRUE,
+Oak Cliff Sub - Courthouse,1St Fl Lobby,410 S Beckley Ave,Dallas,TX,75203,32.74091709,-96.82292918,FALSE,TRUE,
+Preparing The Way Ministries,"Sanctuary, Situation Rm",2442 W Jefferson Blvd,Dallas,TX,75211,32.74742065,-96.85833905,FALSE,TRUE,
+Sunset High School - Annex Bldg,Room 410/411,2120 W Jefferson Blvd,Dallas,TX,75208,32.74626,-96.85436,FALSE,TRUE,
+John H Reagan School,"Computer Lab, #102",201 N Adams Ave,Dallas,TX,75208,32.7468386,-96.83079106,FALSE,TRUE,
+Stevens Park Elem School,Auditorium Foyer,2615 W Colorado Blvd,Dallas,TX,75211,32.7605907,-96.86564461,FALSE,TRUE,
+Rosemont Elem School/Upper Campus,Gym,719 N Montclair Ave,Dallas,TX,75208,32.75171255,-96.84689281,FALSE,TRUE,
+Kidd Springs Rec Center,Sm Activity Center,711 W Canty St,Dallas,TX,75208,32.7528977,-96.83537955,FALSE,TRUE,
+Kessler Park United Methodist Chur,Fellowship Hall,1215 Turner Ave,Dallas,TX,75208,32.76022365,-96.83971534,FALSE,TRUE,
+Eladio R Martinez Learning Center,Library,4500 Bernal Dr,Dallas,TX,75212,32.7868234,-96.8938192,FALSE,TRUE,
+Sidney Lanier Expressive Arts Vanguard,Auditorium Foyer,1400 Walmsley Ave,Dallas,TX,75208,32.76840135,-96.84412447,FALSE,TRUE,
+Anita Martinez Rec Center,Back Lg Rm,3212 N Winnetka Ave,Dallas,TX,75212,32.78064522,-96.83963451,FALSE,TRUE,
+Grauwyler Park Rec Center,Gym,7780 Harry Hines Blvd,Dallas,TX,75235,32.83221075,-96.85901836,FALSE,TRUE,
+Julian T. Saldivar Elem School,Foyer,9510 Brockbank Dr,Dallas,TX,75220,32.8645695,-96.87311181,FALSE,TRUE,
+Park Forest Branch Library,Auditorium,3421 Forest Ln,Dallas,TX,75234,32.9101007,-96.86356818,FALSE,TRUE,
+David G Burnet Elem School,Auditorium,3200 Kinkaid Dr,Dallas,TX,75220,32.87649425,-96.86922745,FALSE,TRUE,
+Boude Storey Middle School,Main Lobby,3000 Maryland Ave,Dallas,TX,75216,32.70866175,-96.81240156,FALSE,TRUE,
+Potters House,The Place Ball Room,6777 W Kiest Blvd,Dallas,TX,75236,32.7058036,-96.8986227,FALSE,TRUE,
+Mountain View College - E Bldg,East Foyer,4849 W Illinois Ave,Dallas,TX,75211,32.7266367,-96.903603,FALSE,TRUE,
+Cockrell Hill City Hall,Council Chambers,4125 W Clarendon Dr,Cockrell Hill,TX,75211,32.735071,-96.887819,FALSE,TRUE,
+Suzanna Dickinson Elem,"Music Rm, D113",1902 Palmer Trl,Grand Prairie,TX,75052,32.65488295,-97.03058587,FALSE,TRUE,
+Betty Warmack Library,Foyer,760 Bardin Rd,Grand Prairie,TX,75052,32.66705929,-97.01389837,FALSE,TRUE,
+Ruthe Jackson Center,Ball Room,3113 S Carrier Pkwy,Grand Prairie,TX,75052,32.69736515,-97.01377129,FALSE,TRUE,
+Daniels Academy,Front Foyer,801 Sw 19Th St,Grand Prairie,TX,75051,32.73308605,-97.03006664,FALSE,TRUE,
+Ellen Ochoa Stem Academy/Milam - GPISD,Project Rm,2030 Proctor Dr,Grand Prairie,TX,75051,32.7174965,-97.01270911,FALSE,TRUE,
+Ywla @ Arnold Middle School,Sm Gym,1204 E Marshall Dr,Grand Prairie,TX,75051,32.72183305,-96.98805755,FALSE,TRUE,
+Bowie Fine Arts Academy - GPISD,Teacher Work Rm,425 Alice Dr,Grand Prairie,TX,75051,32.73697635,-97.00688033,FALSE,TRUE,
+Charley Taylor Rec Center,Meeting Room,601 E Grand Prairie Rd,Grand Prairie,TX,75051,32.7419623,-96.9964163,FALSE,TRUE,
+Houston Professional Staff Development Ctr,Staff Development Side,1502 College St,Grand Prairie,TX,75050,32.7483063,-97.02392628,FALSE,TRUE,
+Crosswinds High School,Gym - Rm 104,1100 N Carrier Pkwy,Grand Prairie,TX,75050,32.75656085,-97.01853215,FALSE,TRUE,
+Travis World Language Academy,Sm Gym,525 NE 15th St,Grand Prairie,TX,75050,32.7517591,-96.98734799,FALSE,TRUE,
+Eisenhower Elementary School,Music Rm,2102 N Carrier Pkwy,Grand Prairie,TX,75050,32.76934255,-97.02219282,FALSE,TRUE,
+Ministerios Cielo En La Tierra,Sanctuary,3313 Gilbert Rd,Grand Prairie,TX,75050,32.81100834,-97.00254071,FALSE,TRUE,
+Ronald W Reagan Middle School,Main Gym,4616 Bardin Rd,Grand Prairie,TX,75052,32.66093885,-96.99415953,FALSE,TRUE,
+Sam Rayburn Elem School,Library,2800 Reforma Dr,Grand Prairie,TX,75052,32.7027768,-96.9895694,FALSE,TRUE,
+Lorenzo De Zavala Academy,Parent Room,3410 Kirby Creek Dr,Grand Prairie,TX,75052,32.68838905,-97.00704043,FALSE,TRUE,
+Truman Middle School,Library A126,1501 Coffeyville Trl,Grand Prairie,TX,75052,32.65419735,-97.0233634,FALSE,TRUE,
+Johnson (Lbj) Daep - GPISD,Main Entrance,650 Stonewall Dr,Grand Prairie,TX,75052,32.7000148,-97.0104688,FALSE,TRUE,
+Hector P. Garcia Elem School - GPISD,Gym,2444 Graham St,Grand Prairie,TX,75050,32.7567688,-96.9686487,FALSE,TRUE,
+Our Redeemer Lutheran Church - Gp,Fellowship Hall,4729 S Carrier Pkwy,Grand Prairie,TX,75052,32.6560316,-97.0049107,FALSE,TRUE,
+Global Leadership Academy At Bush - GPISD,Gym,511 E Springdale Ln,Grand Prairie,TX,75052,32.70232435,-96.9971607,FALSE,TRUE,
+Sally B Elliott Elem School,Small Gym,1900 S Story Rd,Irving,TX,75060,32.79045955,-96.97557968,FALSE,TRUE,
+Nimitz High School,Auditorium Foyer,100 W Oakdale Rd,Irving,TX,75060,32.7921527,-96.94664159,FALSE,TRUE,
+Otis Brown Elem School,Small Gym,2501 Tenth St,Irving,TX,75060,32.806009,-96.979981,FALSE,TRUE,
+Lamar Middle School,Small Gym,219 Crandall Rd,Irving,TX,75060,32.8126867,-96.98381156,FALSE,TRUE,
+Irving City Hall,Main Lobby,825 W Irving Blvd,Irving,TX,75060,32.81405105,-96.95566275,FALSE,TRUE,
+J O Davis Elem School,Rm 109,310 Davis Dr,Irving,TX,75061,32.8181782,-96.999079,FALSE,TRUE,
+L B Barton Elem School,Small Gym,2931 Conflans Rd,Irving,TX,75061,32.82277815,-96.98639464,FALSE,TRUE,
+Irving High School,Tiger Room,900 N O'Connor Rd,Irving,TX,75061,32.82455205,-96.94944414,FALSE,TRUE,
+Good Elementary School - IRISD,Library,1200 E Union Bower Rd,Irving,TX,75061,32.82202165,-96.93076813,FALSE,TRUE,
+David Crockett Middle School,Main Entrance,2431 Hancock St,Irving,TX,75061,32.83550915,-96.97788552,FALSE,TRUE,
+Lively Elem School,Front Hallway,1800 Plymouth Dr W,Irving,TX,75061,32.82997,-96.96877,FALSE,TRUE,
+Oak Haven United Methodist Church,Fellowship Hall,1600 N Irving Heights Dr,Irving,TX,75061,32.830561,-96.926502,FALSE,TRUE,
+Thomas Haley Elem School,Sm Gym,3601 Cheyenne St,Irving,TX,75062,32.85538095,-97.00148701,FALSE,TRUE,
+W T Hanes Elem School,Sm Gym,2730 Cheyenne St,Irving,TX,75062,32.8427524,-97.00280076,FALSE,TRUE,
+A S Johnston Elem School,Small Gym,2801 Rutgers Dr,Irving,TX,75062,32.8433868,-96.98436758,FALSE,TRUE,
+Brandenburg Elem,Small Gym,2800 Hillcrest Dr,Irving,TX,75062,32.8455609,-96.96537193,FALSE,TRUE,
+Macarthur High School,Dance Studio,3700 N Macarthur Blvd,Irving,TX,75062,32.8523634,-96.95676954,FALSE,TRUE,
+Irving Fire Station # 8,Bay,650 E Las Colinas Blvd,Irving,TX,75039,32.8685767,-96.9405056,FALSE,TRUE,
+Bear Creek Community Church,Breezeway,2700 Finley Rd,Irving,TX,75062,32.8503947,-96.98221964,FALSE,TRUE,
+T J Lee Elem School,Small Gym,1600 Carlisle St,Irving,TX,75062,32.8534179,-96.96649329,FALSE,TRUE,
+Travis Middle School,Gym,1600 Finley Rd,Irving,TX,75062,32.8500303,-96.96652917,FALSE,TRUE,
+North Lake College - F Bldg,Rm F105,5001 N Macarthur Blvd,Irving,TX,75038,32.879221,-96.963064,FALSE,TRUE,
+Singley Academy,Auditorium Foyer,4601 N MacArthur Blvd,Irving,TX,75038,32.868117,-96.961836,FALSE,TRUE,
+Sam Houston Middle School - IRISD,Aux Gym,3033 Country Club Dr W,Irving,TX,75038,32.8621,-96.9867,FALSE,TRUE,
+Irving Arts Center,Ste 203,3333 N Macarthur Blvd,Irving,TX,75062,32.905012,-96.958858,FALSE,TRUE,
+Las Colinas Elem School,Library,2200 Kinwest Pkwy,Irving,TX,75063,32.9157721,-96.97823141,FALSE,TRUE,
+Barbara Cardwell Career Prep,Main Hallway,101 E Union Bower Rd,Irving,TX,75061,32.821304,-96.946122,FALSE,TRUE,
+Mustang Park Rec Center,Large Activity Room,2223 Kinwest Pkwy,Irving,TX,75063,32.91711915,-96.97860773,FALSE,TRUE,
+Britain Elementary School,Small Gym,631 Edmondson Dr,Irving,TX,75060,32.8054655,-96.93937286,FALSE,TRUE,
+Irving Fire Station #2,Bay,1306 N Story Rd,Irving,TX,75061,32.82619396,-96.97633806,FALSE,TRUE,
