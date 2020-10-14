@@ -1,6 +1,7 @@
 import { Request, Response } from "express";
 import * as locationsService from "../services/locations";
 import Location from "../interfaces/Location";
+import Coordinates from "../interfaces/Coordinates";
 import GeocodingSearchParameters from "../interfaces/GeocodingSearchParameters";
 
 async function getHandler(req: Request, res: Response): Promise<void> {
@@ -17,13 +18,13 @@ async function getHandler(req: Request, res: Response): Promise<void> {
     const includeVotingDayLocations: boolean = ((req.query as any).votingDayLocations == "true");
 
     try {
-        const locations: Location[] = await locationsService.getLocations(referenceLocation, limit, offset, includeEarlyVotingLocations, includeVotingDayLocations);
-        res.send(locations);
+        const referenceCoordinates: Coordinates = await locationsService.fetchCoordinates(referenceLocation);
+        const votingLocations: Location[] = await locationsService.queryVotingLocations(includeEarlyVotingLocations, includeVotingDayLocations);
+        const nearestLocations: Location[] = await locationsService.getLocations(votingLocations, referenceCoordinates, limit, offset);
+        res.send(nearestLocations);
     } catch (error) {
         res.status(404).send({ error });
     }
-
-    return;
 }
 
 export { getHandler };

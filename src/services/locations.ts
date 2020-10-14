@@ -6,18 +6,14 @@ import Coordinates from "../interfaces/Coordinates";
 import GeocodingSearchParameters from "../interfaces/GeocodingSearchParameters";
 import db from "./db";
 
-async function getLocations(referenceLocation?: GeocodingSearchParameters, limit: number = 500, offset: number = 0, includeEarlyVotingLocations: boolean = false, includeVotingDayLocations: boolean = false): Promise<Location[]> {
-    let votingLocations: Location[] = await queryVotingLocations(includeEarlyVotingLocations, includeVotingDayLocations);
-
-    if (referenceLocation) {
-        const referenceCoordinates = await fetchCoordinates(referenceLocation);
-        console.log(referenceCoordinates);
+async function getLocations(votingLocations: Location[], reference: Coordinates, limit: number = 500, offset: number = 0): Promise<Location[]> {
+    if (reference) {
         votingLocations = votingLocations.sort((a, b) => {
-            const distA = getDistance(referenceCoordinates, {
+            const distA = getDistance(reference, {
                 latitude: a.latitude!,
                 longitude: a.longitude!
             });
-            const distB = getDistance(referenceCoordinates, {
+            const distB = getDistance(reference, {
                 latitude: b.latitude!,
                 longitude: b.longitude!
             });
@@ -38,7 +34,7 @@ async function fetchCoordinates(location: GeocodingSearchParameters): Promise<Co
         "useQueryString": "true"
     };
     const querystring: string = qs.encode({ ...location, format: "json" });
-    console.log(querystring);
+
     try {
         const response = await fetch(baseUrl + querystring, { headers });
         const responseJson: any[] = await response.json();
@@ -66,4 +62,4 @@ async function queryVotingLocations(includeEarlyVotingLocations: boolean, includ
     }
 }
 
-export { getLocations, fetchCoordinates };
+export { getLocations, fetchCoordinates, queryVotingLocations };
