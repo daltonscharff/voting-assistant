@@ -29,14 +29,14 @@ function nearestLocationResponseBuilder(text: string, locations: Location[], lan
     for (let location of locations) {
         let locationString = location.name;
         if (location.room) locationString += `, ${location.room}`;
-        locationString += `\n${location.address}, ${location.city}, ${location.state}`;
-        if (location.waitMinutes) {
+        if (location.waitMinutes != null && location.waitMinutes > 0) {
             if (language == "en") {
                 locationString += `\nWait time: ${location.waitMinutes} minutes`;
             } else {
                 locationString += `\nTiempo de espera: ${location.waitMinutes} minutos`;
             }
         }
+        locationString += `\n${location.address}, ${location.city}, ${location.state}`;
         response += `\n\n${locationString}`;
     }
     return response;
