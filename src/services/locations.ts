@@ -5,6 +5,10 @@ import Location from "../interfaces/Location";
 import Coordinates from "../interfaces/Coordinates";
 import GeocodingSearchParameters from "../interfaces/GeocodingSearchParameters";
 import db from "./db";
+const redis = require("promise-redis")().createClient({
+    host: process.env.REDIS_HOST,
+    port: process.env.REDIS_PORT
+});
 
 function findNearestLocations(votingLocations: Location[], reference: Coordinates, limit: number = 500, offset: number = 0): Location[] {
     if (reference) {
@@ -27,13 +31,17 @@ function findNearestLocations(votingLocations: Location[], reference: Coordinate
 async function fetchCoordinates(location: GeocodingSearchParameters): Promise<Coordinates> {
     if (!location) throw "No location provided";
 
+    const querystring: string = qs.encode({ ...location, format: "json" });
+    let locationCoordinates: Coordinates | null = await redis.hgetall(querystring);
+
+    if (locationCoordinates) return redis.hgetall(querystring);
+
     const baseUrl: string = "https://forward-reverse-geocoding.p.rapidapi.com/v1/forward?"
     const headers: {} = {
         "x-rapidapi-host": "forward-reverse-geocoding.p.rapidapi.com",
         "x-rapidapi-key": process.env.RAPID_API_KEY!,
         "useQueryString": "true"
     };
-    const querystring: string = qs.encode({ ...location, format: "json" });
 
     try {
         const response = await fetch(baseUrl + querystring, { headers });
@@ -43,10 +51,13 @@ async function fetchCoordinates(location: GeocodingSearchParameters): Promise<Co
 
         const recommendedLocation = responseJson[0];
 
-        return {
+        locationCoordinates = {
             latitude: recommendedLocation.lat,
             longitude: recommendedLocation.lon
-        };
+        }
+
+        redis.hmset(querystring, locationCoordinates);
+        return locationCoordinates;
     } catch (e) {
         throw "Could not fetch coordinates"
     }
