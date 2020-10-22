@@ -32,6 +32,7 @@
     "express": "^4.17.1",
     "geolib": "^3.3.1",
     "node-fetch": "^2.6.1",
+    "promise-redis": "0.0.5",
     "querystring": "^0.2.0",
     "sqlite3": "^5.0.0",
     "twilio": "^3.49.4"
