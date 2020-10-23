@@ -2,15 +2,9 @@
 
 For the 2020 general election, I created this application to allow Dallas County voters to easily find their closest polling locations and assess the wait times, where available, via text message. Responses were in either English or Spanish depending on the user's trigger word (*vote* or *votar*).
 
-### Examples
-<figure style="display: inline-block">
-    <img src="https://user-images.githubusercontent.com/14829777/96941115-395dd500-1497-11eb-9cb8-0f06bb98116b.jpg" width="200px">
-    <figcaption>Text Response in English</figcaption>
-</figure>
-<figure style="display: inline-block">
-    <img src="https://user-images.githubusercontent.com/14829777/96941117-3b279880-1497-11eb-8d9d-ab921afcad45.jpg" width="200px">
-    <figcaption>Text Response in Spanish</figcaption>
-</figure>
+Text Response in English | Text Response in Spanish
+--- | ---
+<img src="https://user-images.githubusercontent.com/14829777/96941115-395dd500-1497-11eb-9cb8-0f06bb98116b.jpg" width="200px"> | <img src="https://user-images.githubusercontent.com/14829777/96941117-3b279880-1497-11eb-8d9d-ab921afcad45.jpg" width="200px">
 
 ### Technologies
 * Node.js with Typescript
