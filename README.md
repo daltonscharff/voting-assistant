@@ -1,6 +1,6 @@
 # Dallas County Voting Assistant
 
-For the 2020 general election, I created this application to allow Dallas County voters to easily find their closest polling locations and assess the wait times, where available, via text message. Responses were in either English or Spanish depending on the user's trigger word (*vote* or *votar*).
+For the 2020 general election, I created this application to allow Dallas County voters to find their closest polling locations via text message. After sending a trigger word (*vote* for English or *votar* for Spanish), the bot asks for the user's ZIP code and responds with three of the closest locations along with their corresponding wait times.
 
 Text Response in English | Text Response in Spanish
 --- | ---
@@ -13,7 +13,7 @@ Text Response in English | Text Response in Spanish
 * Redis - cache calls to geocoding web service
 * Twilio - send and receive text messages
 
-### Setup
+## Installation
 1. Install Node.js >= 12, SQLite, and Redis
 
 2. After cloning the repository, create a file called .env 
@@ -48,8 +48,15 @@ npm run dev
 
 5. Connect to the SQLite database located in data/db.sqlite and run all queries found in sql/locations.sql and sql/users.sql
 
-6. Run the application
+
+## Usage
 ```
 npm run build
 npm start
 ```
+
+## Contributing
+Contributions are welcome! I would love to expand this to multiple cities if there is interest.
+
+## License
+[GNU General Public License v3.0](https://github.com/daltonscharff/voting-assistant/blob/master/LICENSE)
